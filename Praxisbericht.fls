@@ -1,6 +1,6 @@
-PWD /Users/I570199/Desktop/DHBW_PA1_VSCode-Text/LaTeX_SAP-Vorlage_PA_13.06.23
+PWD /Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23
 INPUT /usr/local/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/I570199/Desktop/DHBW_PA1_VSCode-Text/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
+INPUT /Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
 OUTPUT Praxisbericht.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
