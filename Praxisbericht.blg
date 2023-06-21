@@ -1,9 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
-[0] Config.pm:310> INFO - Logfile is 'Praxisbericht.blg'
-[56] biber-darwin:340> INFO - === Mon Jun 12, 2023, 09:36:10
-[69] Biber.pm:418> INFO - Reading 'Praxisbericht.bcf'
-[134] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
-[144] bbl.pm:654> INFO - Writing 'Praxisbericht.bbl' with encoding 'UTF-8'
-[144] bbl.pm:757> INFO - Output to Praxisbericht.bbl
-[144] Biber.pm:130> WARN - The file 'Praxisbericht.bcf' does not contain any citations!
-[144] Biber.pm:132> INFO - WARNINGS: 1
