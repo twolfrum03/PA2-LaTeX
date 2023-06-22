@@ -1,19 +1,24 @@
-\chapter{Theoretische Grundlagen}
+\chapter{Theoretische Grundlagen \textcolor{red}{T-Shirt Size: XL}}
 
-Hier überhaupt Text? Wenn dann vlt. was nach dem Motto ''Im folgenden werden die theoretischen Grundlagen der Arbeit gelegt'' -> eigentlich unnötig?
+Im Folgenden sollen die theoretischen Grundlagen für die nachfolgende vergleichende Darstellung der Umsetzung sequentieller Prozesse im REST-Umfeld gelegt werden. Zuerst wird grundsätzlich erklärt, was eine RESTful-API ist und danach wird auf die Umsetzung von REST in ABAP näher erleutert. Abgeschlossen wird der theoretische Teil der Arbeit mit einer Darstellung von Fiori Elements, dem Framework zur Entwicklung von Fiori Apps.
+\section{RESTful Application Programming Interface (API) \textcolor{red}{T-Shirt Size: L}}
 
-\section{RESTful Application Programming Interface (API)}
+Erstmal die theoretischen Grundlagen einer RESTful-API zu legen.
 
-Erstmal die theoretischen Grundlagen einer RESTful-API zu legen
+Eine API ist eine Schnittstelle, über die verschiedene Softwareanwendungen miteinander kommunizieren können. Die API definiert die Methoden, Protokolle und Tools, die für den Zugriff auf die Funktionen und Daten einer Softwareanwendung verwendet werden können. Somit standardisiert eine API die Kommunikation verschiedener Anwendungen und ermöglicht den Zugriff auf bereitgestellte Daten ohne dass die zugreifende Anwendung die interne Logik oder Implementierung der anderen Anwendung kennen muss.
 
-\section{ABAP Restful Application Programming Model (RAP)}
+Eine RESTful-API ist eine spezielle Schnittstelle, die den Designkonventionen nach REST folgt.
+
+Das erste Prinzip ist die Client-Server-Architektur. Das bedeutet, dass die Benutzeroberfläche von den gespeicherten Daten getrennt wird. Die Benutzeroberfläche und Sitzung existiert nur auf dem Client und die gespeicherten Daten oder zur verfügung gestellten Funktionen existieren nur auf dem Server. Somit wird die Portierbarkeit und Skalierbarkeit des Gesamtsystems verbessert. Zudem wird die Möglichkeit einer unabhängigen Weiterentwicklung der verschiedenen Komponenten sichergestellt.
+
+Zudem soll eine RESTful-API zustandslos angelegt sein. Das hei{\ss}t im Genaueren, dass die Kommunikation der verschiedenen Parteien zustandslos sein muss. Es muss für den Server somit möglich sein, die Anfrage des Clients vollständig zu verstehen und zu verarbeiten, ohne zusätzlich auf vergangene Anfragen zugreifen zu müssen. Auf der anderen Seite bedeutet das auch, dass der Client jede Antwort des Servers ohne zusätzliche Inforamtionen, die eventuell zu einem früheren Zeitpunkt angefordert wurden verstehen können muss. Das hei{\ss}t, dass in jeder Anfrage immer alle notwendigen Informationen mitgeschickt werden müssen und von keinem ''Vorwissen'' ausgegangen werden darf. Das hat wiederum zur Folge, dass Sitzungsinformationen ausschlie{\ss}lich auf dem Client gespeichert werden. Durch diese Bedingung verbessert sich die Skalierbarkeit weiter, da der Server Ressourcen, die ansonsten für die Speicherung der Stati der Requests benötigt würden, nicht freihalten muss. Zudem steigt die Zuverlässigkeit der Schnittstelle, da bei einem Fehler immer nur eine Request betrachtet werden muss. Somit ist ein Fehler einfacher behebbar und hat keine Auswirkungen auf andere Anfragen. Damit einher geht auch ein vereinfachtes Monitoring, da immer nur eine Request betrachtet werden muss und nicht erst eine Kette zusammenhängender Anfragen nachvollzogen werden muss.
+
+Die dritte Designkonvention besagt, dass auf der Client Seite ein Cache vorhanden sein muss. Durch das implizite oder explizite Markieren von Daten als cache-fähig dürfen die Anfrage-Daten vom Client für spätere identische Requests wiederverwendet werden.
+
+\section{ABAP Restful Application Programming Model (RAP) \textcolor{red}{T-Shirt Size: L}}
 
 Hier dann nochmal auf ABAP RAP eingehen, wie REST hier umgesetzt wird
 
-\section{SAP Fiori Elements}
+\section{SAP Fiori Elements \textcolor{red}{T-Shirt Size: L}}
 
 Erklären was Fiori Elements ist, auch auf technische Details eingehen (keine Logik im Frontend, Framework)
-
-%\section{Zusammenfassung}
-
-%Hier jetzt nochmal die verschiedenen Lösungsansätze zusammenfassen, ggf. auch die zugrundeliegenden Technologien, der ersten Unterkapitel
