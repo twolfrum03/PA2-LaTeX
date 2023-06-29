@@ -684,7 +684,6 @@ OUTPUT Praxisbericht.toc
 OUTPUT Inhalt/03_Verzeichnisse/abkuerzungen.aux
 INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT ./Praxisbericht.lof
 INPUT ./Praxisbericht.lof
 OUTPUT Praxisbericht.lof
