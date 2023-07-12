@@ -697,6 +697,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
 OUTPUT Inhalt/04_Inhalt/2_Grundlagen.aux
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
 INPUT ./Inhalt/04_Inhalt/2_Grundlagen.tex
+INPUT ./Bilder/RAP_Architektur.png
+INPUT ./Bilder/RAP_Architektur.png
+INPUT ./Bilder/RAP_Architektur.png
 OUTPUT Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex

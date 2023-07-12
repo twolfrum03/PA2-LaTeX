@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  11 JUL 2023 13:54
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  11 JUL 2023 17:05
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1833,12 +1833,32 @@ LaTeX Warning: Hyper reference `acro:RAP' on page IV undefined on input line 16.
 
 LaTeX Warning: Hyper reference `acro:RAP' on page IV undefined on input line 16.
 
+
+LaTeX Warning: Hyper reference `acro:ABAP' on page IV undefined on input line 17.
+
+
+LaTeX Warning: Hyper reference `acro:ABAP' on page IV undefined on input line 17.
+
+
+LaTeX Warning: Hyper reference `acro:CDS' on page IV undefined on input line 18.
+
+
+LaTeX Warning: Hyper reference `acro:CDS' on page IV undefined on input line 18.
+
+
+LaTeX Warning: Hyper reference `acro:BO' on page IV undefined on input line 19.
+
+
+LaTeX Warning: Hyper reference `acro:BO' on page IV undefined on input line 19.
+
 ) [4
 
 
 ]
 Package tocbasic Info: character protrusion at lof deactivated on input line 82.
- (./Praxisbericht.lof)
+ (./Praxisbericht.lof
+Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+)
 \tf@lof=\write7
 
 \openout7 = Praxisbericht.lof
@@ -1874,20 +1894,30 @@ chapter 2.
 
 
 
-] [6] [7] [8]) [9]
+] [6] [7] [8]
+<Bilder/RAP_Architektur.png, id=153, 916.1728pt x 516.42938pt>
+File: Bilder/RAP_Architektur.png Graphic file (type png)
+<use Bilder/RAP_Architektur.png>
+Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 39.
+(luatex.def)             Requested size: 403.81625pt x 227.62204pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10<./Bilder/RAP_Architektur.png>]) [11] [12]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-) [10
+) [13
 
 
 
 
-] [11]
+] [14]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-) [12
+) [15
 
 
 
@@ -1908,19 +1938,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51149 strings out of 478285
- 125007,2373549 words of node,token memory allocated
- 899 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 2 glyph, 27 attribute, 114 glue_spec, 15 attribute_list, 6 write nodes
-   avail lists: 1:7,2:1791,3:377,4:238,5:656,6:125,7:10229,8:2,9:628,10:29,11:1237
- 69283 multiletter control sequences out of 65536+600000
+ 51180 strings out of 478285
+ 125011,2373549 words of node,token memory allocated
+ 904 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 2 glyph, 27 attribute, 115 glue_spec, 15 attribute_list, 6 write nodes
+   avail lists: 1:6,2:1791,3:376,4:238,5:656,6:126,7:10229,8:2,9:628,10:29,11:1237
+ 69301 multiletter control sequences out of 65536+600000
  59 fonts using 4052711 bytes
  113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (19 pages, 217019 bytes).
+Output written on Praxisbericht.pdf (22 pages, 264618 bytes).
 
-PDF statistics: 260 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 131072)
+PDF statistics: 281 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 131072)
  192 words of extra memory for PDF output out of 10000 (max. 100000000)
 
