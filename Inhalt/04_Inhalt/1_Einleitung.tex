@@ -1,14 +1,14 @@
-\chapter{Einleitung \textcolor{red}{T-Shirt Size: L}}
+\chapter{Einleitung}
 
-\section{Unternehmensprofil und Anwendungsbezug \textcolor{red}{T-Shirt Size: S}}
+\section{Unternehmensprofil und Anwendungsbezug}
 
 SAP ist ein börsennotierter Softwarekonzern mit Sitz in Walldorf. Das Unternehmen wurde 1972 von 5 IBM-Mitarbeitern, darunter Hasso Plattner und Dietmar Hopp gegründet. Das Hauptgeschäft ist die Entwicklung von Unternehmenssoftware zur Abwicklung von Geschäftsprozessen, unter anderem in den Berichen Buchführung, Controlling, Vertrieb, Einkauf, Produktion, Lagerhaltung, Transport und Personalwesen. Für das Unternehmen arbeiten heute 105.000 Mitarbeiter an Standorten in 157 Ländern und erwirtschaften einen Umsatz von ca. 29,5 Mrd. \euro{}. Erfolgreich wurde das Unternehmen mit seinem Standardsoftwarepaket SAP R/2 für Gro{\ss}rechnersysteme und später mit SAP R/3 für Client-Server-Systeme. Die Vorstellung der Mittelstandslösung SAP ByDesign im Jahr 2007 als Cloud-Produkt läutete die bis heute andauernde Transformation der gesamten Produktpallette in Richtung Cloud/ SaaS ein, die 2015 mit der Einführung von S/4 HANA als Hauptprodukt noch einmal verstärkt wurde.
 
 Die Abteilung AIS HCM ist Teil des Unternehmensbereichs Product Engineering und zuständig für 2nd-Level-Support und Eigenentwicklungen für die on-premise Variante der SAP Personallösung HCM. Die Kunden der Abteilung sind Unternehmen die HCM verwenden und zusätzlich Wartungsverträge mit der SAP abgeschlossen haben. Somit ist das Hauptgeschäft tiefergehende Probleme, die durch den 1st-Level Product-Support nicht gelöst werden können, zu beheben und kleinere Features für Kunden mit speziellen Anforderungen umzusetzen. Zudem stellt die Abteilung mehrere SAP Fiori Apps als Self-Service für Mitarbeiter \zB um Urlaub zu beantragen und Manager \zB um Urlaubsanträge zu bearbeiten, bereit. Auch diese Fiori Apps sind vom technologischen Wandel der SAP betroffen und dadurch ergeben sich hier relevante Änderungen, die im nachfolgenden Kapitel noch genauer beschrieben werden. Durch das hohe Nutzungsvolumen dieser Apps und der somit gro{\ss}en betriebswirtschaftlichen Relevanz, sind diese und auch der Untersuchungsgegenstand dieser Arbeit für das Produkt HCM von gro{\ss}er Bedeutung.
 
-\section{Motivation und Problemstellung \textcolor{red}{T-Shirt Size: S}}
+\section{Motivation und Problemstellung}
 
-Im Folgenden Kapitel soll dargestellt werden, welche Probleme sich durch gewisse technische Veränderungen der SAP Produkten ergeben und sich somit für eine wissenschaftliche Untersuchung im Rahmen dieser Arbeit anbieten.
+Im folgenden Kapitel soll dargestellt werden, welche Probleme sich durch gewisse technische Veränderungen der SAP Produkten ergeben und sich somit für eine wissenschaftliche Untersuchung im Rahmen dieser Arbeit anbieten.
 
 Die von der Abteilung betriebenen Fiori Apps, die schon im Zusammenhang der Einleitung angesprochen wurden, sind auf Basis des Frameworks SAP UI5 auf HTML5 Basis für ein älteres Produkt - SAP ERP - entwickelt worden. In diesem Produkt sind viele relevante Funktionen, die mit der neuen ERP-Lösung S/4 HANA eingeführt werden, nicht vorhanden. Da der Support für diese Anwendung 2027 ausläuft, ist der Umstieg von auf S/4 HANA für viele Kunden ein relevantes Thema. Im neuen S/4 HANA System (''S/4'' abgekürzt) finden somit auch die S/4-Design-Guidelines Anwendung. Das sind Vorgaben die gewisse Aspekte, wie \zB Oberflächen-Design oder Technologien, die bei der Entwicklung in diesem System verwendet werden müssen, festlegt. Die in den Richtlinien festgelegten neueren Technologien stimmen jedoch nicht mit denen überein, die zur Entwicklungszeit von HCM verwendet wurden.
 
@@ -20,15 +20,16 @@ Es ist dennoch wichtig die Möglichkeit zu haben solche asynchronen Geschäftspr
 
 In der vorliegenden Arbeit soll nun untersucht werden, wie sich solche asynchronen Prozesse, trotz den eben dargelegten Einschränkungen trotzdem im neuen S/4 HANA Umfeld mit den neueren Technologien umsetzen lassen.
 
-\section{Abgrenzung \textcolor{red}{T-Shirt Size: S}}
+\section{Aufbau und Ziel der Arbeit}
 
-Hier die Arbeit klar abgrenzen, also was genau behandelt wird und eben was auch nicht betrachtet wird (\zB) das keine Implementierung der vorgestellten Ansätze erfolgen soll, (wenn dann nur kleiner Prototyp)
-Ggf. auch kurz darauf eingehen welche Ansätze auch nicht beleutet werden
+Im Folgenden wird der Aufbau und das Ziel der Arbeit thematisiert.
 
+Als erstes wird im einleitenden Kapitel die SAP und die Abteilung AIS HCM, in der die Praxisphase absolviert wurde, kurz vorgestellt und somit der Anwendungsbezug der Arbeit hergestellt. Danach wird mit der Motivation und Problemstellung der Untersuchungsgegenstand und die Bedeutung der Arbeit für die Abteilung und die Kunden erläutert. Danach soll die Arbeit klar von verwandten Themen abgegrenzt werden, um einen klaren Rahmen für die Untersuchung zu schaffen. Im methodischen Vorgehen werden dann abschließend für die Einleitung noch auf die wissenschaftlichen Methoden, die verwendet wurden, um die Untersuchungsergebnisse zu erhalten, eingegangen. Der Hauptteil der Arbeit besteht aus zwei Teilen: Im ersten Teil werden die theoretischen Grundlagen der Arbeit gelegt. Hier werden die Designprinzipien einer RESTful API, wie diese im RESTful Application Programming Model der SAP eingesetzt werden und die Technologie Fiori Elements näher beleuchtet. Der praktische Hauptteil stellt drei Ansätze vor, wie das in der Problemstellung thematisierte Problem gelöst werden kann. Hierfür werden die Technologien Business Workflows, Business Events und das Background Processing Framework vorgestellt und im Bezug auf Stärken und Schächen sowie Effizienz und Robustheit verglichen. Diese Ergebnisse werden dann in einer Entscheidungsmatrix dargestellt. Das Ziel soll es sein, dass diese Entscheidungsmatrix klare Tendenzen gibt, welche der untersuchten Technologien sich im konkreten Anwendungsfall für das Abbilden von asynchronen Prozessen im RESTful API Umfeld anbietet. Im Schlussteil werden die Ergebnisse der Arbeit nochmals zusammengefasst, eine konkrete Handlungsempfehlung für die Lösung dieses Problems gegeben und die Ergebnisse abschließend kritisch Reflektiert und ein Ausblick auf zukünftige Entwicklungen gegeben.
 
+\section{Abgrenzung}
 
-\section{Methodisches Vorgehen \textcolor{red}{T-Shirt Size: S}}
+In diesem Kapitel soll die Arbeit klar von verwandten Themen abgegrenzt werden um einen klaren Rahmen für die Untersuchung zu schaffen. Der Zweck der vorliegenden Arbeit ist es, die drei vorgestellten Technologien vergleichend zu bewerten und je nach Anwendungsfall eine Handlungsempfehlung im Bezug auf eine sich anbietende Technologie zu geben. Über diese drei Technologien hinaus werden keine anderen Möglichkeiten asynchrone Prozesse abzubilden, wie \zB im Cloud Application Programming Model (CAP) behandelt.  Nicht behandelt werden die Technologien \textcolor{red}{HIER TECHNOLOGIEN EINFÜGEN} Au{\ss}erdem findet aufgrund des beschränkten Umfangs der Arbeit lediglich ein Vergleich der Technologien statt und keine direkte Implementierung dieser in einem konkreten Anwendungsfall. Hierfür sei auf die offizielle Dokumentation der SAP für die respektiven Technologien verwiesen.
+
+\section{Methodisches Vorgehen}
 
 Wie werden die Ansätze betrachtet? Wie kommt die Handlungsempfehlung zustande?
-
-Nachdem zunächst im theoretischen Teil der Arbeit die Grundlagen für die verschiedenen Ansätze sequentielle Prozesse im RESTful-API Umfeld abzubilden gelegt werden, 
