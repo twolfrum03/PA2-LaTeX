@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  12 JUL 2023 15:23
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  12 JUL 2023 16:55
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1496,7 +1496,11 @@ Package biblatex Warning: Conflicting options.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
+(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux
+
+LaTeX Warning: Label `fig:iso_norm' multiply defined.
+
+) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 \openout1 = Praxisbericht.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -1865,6 +1869,7 @@ LaTeX Warning: Hyper reference `acro:UI' on page IV undefined on input line 20.
 Package tocbasic Info: character protrusion at lof deactivated on input line 82.
  (./Praxisbericht.lof
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
 \tf@lof=\write7
 
@@ -1902,25 +1907,31 @@ chapter 2.
 
 
 ] [6] [7] [8]
-<Bilder/RAP_Architektur.png, id=156, 916.1728pt x 516.42938pt>
+<Bilder/RAP_Architektur.png, id=158, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
 Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 36.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
- [9<./Bilder/RAP_Architektur.png>] [10] [11] [12]) [13]
+ [9<./Bilder/RAP_Architektur.png>] [10] [11] [12]
+<Bilder/Fiori_Elements_List_Floorplan.png, id=176, 700.11563pt x 314.67563pt>
+File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
+<use Bilder/Fiori_Elements_List_Floorplan.png>
+Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 63.
+(luatex.def)             Requested size: 316.51268pt x 142.26378pt.
+) [13<./Bilder/Fiori_Elements_List_Floorplan.png>] [14]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-) [14
+[15
 
 
 
 
-] [15]
+]) [16]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-) [16
+) [17
 
 
 
@@ -1933,6 +1944,9 @@ LaTeX Warning: Empty bibliography on input line 122.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `Praxisbericht.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
@@ -1941,19 +1955,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51186 strings out of 478285
+ 51200 strings out of 478285
  100000,2373549 words of node,token memory allocated
  904 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 2 glyph, 27 attribute, 115 glue_spec, 15 attribute_list, 6 write nodes
-   avail lists: 1:3,2:1732,3:389,4:162,5:636,6:123,7:9844,8:2,9:643,10:29,11:1199
- 69304 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:1731,3:390,4:162,5:636,6:123,7:9842,8:2,9:643,10:29,11:1197
+ 69310 multiletter control sequences out of 65536+600000
  59 fonts using 4052711 bytes
  113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (23 pages, 269366 bytes).
+Output written on Praxisbericht.pdf (24 pages, 444868 bytes).
 
-PDF statistics: 291 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 131072)
+PDF statistics: 300 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 65 named destinations out of 1000 (max. 131072)
  200 words of extra memory for PDF output out of 10000 (max. 100000000)
 
