@@ -703,6 +703,9 @@ INPUT ./Bilder/RAP_Architektur.png
 INPUT ./Bilder/Fiori_Elements_List_Floorplan.png
 INPUT ./Bilder/Fiori_Elements_List_Floorplan.png
 INPUT ./Bilder/Fiori_Elements_List_Floorplan.png
+INPUT ./Bilder/Fiori_Elements_Object_Floorplan.png
+INPUT ./Bilder/Fiori_Elements_Object_Floorplan.png
+INPUT ./Bilder/Fiori_Elements_Object_Floorplan.png
 OUTPUT Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex

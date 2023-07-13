@@ -52,17 +52,28 @@ Die dritte und oberste Ebene der RAP Architektur ist für das Konsumieren der Da
 
 \section{SAP Fiori Elements}
 
+
+
 Fiori Elements ist ein Framework zum entwickeln benutzerfreundlicher und ansprechender Anwendungen. Apps werden auf Basis von OData-Services und UI-Annotationen in den CDS Entitäten fast automatisch generiert. Somit ist im Gegensatz zur älteren SAP UI5 Freestyle Technologie kein JavaScript Coding mehr nötig um das Front-End zu programmieren. Elements benutzt vordefinierte Layouts und Controller für Aktionen der App.
 
 Fiori Elements bietet drei zentrale Vorteile: Es soll dabei helfen, dass sich Entwickler auf die spezifische Geschäftsprozess-Logik und die Back-End Entwicklung fokussieren und somit weniger Zeit für die Programmierung der Benutzeroberfläche benötigen, was insgesamt zu einer verkürzten Entwicklungszeit von Apps und somit auch für niedrigere Entwicklungskosten sorgt. Zudem wird die Kontinuität des UI über alle Fiori Apps hinweg und die Übereinstimmung der Apps mit den SAP Designkonventionen sichergestellt. Die Benutzer der Apps haben so eine einheitliche Benutzungserfahrung (Layout, Navigation, Suche, ...) über alle Apps hinweg. Zudem stellt das zentrale Framework auch sicher, dass der Programmcode für die Benutzeroberflächen der Apps immer sofort funktioniert und bietet au{\ss}erdem weitere Funktionen wie Übersetzungen und Unterstützung für mobile Entgeräte. Diese Vorteile tragen wiederum zu einer reduzierten Entwicklungszeit und somit einem Kostenersparnis bei.
 
 Apps sind in Fiori Elements immer auf vordefinierten Layouts aufgebaut. Diese können am Anfang der Entwicklung einer App ausgewählt werden und geben das generelle Aussehen und Funktionen vor.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
-    \includegraphics[height=5cm]{Bilder/Fiori_Elements_List_Floorplan.png}
+    \includegraphics[height=6cm]{Bilder/Fiori_Elements_List_Floorplan.png}
     \caption[Fiori Elements List Report Floorplan]{Fiori Elements List Report Floorplan}
     \label{fig:iso_norm}
 \end{figure}
 
-Auf dem Bild ist beispielhaft das Layout List Report zu sehen. Hier müssen nur die Produktdaten über einen OData Service bereitgestellt werden und die Darstellung der Daten über UI-Annotationen nach Bedarf angepasst werden. Die restliche Benutzeroberfläche wird vollständig durch das Framework generiert. 
+Auf dem Bild ist beispielhaft das Layout List Report zu sehen. Dieser kann verwendet werden, wenn der Zweck der Anwendung das Arbeiten mit einer Liste von Dingen \zB Produkten ist. Diese werden dann in einer sortierten Tabelle dargestellt, in der der Benutzer nach Einträgen sortieren, filtern und suchen kann. Hier müssen nur die Produktdaten über einen OData Service bereitgestellt werden und die Darstellung der Daten über UI-Annotationen nach Bedarf angepasst werden. Die restliche Benutzeroberfläche mit Navigation, Suchleisten und Aktionen wird vollständig durch das Framework generiert. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=6cm]{Bilder/Fiori_Elements_Object_Floorplan.png}
+    \caption[Fiori Elements Object Page Floorplan]{Fiori Elements Object Page Floorplan}
+    \label{fig:iso_norm}
+\end{figure}
+
+Das List Report Layout wird häufig mit der dem Object Page Floorplan in einer App kombiniert, wenn es darum geht, mit den einzelnen Objekten in der Liste zu arbeiten. Die Objekt-Ansicht wird durch einen Klick auf das gewünschte Objekt in der Listen-Ansicht aufgerufen. Hier können dann weitere Informationen zu \zB einem Produkt angezeigt und bei Bedarf auch bearbeitet werden.
