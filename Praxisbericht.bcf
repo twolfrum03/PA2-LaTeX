@@ -2394,6 +2394,8 @@
     <bcf:citekey order="31" intorder="1">sap_business-workflows_2022-1</bcf:citekey>
     <bcf:citekey order="32" intorder="1">sap_business-workflows_2022-1</bcf:citekey>
     <bcf:citekey order="33" intorder="1">sap_business-workflows_2022-1</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">sap_bgpf_2023</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">sap_bgpf_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
