@@ -752,6 +752,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT ./Bilder/Business-Workflows_Schema.png
 INPUT ./Bilder/Business-Workflows_Schema.png
 INPUT ./Bilder/Business-Workflows_Schema.png
+INPUT ./Bilder/Business-Events_BO-as-event-consumer.png
+INPUT ./Bilder/Business-Events_BO-as-event-consumer.png
+INPUT ./Bilder/Business-Events_BO-as-event-consumer.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png

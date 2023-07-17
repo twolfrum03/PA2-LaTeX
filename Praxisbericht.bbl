@@ -324,7 +324,7 @@
       \verb https://help.sap.com/docs/SAP_NETWEAVER_700/109b51f56c531014b4e7c143c4b731a9/4f41e8a0dd89535fe10000000a421937.html?locale=en-US
       \endverb
     \endentry
-    \entry{sap_bgpf_2023}{misc}{}
+    \entry{sap_business-events_2023}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
            family={SAP},
@@ -343,6 +343,85 @@
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Official SAP Documentation for Business Events}
+      \field{title}{Business {Events} {|} {SAP} {Help} {Portal}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Business Events | SAP Help Portal:/Users/I570199/Zotero/storage/J82U6AEI/business-events.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/btp/sap-abap-restful-application-programming-model/business-events
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/btp/sap-abap-restful-application-programming-model/business-events
+      \endverb
+    \endentry
+    \entry{sap_creating_2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={SAP},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \field{extraname}{8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Creating an {Event} {Consumption} {Model} {|} {SAP} {Help} {Portal}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Creating an Event Consumption Model | SAP Help Portal:/Users/I570199/Zotero/storage/9LBXWXDH/creating-event-consumption-model.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/btp/sap-abap-development-user-guide/creating-event-consumption-model?locale=en-US
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/btp/sap-abap-development-user-guide/creating-event-consumption-model?locale=en-US
+      \endverb
+    \endentry
+    \entry{sap_bgpf_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={SAP},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \field{extraname}{9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradate}{6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
