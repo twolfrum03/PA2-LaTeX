@@ -187,6 +187,7 @@
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -281,6 +282,46 @@
       \endverb
       \verb{url}
       \verb https://help.sap.com/docs/SAPUI5/9c39e0e47bde4ed993d07d56b3ce3e08/95d113be50ae40d5b0b562b84d715227.html?locale=en-US&state=DRAFT&version=1.98_SAPUI5
+      \endverb
+    \endentry
+    \entry{sap_business-workflows_2022-1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
+           family={SAP},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
+      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
+      \field{extraname}{6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Official SAP Documentation of Business Workflows}
+      \field{title}{{SAP} {Business} {Workflow} {|} {SAP} {Help} {Portal}}
+      \field{urlday}{17}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb SAP Business Workflow | SAP Help Portal:/Users/I570199/Zotero/storage/68WDBM9G/4f41e8a0dd89535fe10000000a421937.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_700/109b51f56c531014b4e7c143c4b731a9/4f41e8a0dd89535fe10000000a421937.html?locale=en-US
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_NETWEAVER_700/109b51f56c531014b4e7c143c4b731a9/4f41e8a0dd89535fe10000000a421937.html?locale=en-US
       \endverb
     \endentry
   \enddatalist

@@ -749,6 +749,9 @@ OUTPUT Inhalt/04_Inhalt/3_Praxisteil.aux
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
 INPUT ./Inhalt/04_Inhalt/3_Praxisteil.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT ./Bilder/Business-Workflows_Schema.png
+INPUT ./Bilder/Business-Workflows_Schema.png
+INPUT ./Bilder/Business-Workflows_Schema.png
 OUTPUT Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
