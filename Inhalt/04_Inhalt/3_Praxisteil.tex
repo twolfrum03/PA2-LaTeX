@@ -4,15 +4,15 @@ Im Folgenden werden die verschiedene praktische Lösungsansätze vorgestellt und
 
 \section{Lösungsansätze}
 
-Jetzt werden 3 verschiedene Lösungsansätze vorgestellt, wie man trotzdem sequentielle Prozesse/ asynchrone Kommunikation umsetzen kann
+Zunächst sollen drei verschiedene Technologien vorgestellt werden, mit denen sich asynchrone Prozesse mit sequentieller Kommunikation, trotz den Einschränkungen durch RAP und Fiori Elements, umsetzen lassen.
 
 \subsection{Business Workflows}
 
-Das ist die bisherige alte/ ineffiziente Lösung. Diese wird zwar noch vorgestellt, soll aber überdacht werden.
+Der erste mögliche Ansatz sind Business Workflows (BW abgekürzt).
 
 \subsection{Business Events}
 
-Eine Option wären die Verwendung von Business Events. Hier auch ggf. auf Probleme mit Event-Mesh (Cloud- bzw. BTP-Komponente) für onPremise-Systeme eingehen -> lokale Verarbeitung der Business Events? 
+Eine Option wären die Verwendung von Business Events. Hier auch ggf. auf Probleme mit Event-Mesh (Cloud- bzw. BTP-Komponente) für onPremise-Systeme eingehen -> lokale Verarbeitung der Business Events?
 
 \subsection{Background Processing Framework}
 
@@ -27,6 +27,4 @@ Vergleichskriterien:
 - BTP Event Mesh Cloud nötig in Systemlandschaft, andere Lösungen laufen nur lokal -> mehr Kosten,  Komplexität in Systemlandschaft, Datenschutz
 - Kosten
 - Performance (wshl verlieren BusinessEvents, Kommunikation über Systemgrenzen hinaus)
-- 
-
-Experteninterview: Marcel Herrmanns -> bgpf, BusinessEvents
+- Experteninterview: BusinessEvents (Martin Müller (+pgpf), Marcel Herrmanns, Daniel Wachs) 
