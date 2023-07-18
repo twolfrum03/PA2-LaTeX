@@ -8,35 +8,36 @@
 \contentsline {section}{\numberline {1.3}Aufbau und Ziel der Arbeit}{2}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Abgrenzung}{3}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Methodisches Vorgehen}{3}{section.1.5}%
-\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}RESTful Application Programming Interface}{5}{section.2.1}%
-\contentsline {subsubsection}{\nonumberline Client-Server-Architektur}{6}{subsubsection*.10}%
-\contentsline {subsubsection}{\nonumberline Zustandslosigkeit}{6}{subsubsection*.12}%
-\contentsline {subsubsection}{\nonumberline Caching}{6}{subsubsection*.14}%
-\contentsline {subsubsection}{\nonumberline Einheitliche Schnittstelle}{7}{subsubsection*.16}%
-\contentsline {subsubsection}{\nonumberline Schichtenarchitektur}{8}{subsubsection*.18}%
-\contentsline {subsubsection}{\nonumberline Code on Demand}{9}{subsubsection*.20}%
-\contentsline {section}{\numberline {2.2}ABAP Restful Application Programming Model}{9}{section.2.2}%
-\contentsline {subsubsection}{\nonumberline Modellierung von Daten und Verhalten}{10}{subsubsection*.23}%
-\contentsline {subsubsection}{\nonumberline Veröffentlichung des Business Service}{12}{subsubsection*.25}%
-\contentsline {subsubsection}{\nonumberline Konsumieren des Services}{14}{subsubsection*.27}%
-\contentsline {section}{\numberline {2.3}SAP Fiori Elements}{14}{section.2.3}%
-\contentsline {subsubsection}{\nonumberline Vergleich Fiori Elements - SAP UI5 Freestyle}{15}{subsubsection*.29}%
-\contentsline {subsubsection}{\nonumberline Model-View-Controller Konzept}{16}{subsubsection*.31}%
-\contentsline {subsubsection}{\nonumberline Floorplans in Fiori Elements}{17}{subsubsection*.34}%
-\contentsline {chapter}{\numberline {3}Praktischer Teil}{20}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Lösungsansätze}{20}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Business Workflows}{20}{subsection.3.1.1}%
-\contentsline {subsubsection}{\nonumberline Aufbau eines Business Workflows}{21}{subsubsection*.38}%
-\contentsline {subsection}{\numberline {3.1.2}Business Events}{23}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Background Processing Framework}{24}{subsection.3.1.3}%
-\contentsline {subsubsection}{\nonumberline bgPF innerhalb von RAP}{26}{subsubsection*.43}%
-\contentsline {subsection}{\numberline {3.1.4}Vergleich der Ansätze}{26}{subsection.3.1.4}%
-\contentsline {section}{\numberline {3.2}Entscheidungsmatrix}{27}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{29}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{29}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{29}{section.4.3}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{30}{chapter*.44}%
+\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}RESTful Application Programming Interface}{4}{section.2.1}%
+\contentsline {subsubsection}{\nonumberline Client-Server-Architektur}{5}{subsubsection*.10}%
+\contentsline {subsubsection}{\nonumberline Zustandslosigkeit}{5}{subsubsection*.12}%
+\contentsline {subsubsection}{\nonumberline Caching}{5}{subsubsection*.14}%
+\contentsline {subsubsection}{\nonumberline Einheitliche Schnittstelle}{6}{subsubsection*.16}%
+\contentsline {subsubsection}{\nonumberline Schichtenarchitektur}{7}{subsubsection*.18}%
+\contentsline {subsubsection}{\nonumberline Code on Demand}{8}{subsubsection*.20}%
+\contentsline {section}{\numberline {2.2}ABAP Restful Application Programming Model}{8}{section.2.2}%
+\contentsline {subsubsection}{\nonumberline Architektur eines Business Services in RAP}{9}{subsubsection*.22}%
+\contentsline {subsubsection}{\nonumberline Modellierung von Daten und Verhalten}{10}{subsubsection*.25}%
+\contentsline {subsubsection}{\nonumberline Veröffentlichung des Business Service}{11}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Konsumieren des Services}{13}{subsubsection*.29}%
+\contentsline {section}{\numberline {2.3}SAP Fiori Elements}{13}{section.2.3}%
+\contentsline {subsubsection}{\nonumberline Vergleich Fiori Elements - SAP UI5 Freestyle}{14}{subsubsection*.31}%
+\contentsline {subsubsection}{\nonumberline Model-View-Controller Konzept}{15}{subsubsection*.33}%
+\contentsline {subsubsection}{\nonumberline Floorplans in Fiori Elements}{16}{subsubsection*.36}%
+\contentsline {chapter}{\numberline {3}Praktischer Teil}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Lösungsansätze}{19}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Business Workflows}{19}{subsection.3.1.1}%
+\contentsline {subsubsection}{\nonumberline Aufbau eines Business Workflows}{20}{subsubsection*.40}%
+\contentsline {subsection}{\numberline {3.1.2}Business Events}{22}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Background Processing Framework}{23}{subsection.3.1.3}%
+\contentsline {subsubsection}{\nonumberline bgPF innerhalb von RAP}{25}{subsubsection*.45}%
+\contentsline {subsection}{\numberline {3.1.4}Vergleich der Ansätze}{25}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Entscheidungsmatrix}{26}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{28}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Zusammenfassung}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{28}{section.4.3}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{29}{chapter*.46}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
