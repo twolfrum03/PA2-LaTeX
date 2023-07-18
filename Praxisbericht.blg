@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Praxisbericht.blg'
-[37] biber-darwin:340> INFO - === Mon Jul 17, 2023, 19:00:06
-[46] Biber.pm:419> INFO - Reading 'Praxisbericht.bcf'
-[95] Biber.pm:979> INFO - Found 11 citekeys in bib section 0
-[103] Biber.pm:4419> INFO - Processing section 0
-[109] Biber.pm:4610> INFO - Looking for bibtex file 'Inhalt/literatur.bib' for section 0
+[40] biber-darwin:340> INFO - === Tue Jul 18, 2023, 14:26:44
+[50] Biber.pm:419> INFO - Reading 'Praxisbericht.bcf'
+[99] Biber.pm:979> INFO - Found 11 citekeys in bib section 0
+[108] Biber.pm:4419> INFO - Processing section 0
+[114] Biber.pm:4610> INFO - Looking for bibtex file 'Inhalt/literatur.bib' for section 0
 [118] bibtex.pm:1713> INFO - LaTeX decoding ...
-[194] bibtex.pm:1519> INFO - Found BibTeX data source 'Inhalt/literatur.bib'
-[240] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[240] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[240] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[240] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[246] bbl.pm:660> INFO - Writing 'Praxisbericht.bbl' with encoding 'UTF-8'
-[250] bbl.pm:763> INFO - Output to Praxisbericht.bbl
+[125] bibtex.pm:1519> INFO - Found BibTeX data source 'Inhalt/literatur.bib'
+[171] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[171] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[171] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[171] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[178] bbl.pm:660> INFO - Writing 'Praxisbericht.bbl' with encoding 'UTF-8'
+[181] bbl.pm:763> INFO - Output to Praxisbericht.bbl

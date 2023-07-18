@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  17 JUL 2023 19:00
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  18 JUL 2023 14:29
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1492,7 +1492,7 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 50.
+(biblatex)                Setting 'uniquename=init' on input line 51.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1522,43 +1522,43 @@ LaTeX Warning: Label `fig:iso_norm' multiply defined.
 ) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 \openout1 = Praxisbericht.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 51.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Info: Redefining \microtypecontext on input line 50.
-Package microtype Info: Applying patch `item' on input line 50.
-Package microtype Info: Applying patch `toc' on input line 50.
-Package microtype Info: Applying patch `eqnum' on input line 50.
-Package microtype Info: Applying patch `footnote' on input line 50.
-Package microtype Info: Applying patch `verbatim' on input line 50.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Info: Redefining \microtypecontext on input line 51.
+Package microtype Info: Applying patch `item' on input line 51.
+Package microtype Info: Applying patch `toc' on input line 51.
+Package microtype Info: Applying patch `eqnum' on input line 51.
+Package microtype Info: Applying patch `footnote' on input line 51.
+Package microtype Info: Applying patch `verbatim' on input line 51.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 50.
+LaTeX Info: Redefining \showhyphens on input line 51.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1623,7 +1623,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 51.
 (./Praxisbericht.out) (./Praxisbericht.out)
 \@outlinefile=\write5
 
@@ -1635,7 +1635,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 50.
+(scrreprt)           before \begin{document} on input line 51.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
@@ -1669,15 +1669,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Praxisbericht.bbl' found.
  (./Praxisbericht.bbl)
-Package biblatex Info: Reference section=0 on input line 50.
-Package biblatex Info: Reference segment=0 on input line 50.
+Package biblatex Info: Reference section=0 on input line 51.
+Package biblatex Info: Reference segment=0 on input line 51.
 \c@lstlisting=\count527
-Package scrhack Info: undefining \float@addtolists on input line 50.
+Package scrhack Info: undefining \float@addtolists on input line 51.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 50.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 56.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 51.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 57.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1773,7 +1773,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 75.
+Package tocbasic Info: character protrusion at toc deactivated on input line 76.
  (./Praxisbericht.toc
 Package tocbasic Info: Using my definition of `\numberline' on input line 2.
 Package tocbasic Info: Using my definition of `\numberline' on input line 3.
@@ -1786,19 +1786,20 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 13.
-Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 15.
-Package tocbasic Info: Using my definition of `\numberline' on input line 16.
-Package tocbasic Info: Using my definition of `\numberline' on input line 17.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
 Package tocbasic Info: Using my definition of `\numberline' on input line 19.
-Package tocbasic Info: Using my definition of `\numberline' on input line 20.
-Package tocbasic Info: Using my definition of `\numberline' on input line 21.
-Package tocbasic Info: Using my definition of `\numberline' on input line 22.
 Package tocbasic Info: Using my definition of `\numberline' on input line 23.
-Package tocbasic Info: Using my definition of `\numberline' on input line 24.
-Package tocbasic Info: Using my definition of `\numberline' on input line 25.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 31.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
+Package tocbasic Info: Using my definition of `\numberline' on input line 38.
+Package tocbasic Info: Using my definition of `\numberline' on input line 39.
+Package tocbasic Info: Using my definition of `\numberline' on input line 40.
 )
 \tf@toc=\write6
 
@@ -1928,7 +1929,7 @@ LaTeX Warning: Hyper reference `acro:BTP' on page IV undefined on input line 27.
 
 
 ]
-Package tocbasic Info: character protrusion at lof deactivated on input line 82.
+Package tocbasic Info: character protrusion at lof deactivated on input line 83.
  (./Praxisbericht.lof
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
@@ -1947,7 +1948,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 83.
+Package tocbasic Info: character protrusion at lot deactivated on input line 84.
  (./Praxisbericht.lot)
 \tf@lot=\write8
 
@@ -1995,11 +1996,11 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 
 
 
-] [2] [3]) [4]
+] [2]) [3] [4]
 \openout2 = Inhalt/04_Inhalt/2_Grundlagen.aux
  (./Inhalt/04_Inhalt/2_Grundlagen.tex
 chapter 2.
-<Bilder/REST_Rest.png, id=171, 1000.73875pt x 388.45125pt>
+<Bilder/REST_Rest.png, id=173, 1000.73875pt x 388.45125pt>
 File: Bilder/REST_Rest.png Graphic file (type png)
 <use Bilder/REST_Rest.png>
 Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
@@ -2009,65 +2010,61 @@ Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
 
 
 
-<./Bilder/REST_Rest.png>] [6] [7] [8]
-<Bilder/RAP_Architektur.png, id=220, 916.1728pt x 516.42938pt>
+<./Bilder/REST_Rest.png>] [6] [7] [8] [9]
+<Bilder/RAP_Architektur.png, id=243, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
-Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 43.
+Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 55.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9] [10<./Bilder/RAP_Architektur.png>] [11] [12] [13] [14]
-<Bilder/Fiori_Model-View-Controller-Konzept.png, id=287, 496.85625pt x 208.52907pt>
+ [10<./Bilder/RAP_Architektur.png>] [11] [12] [13] [14]
+<Bilder/Fiori_Model-View-Controller-Konzept.png, id=307, 496.85625pt x 208.52907pt>
 File: Bilder/Fiori_Model-View-Controller-Konzept.png Graphic file (type png)
 <use Bilder/Fiori_Model-View-Controller-Konzept.png>
-Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 71.
+Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 93.
 (luatex.def)             Requested size: 406.78033pt x 170.71652pt.
- [15<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
-<Bilder/Fiori_Elements_List_Floorplan.png, id=301, 700.11563pt x 314.67563pt>
+ [15] [16<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
+<Bilder/Fiori_Elements_List_Floorplan.png, id=331, 700.11563pt x 314.67563pt>
 File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_List_Floorplan.png>
-Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 82.
+Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 106.
 (luatex.def)             Requested size: 379.81949pt x 170.71652pt.
- [16]
-<Bilder/Fiori_Elements_Object_Floorplan.png, id=310, 1244.14813pt x 645.41125pt>
+ [17]
+<Bilder/Fiori_Elements_Object_Floorplan.png, id=342, 1244.14813pt x 645.41125pt>
 File: Bilder/Fiori_Elements_Object_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_Object_Floorplan.png>
-Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 91.
+Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 115.
 (luatex.def)             Requested size: 329.07121pt x 170.71652pt.
-) [17<./Bilder/Fiori_Elements_List_Floorplan.png><./Bilder/Fiori_Elements_Object_Floorplan.png>] [18]
+) [18<./Bilder/Fiori_Elements_List_Floorplan.png><./Bilder/Fiori_Elements_Object_Floorplan.png>] [19]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-<Bilder/Business-Workflows_Schema.png, id=326, 360.59718pt x 270.25969pt>
+<Bilder/Business-Workflows_Schema.png, id=358, 360.59718pt x 270.25969pt>
 File: Bilder/Business-Workflows_Schema.png Graphic file (type png)
 <use Bilder/Business-Workflows_Schema.png>
-Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input line 17.
+Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input line 19.
 (luatex.def)             Requested size: 303.7139pt x 227.62204pt.
-[19
+[20
 
 
 
 
-] [20<./Bilder/Business-Workflows_Schema.png>] [21]
-<Bilder/Business-Events_BO-as-event-consumer.png, id=361, 246.9225pt x 342.5297pt>
+] [21<./Bilder/Business-Workflows_Schema.png>] [22]
+<Bilder/Business-Events_BO-as-event-consumer.png, id=396, 246.9225pt x 342.5297pt>
 File: Bilder/Business-Events_BO-as-event-consumer.png Graphic file (type png)
 <use Bilder/Business-Events_BO-as-event-consumer.png>
-Package luatex.def Info: Bilder/Business-Events_BO-as-event-consumer.png  used on input line 39.
+Package luatex.def Info: Bilder/Business-Events_BO-as-event-consumer.png  used on input line 41.
 (luatex.def)             Requested size: 164.09212pt x 227.62204pt.
- [22<./Bilder/Business-Events_BO-as-event-consumer.png>]
-<Bilder/bgPF_Schema.png, id=375, 564.1075pt x 455.7025pt>
+ [23<./Bilder/Business-Events_BO-as-event-consumer.png>]
+<Bilder/bgPF_Schema.png, id=410, 564.1075pt x 455.7025pt>
 File: Bilder/bgPF_Schema.png Graphic file (type png)
 <use Bilder/bgPF_Schema.png>
-Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 56.
+Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 58.
 (luatex.def)             Requested size: 281.7776pt x 227.62204pt.
- [23] [24<./Bilder/bgPF_Schema.png>]) [25] [26]
+ [24] [25<./Bilder/bgPF_Schema.png>] [26]) [27] [28]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-) [27
+) [29
 
 
 
@@ -2078,17 +2075,17 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (0.13562pt too wide) in paragraph at lines 122--122
+Overfull \hbox (0.13562pt too wide) in paragraph at lines 123--123
 \T1/lmr/m/n/12 programming - model / abap - restful - application - programming - model ? locale = en - US$[]
  []
 
-[28
+[30
 
 
 
 
 
-] [29] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
+] [31] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -2103,19 +2100,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51682 strings out of 478285
- 125011,2373549 words of node,token memory allocated
- 1390 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 99 attribute, 117 glue_spec, 51 attribute_list, 2 write, 8 pdf_action nodes
-   avail lists: 1:6,2:1782,3:1775,4:185,5:690,6:149,7:10727,8:148,9:660,10:30,11:1255
- 69688 multiletter control sequences out of 65536+600000
+ 51724 strings out of 478285
+ 100000,2373549 words of node,token memory allocated
+ 1400 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 99 attribute, 119 glue_spec, 51 attribute_list, 2 write, 8 pdf_action nodes
+   avail lists: 1:4,2:1828,3:1775,4:184,5:551,6:150,7:9074,8:148,9:676,10:32,11:1067
+ 69699 multiletter control sequences out of 65536+600000
  94 fonts using 6676687 bytes
- 113i,21n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (36 pages, 879322 bytes).
+Output written on Praxisbericht.pdf (38 pages, 882096 bytes).
 
-PDF statistics: 569 PDF objects out of 1000 (max. 8388607)
- 488 compressed objects within 5 object streams
- 133 named destinations out of 1000 (max. 131072)
- 208 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 614 PDF objects out of 1000 (max. 8388607)
+ 530 compressed objects within 6 object streams
+ 164 named destinations out of 1000 (max. 131072)
+ 216 words of extra memory for PDF output out of 10000 (max. 100000000)
 
