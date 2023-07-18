@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  18 JUL 2023 16:18
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  18 JUL 2023 16:41
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1794,12 +1794,12 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 30.
 Package tocbasic Info: Using my definition of `\numberline' on input line 32.
 Package tocbasic Info: Using my definition of `\numberline' on input line 33.
 Package tocbasic Info: Using my definition of `\numberline' on input line 35.
-Package tocbasic Info: Using my definition of `\numberline' on input line 36.
-Package tocbasic Info: Using my definition of `\numberline' on input line 37.
-Package tocbasic Info: Using my definition of `\numberline' on input line 38.
-Package tocbasic Info: Using my definition of `\numberline' on input line 39.
-Package tocbasic Info: Using my definition of `\numberline' on input line 40.
-Package tocbasic Info: Using my definition of `\numberline' on input line 41.
+Package tocbasic Info: Using my definition of `\numberline' on input line 43.
+Package tocbasic Info: Using my definition of `\numberline' on input line 44.
+Package tocbasic Info: Using my definition of `\numberline' on input line 45.
+Package tocbasic Info: Using my definition of `\numberline' on input line 46.
+Package tocbasic Info: Using my definition of `\numberline' on input line 47.
+Package tocbasic Info: Using my definition of `\numberline' on input line 48.
 )
 \tf@toc=\write6
 
@@ -2014,25 +2014,25 @@ Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
 <Bilder/RAP_Architektur.png, id=239, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
-Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 55.
+Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 53.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
  [9<./Bilder/RAP_Architektur.png>] [10] [11] [12] [13]
 <Bilder/Fiori_Model-View-Controller-Konzept.png, id=304, 496.85625pt x 208.52907pt>
 File: Bilder/Fiori_Model-View-Controller-Konzept.png Graphic file (type png)
 <use Bilder/Fiori_Model-View-Controller-Konzept.png>
-Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 93.
+Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 91.
 (luatex.def)             Requested size: 406.78033pt x 170.71652pt.
  [14] [15<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
 <Bilder/Fiori_Elements_List_Floorplan.png, id=329, 700.11563pt x 314.67563pt>
 File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_List_Floorplan.png>
-Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 106.
+Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 104.
 (luatex.def)             Requested size: 379.81949pt x 170.71652pt.
  [16]
 <Bilder/Fiori_Elements_Object_Floorplan.png, id=340, 1244.14813pt x 645.41125pt>
 File: Bilder/Fiori_Elements_Object_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_Object_Floorplan.png>
-Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 115.
+Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 113.
 (luatex.def)             Requested size: 329.07121pt x 170.71652pt.
 ) [17<./Bilder/Fiori_Elements_List_Floorplan.png><./Bilder/Fiori_Elements_Object_Floorplan.png>] [18]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
@@ -2060,7 +2060,12 @@ File: Bilder/bgPF_Schema.png Graphic file (type png)
 <use Bilder/bgPF_Schema.png>
 Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 58.
 (luatex.def)             Requested size: 281.7776pt x 227.62204pt.
- [23] [24<./Bilder/bgPF_Schema.png>] [25]) [26] [27]
+ [23] [24<./Bilder/bgPF_Schema.png>] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+) [26] [27]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
@@ -2100,19 +2105,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51725 strings out of 478285
+ 51739 strings out of 478285
  100000,2373549 words of node,token memory allocated
  1400 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 99 attribute, 119 glue_spec, 51 attribute_list, 2 write, 8 pdf_action nodes
-   avail lists: 1:3,2:1828,3:1775,4:184,5:551,6:150,7:8434,8:148,9:676,10:32,11:1020
+   avail lists: 1:3,2:1829,3:1775,4:184,5:551,6:150,7:8947,8:148,9:676,10:32,11:1040
  69699 multiletter control sequences out of 65536+600000
  94 fonts using 6676687 bytes
  113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (37 pages, 881444 bytes).
+Output written on Praxisbericht.pdf (37 pages, 881411 bytes).
 
-PDF statistics: 612 PDF objects out of 1000 (max. 8388607)
- 529 compressed objects within 6 object streams
- 165 named destinations out of 1000 (max. 131072)
+PDF statistics: 626 PDF objects out of 1000 (max. 8388607)
+ 543 compressed objects within 6 object streams
+ 179 named destinations out of 1000 (max. 131072)
  216 words of extra memory for PDF output out of 10000 (max. 100000000)
 

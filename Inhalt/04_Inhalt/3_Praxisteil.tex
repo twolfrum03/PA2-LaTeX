@@ -68,25 +68,53 @@ Das Entkoppeln und asynchrone Ausführen gewisser Logik vom Hauptprozess bringt 
 
 Das bgPF kann auch innerhalb von RAP verwendet werden. Grundlegend besteht die Laufzeit eines RAP BOs aus einer Interaktions- und einer Speicherungsphase. In der Interaktionsphase werden über die Behaviours des BO dessen Daten ausgelesen oder verändert. Falls Änderungen an den Daten stattgefunden haben, werden diese jedoch nicht direkt auf der Datenbank persistiert, sondern zuerst in einem Puffer gespeichert. Nachdem alle Änderungen erfolgreich durchgeführt wurden, werden diese auf einmal in der Speicherungsphase auf die Datenbank geschrieben. Konkret wird die Methode des bgPF-Objekts, die das Speichern für die spätere asynchrone Ausführung übernimmt, in der zweiten Phase der Laufzeit des BOs aufgerufen und das Objekt somit auf der Datenbank gespeichert. \footcite[Vgl.][]{sap_bgpf_2023}
 
-\subsection{Vergleich der Ansätze}
+\section{Vergleich der Ansätze}
 
 Im Folgenden sollen die in den vorherigen Kapiteln vorgestellten Ansätze miteinander verglichen werden. Hierfür werden die Kriterien Komplexität der Implementierung, also welchen Aufwand das Umsetzen der Technologie im Anwendungsfall verursacht, die Auswirkungen auf die Systemlandschaft, also ob zusätzliche Systemkomponenten benötigt werden und die Performance der einzelnen Ansätze im Bezug auf Ausführungsdauer und Rechenlast verglichen werden. Weitere Kriterien sind zusätzliche Kosten die eine Lösung eventuell verursacht, die Abwärtskompatibilität zu älteren Systemen und die Flexibilität der Technologien im Bezug auf Gestaltungsmöglichkeiten von Anwendungsszenarien und Integration mit anderen Technologien/ Frameworks. Abgeschlossen wird der Vergleich mit einer Betrachtung der Skalierbarkeit und Wartbarkeit der drei Umsetzungsmöglichkeiten.
+
+\subsubsection{Komplexität der Implementierung}
+
+
+
+\subsubsection{Auswirkungen auf die Systemlandschaft}
+
+
+
+\subsubsection{Performance}
+
+
+
+\subsubsection{Kosten}
+
+
+
+\subsubsection{Flexibilität}
+
+
+
+\subsubsection{Skalierbarkeit}
+
+
+
+\subsubsection{Wartbarkeit}
+
+
 
 \section{Entscheidungsmatrix}
 
 Hier soll eine Entscheidungsmatrix entwickelt werden, welchen Lösungsansatz man in Abhängigkeit von mehreren Faktoren am besten verwenden soll (ersetzt auch weng mit die Zusammenfassung)
+\newline
 
-Vergleichskriterien:
+Experteninterviews:
 
-- BTP Event Mesh Cloud nötig in Systemlandschaft, andere Lösungen laufen nur lokal -> mehr Kosten, Komplexität in Systemlandschaft, Datenschutz \newline
-- Kosten \newline
-- Performance (wshl verlieren BusinessEvents, Kommunikation über Systemgrenzen hinaus) \newline
-- Experteninterview: BusinessEvents (Martin Müller (+bgpf), Marcel Herrmanns, Daniel Wachs) \newline
-- Systemanalyse Vorlesung Kriterien für Software Folie (Leistung/ Effizienz, Flexibilität -> Betrieb/ Umgebungsbedingungen, Wartbarkeit, Portierbarkeit, Konformität, Skalierbarkeit)
+- BusinessEvents (Martin Müller (+bgpf), Marcel Herrmanns, Daniel Wachs) \newline
+- Business Workflows (Eric Gheris) \newline
+- bgPF ?
 
-mögliche Vergleichskriterien: \newline
+mögliche Vergleichskriterien:
+
 - Komplexität der Implementierung (Ranking: Workflow > Business Events > bgPF) -> Lines of Code, Artefakte \newline
-- Systemlandschaft (Cloudkomponente BTP bei Business Events nötig, bgPF/ Workflows brauchen das nicht) \newline
+- Systemlandschaft (Cloudkomponente (Datenschutz) EventMesh von BTP bei Business Events nötig, bgPF/ Workflows brauchen das nicht) \newline
 - Performance (Rechenlast, Zeit) (BE nicht so gut, weil Kommunikation über Web zu Cloud über HTTP, bgPF <-> Workflows nehmen sich nicht viel) \newline
 - Kosten (Vorteil Workflows: Release (Abwärts-) Kompatibilität zu ECC (gibts schon immer), Drängen von Kunden auf Funktionsverfügbarkeit in alten Systemen) (BE: Lizenzkosten für BTP Komponente, Netzwerklast durch HTTP Kommunikation bei Kunde) \newline
 - Flexibilität (Workflows sehr flexibel, viele Anbindungen, sehr gute Integration zu zB. Emails) (Beiden anderen Techniken eher low level Code, wenig Anbindungen an andere Frameworks) \newline
