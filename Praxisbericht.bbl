@@ -60,6 +60,45 @@
       \verb https://www.sap.com/germany/about/company/history.html
       \endverb
     \endentry
+    \entry{biehl_api_2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38efedd92a48ed1cd09de1b2eb2c4af3}{%
+           family={Biehl},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace Independent Publishing Platform}%
+      }
+      \strng{namehash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \strng{fullhash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \strng{bibnamehash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \strng{authorbibnamehash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \strng{authornamehash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \strng{authorfullhash}{38efedd92a48ed1cd09de1b2eb2c4af3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-5086-7664-5}
+      \field{series}{{API}-{University} {Series}}
+      \field{title}{{API} {Architecture}}
+      \field{urlday}{18}
+      \field{urlmonth}{7}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=6D64DwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=6D64DwAAQBAJ
+      \endverb
+    \endentry
     \entry{fielding_architectural_2000}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c6055872081cf3b6db6ba40e9af2fad9}{%
@@ -82,8 +121,8 @@
       \strng{authornamehash}{c6055872081cf3b6db6ba40e9af2fad9}
       \strng{authorfullhash}{c6055872081cf3b6db6ba40e9af2fad9}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}

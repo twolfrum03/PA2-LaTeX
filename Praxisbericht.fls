@@ -687,9 +687,6 @@ INPUT ./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 INPUT ./Praxisbericht.lof
 INPUT ./Praxisbericht.lof
 OUTPUT Praxisbericht.lof
-INPUT ./Praxisbericht.lot
-INPUT ./Praxisbericht.lot
-OUTPUT Praxisbericht.lot
 OUTPUT Inhalt/04_Inhalt/1_Einleitung.aux
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.tex
 INPUT ./Inhalt/04_Inhalt/1_Einleitung.tex

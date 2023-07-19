@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  18 JUL 2023 16:41
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  19 JUL 2023 10:18
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1785,21 +1785,20 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
-Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 19.
-Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 23.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
 Package tocbasic Info: Using my definition of `\numberline' on input line 28.
 Package tocbasic Info: Using my definition of `\numberline' on input line 29.
-Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 31.
 Package tocbasic Info: Using my definition of `\numberline' on input line 32.
-Package tocbasic Info: Using my definition of `\numberline' on input line 33.
-Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+Package tocbasic Info: Using my definition of `\numberline' on input line 42.
 Package tocbasic Info: Using my definition of `\numberline' on input line 43.
 Package tocbasic Info: Using my definition of `\numberline' on input line 44.
 Package tocbasic Info: Using my definition of `\numberline' on input line 45.
 Package tocbasic Info: Using my definition of `\numberline' on input line 46.
 Package tocbasic Info: Using my definition of `\numberline' on input line 47.
-Package tocbasic Info: Using my definition of `\numberline' on input line 48.
 )
 \tf@toc=\write6
 
@@ -1948,14 +1947,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 84.
- (./Praxisbericht.lot)
-\tf@lot=\write8
-
-\openout8 = Praxisbericht.lot
- [6
-
-]
 \openout2 = Inhalt/04_Inhalt/1_Einleitung.aux
  (./Inhalt/04_Inhalt/1_Einleitung.tex
 chapter 1.
@@ -2000,7 +1991,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 \openout2 = Inhalt/04_Inhalt/2_Grundlagen.aux
  (./Inhalt/04_Inhalt/2_Grundlagen.tex
 chapter 2.
-<Bilder/REST_Rest.png, id=168, 1000.73875pt x 388.45125pt>
+<Bilder/REST_Rest.png, id=164, 1000.73875pt x 388.45125pt>
 File: Bilder/REST_Rest.png Graphic file (type png)
 <use Bilder/REST_Rest.png>
 Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
@@ -2010,35 +2001,39 @@ Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
 
 
 
-<./Bilder/REST_Rest.png>] [5] [6] [7] [8]
-<Bilder/RAP_Architektur.png, id=239, 916.1728pt x 516.42938pt>
+] [5<./Bilder/REST_Rest.png>] [6] [7] [8]
+<Bilder/RAP_Architektur.png, id=235, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
 Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 53.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
- [9<./Bilder/RAP_Architektur.png>] [10] [11] [12] [13]
-<Bilder/Fiori_Model-View-Controller-Konzept.png, id=304, 496.85625pt x 208.52907pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10<./Bilder/RAP_Architektur.png>] [11] [12] [13] [14]
+<Bilder/Fiori_Model-View-Controller-Konzept.png, id=310, 496.85625pt x 208.52907pt>
 File: Bilder/Fiori_Model-View-Controller-Konzept.png Graphic file (type png)
 <use Bilder/Fiori_Model-View-Controller-Konzept.png>
 Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 91.
 (luatex.def)             Requested size: 406.78033pt x 170.71652pt.
- [14] [15<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
-<Bilder/Fiori_Elements_List_Floorplan.png, id=329, 700.11563pt x 314.67563pt>
+ [15<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
+<Bilder/Fiori_Elements_List_Floorplan.png, id=327, 700.11563pt x 314.67563pt>
 File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_List_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 104.
 (luatex.def)             Requested size: 379.81949pt x 170.71652pt.
  [16]
-<Bilder/Fiori_Elements_Object_Floorplan.png, id=340, 1244.14813pt x 645.41125pt>
+<Bilder/Fiori_Elements_Object_Floorplan.png, id=336, 1244.14813pt x 645.41125pt>
 File: Bilder/Fiori_Elements_Object_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_Object_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 113.
 (luatex.def)             Requested size: 329.07121pt x 170.71652pt.
-) [17<./Bilder/Fiori_Elements_List_Floorplan.png><./Bilder/Fiori_Elements_Object_Floorplan.png>] [18]
+ [17<./Bilder/Fiori_Elements_List_Floorplan.png>]) [18<./Bilder/Fiori_Elements_Object_Floorplan.png>]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-<Bilder/Business-Workflows_Schema.png, id=356, 360.59718pt x 270.25969pt>
+<Bilder/Business-Workflows_Schema.png, id=355, 360.59718pt x 270.25969pt>
 File: Bilder/Business-Workflows_Schema.png Graphic file (type png)
 <use Bilder/Business-Workflows_Schema.png>
 Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input line 19.
@@ -2049,13 +2044,13 @@ Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input lin
 
 
 ] [20<./Bilder/Business-Workflows_Schema.png>] [21]
-<Bilder/Business-Events_BO-as-event-consumer.png, id=394, 246.9225pt x 342.5297pt>
+<Bilder/Business-Events_BO-as-event-consumer.png, id=393, 246.9225pt x 342.5297pt>
 File: Bilder/Business-Events_BO-as-event-consumer.png Graphic file (type png)
 <use Bilder/Business-Events_BO-as-event-consumer.png>
 Package luatex.def Info: Bilder/Business-Events_BO-as-event-consumer.png  used on input line 41.
 (luatex.def)             Requested size: 164.09212pt x 227.62204pt.
  [22<./Bilder/Business-Events_BO-as-event-consumer.png>]
-<Bilder/bgPF_Schema.png, id=408, 564.1075pt x 455.7025pt>
+<Bilder/bgPF_Schema.png, id=407, 564.1075pt x 455.7025pt>
 File: Bilder/bgPF_Schema.png Graphic file (type png)
 <use Bilder/bgPF_Schema.png>
 Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 58.
@@ -2105,19 +2100,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 51739 strings out of 478285
+ 51726 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1400 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 99 attribute, 119 glue_spec, 51 attribute_list, 2 write, 8 pdf_action nodes
-   avail lists: 1:3,2:1829,3:1775,4:184,5:551,6:150,7:8947,8:148,9:676,10:32,11:1040
- 69699 multiletter control sequences out of 65536+600000
+ 1425 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 37 glue, 4 kern, 2 glyph, 103 attribute, 119 glue_spec, 53 attribute_list, 2 write, 9 pdf_action nodes
+   avail lists: 1:4,2:1780,3:1647,4:176,5:590,6:148,7:9057,8:148,9:666,10:32,11:1058
+ 69695 multiletter control sequences out of 65536+600000
  94 fonts using 6676687 bytes
- 113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,21n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (37 pages, 881411 bytes).
+Output written on Praxisbericht.pdf (36 pages, 883443 bytes).
 
-PDF statistics: 626 PDF objects out of 1000 (max. 8388607)
- 543 compressed objects within 6 object streams
+PDF statistics: 624 PDF objects out of 1000 (max. 8388607)
+ 542 compressed objects within 6 object streams
  179 named destinations out of 1000 (max. 131072)
- 216 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 208 words of extra memory for PDF output out of 10000 (max. 100000000)
 
