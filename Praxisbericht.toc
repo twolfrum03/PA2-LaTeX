@@ -1,6 +1,6 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{Abkürzungsverzeichnis}{IV}{chapter*.5}%
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{V}{chapter*.6}%
+\contentsline {chapter}{Abkürzungsverzeichnis}{V}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{VI}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Unternehmensprofil und Anwendungsbezug}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Motivation und Problemstellung}{1}{section.1.2}%
@@ -35,16 +35,43 @@
 \contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{28}{subsubsection*.46}%
 \contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{28}{subsubsection*.48}%
 \contentsline {subsubsection}{\nonumberline Performance}{28}{subsubsection*.50}%
-\contentsline {subsubsection}{\nonumberline Kosten}{28}{subsubsection*.52}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{28}{subsubsection*.54}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{28}{subsubsection*.56}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{28}{subsubsection*.58}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{28}{subsubsection*.60}%
-\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{28}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{30}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{30}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{30}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{30}{section.4.3}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{31}{chapter*.61}%
+\contentsline {subsubsection}{\nonumberline Kosten}{29}{subsubsection*.52}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{29}{subsubsection*.54}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{29}{subsubsection*.56}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{30}{subsubsection*.58}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{30}{subsubsection*.60}%
+\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{30}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{32}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Zusammenfassung}{32}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{32}{section.4.3}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{VII}{chapter*.61}%
+\contentsline {chapter}{\numberline {A}Anhang}{IX}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Fragebögen Experteninterviews}{IX}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Workflows}{IX}{subsection.A.1.1}%
+\contentsline {subsubsection}{\nonumberline Allgemein}{IX}{subsubsection*.63}%
+\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{IX}{subsubsection*.65}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{IX}{subsubsection*.67}%
+\contentsline {subsubsection}{\nonumberline Performance}{IX}{subsubsection*.69}%
+\contentsline {subsubsection}{\nonumberline Kosten}{X}{subsubsection*.71}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{X}{subsubsection*.73}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{X}{subsubsection*.75}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{X}{subsubsection*.77}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{X}{subsubsection*.79}%
+\contentsline {subsection}{\numberline {A.1.2}Business Events}{X}{subsection.A.1.2}%
+\contentsline {subsubsection}{\nonumberline Allgemein}{X}{subsubsection*.81}%
+\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{XI}{subsubsection*.83}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{XI}{subsubsection*.85}%
+\contentsline {subsubsection}{\nonumberline Performance}{XI}{subsubsection*.87}%
+\contentsline {subsubsection}{\nonumberline Kosten}{XI}{subsubsection*.89}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{XI}{subsubsection*.91}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{XII}{subsubsection*.93}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{XII}{subsubsection*.95}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{XII}{subsubsection*.97}%
+\contentsline {subsection}{\numberline {A.1.3}bgPF}{XII}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{XII}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}Workflows}{XII}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Business Events}{XII}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}bgPF}{XII}{subsection.A.2.3}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

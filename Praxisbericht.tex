@@ -117,8 +117,8 @@
 \cleardoublepage
 \renewcommand*{\chapterpagestyle}{plain}
 \pagestyle{plain}
-% \pagenumbering{Roman}                   % Römische Seitenzahlen
-% \setcounter{page}{\numexpr\value{savepage}+1}
+\pagenumbering{Roman}                   % Römische Seitenzahlen
+\setcounter{page}{\numexpr\value{savepage}+1}
 
 \printbibliography[title = Literaturverzeichnis]
 
@@ -126,6 +126,8 @@
 \appendix
 %\clearpage
 %\pagenumbering{Roman}  % römische Seitenzahlen für Anhang
+
+\include{Inhalt/04_Inhalt/5_Anhang.tex}
 
 \newpage
 \end{document}
