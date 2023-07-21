@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  20 JUL 2023 15:11
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  21 JUL 2023 13:34
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1805,13 +1805,12 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 47.
 Package tocbasic Info: Using my definition of `\numberline' on input line 48.
 Package tocbasic Info: Using my definition of `\numberline' on input line 49.
 Package tocbasic Info: Using my definition of `\numberline' on input line 50.
-Package tocbasic Info: Using my definition of `\numberline' on input line 51.
-Package tocbasic Info: Using my definition of `\numberline' on input line 61.
+Package tocbasic Info: Using my definition of `\numberline' on input line 60.
+Package tocbasic Info: Using my definition of `\numberline' on input line 70.
 Package tocbasic Info: Using my definition of `\numberline' on input line 71.
 Package tocbasic Info: Using my definition of `\numberline' on input line 72.
 Package tocbasic Info: Using my definition of `\numberline' on input line 73.
 Package tocbasic Info: Using my definition of `\numberline' on input line 74.
-Package tocbasic Info: Using my definition of `\numberline' on input line 75.
 )
 \tf@toc=\write6
 
@@ -1820,124 +1819,124 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 75.
 
 
 
-] [4]
+]
 \openout2 = Inhalt/03_Verzeichnisse/abkuerzungen.aux
  (./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 
-LaTeX Warning: Hyper reference `acro:SaaS' on page V undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:SaaS' on page IV undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:SaaS' on page V undefined on input line 9.
+LaTeX Warning: Hyper reference `acro:SaaS' on page IV undefined on input line 9.
 
 
-LaTeX Warning: Hyper reference `acro:AIS' on page V undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:AIS' on page IV undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:AIS' on page V undefined on input line 10.
+LaTeX Warning: Hyper reference `acro:AIS' on page IV undefined on input line 10.
 
 
-LaTeX Warning: Hyper reference `acro:HCM' on page V undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:HCM' on page IV undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:HCM' on page V undefined on input line 11.
+LaTeX Warning: Hyper reference `acro:HCM' on page IV undefined on input line 11.
 
 
-LaTeX Warning: Hyper reference `acro:API' on page V undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:API' on page IV undefined on input line 12.
 
 
-LaTeX Warning: Hyper reference `acro:API' on page V undefined on input line 12.
+LaTeX Warning: Hyper reference `acro:API' on page IV undefined on input line 12.
 
 
-LaTeX Warning: Hyper reference `acro:REST' on page V undefined on input line 13.
+LaTeX Warning: Hyper reference `acro:REST' on page IV undefined on input line 13.
 
 
-LaTeX Warning: Hyper reference `acro:REST' on page V undefined on input line 13.
+LaTeX Warning: Hyper reference `acro:REST' on page IV undefined on input line 13.
 
 
-LaTeX Warning: Hyper reference `acro:URI' on page V undefined on input line 14.
+LaTeX Warning: Hyper reference `acro:URI' on page IV undefined on input line 14.
 
 
-LaTeX Warning: Hyper reference `acro:URI' on page V undefined on input line 14.
+LaTeX Warning: Hyper reference `acro:URI' on page IV undefined on input line 14.
 
 
-LaTeX Warning: Hyper reference `acro:URL' on page V undefined on input line 15.
+LaTeX Warning: Hyper reference `acro:URL' on page IV undefined on input line 15.
 
 
-LaTeX Warning: Hyper reference `acro:URL' on page V undefined on input line 15.
+LaTeX Warning: Hyper reference `acro:URL' on page IV undefined on input line 15.
 
 
-LaTeX Warning: Hyper reference `acro:RAP' on page V undefined on input line 16.
+LaTeX Warning: Hyper reference `acro:RAP' on page IV undefined on input line 16.
 
 
-LaTeX Warning: Hyper reference `acro:RAP' on page V undefined on input line 16.
+LaTeX Warning: Hyper reference `acro:RAP' on page IV undefined on input line 16.
 
 
-LaTeX Warning: Hyper reference `acro:ABAP' on page V undefined on input line 17.
+LaTeX Warning: Hyper reference `acro:ABAP' on page IV undefined on input line 17.
 
 
-LaTeX Warning: Hyper reference `acro:ABAP' on page V undefined on input line 17.
+LaTeX Warning: Hyper reference `acro:ABAP' on page IV undefined on input line 17.
 
 
-LaTeX Warning: Hyper reference `acro:CDS' on page V undefined on input line 18.
+LaTeX Warning: Hyper reference `acro:CDS' on page IV undefined on input line 18.
 
 
-LaTeX Warning: Hyper reference `acro:CDS' on page V undefined on input line 18.
+LaTeX Warning: Hyper reference `acro:CDS' on page IV undefined on input line 18.
 
 
-LaTeX Warning: Hyper reference `acro:BO' on page V undefined on input line 19.
+LaTeX Warning: Hyper reference `acro:BO' on page IV undefined on input line 19.
 
 
-LaTeX Warning: Hyper reference `acro:BO' on page V undefined on input line 19.
+LaTeX Warning: Hyper reference `acro:BO' on page IV undefined on input line 19.
 
 
-LaTeX Warning: Hyper reference `acro:UI' on page V undefined on input line 20.
+LaTeX Warning: Hyper reference `acro:UI' on page IV undefined on input line 20.
 
 
-LaTeX Warning: Hyper reference `acro:UI' on page V undefined on input line 20.
+LaTeX Warning: Hyper reference `acro:UI' on page IV undefined on input line 20.
 
 
-LaTeX Warning: Hyper reference `acro:TCO' on page V undefined on input line 21.
+LaTeX Warning: Hyper reference `acro:TCO' on page IV undefined on input line 21.
 
 
-LaTeX Warning: Hyper reference `acro:TCO' on page V undefined on input line 21.
+LaTeX Warning: Hyper reference `acro:TCO' on page IV undefined on input line 21.
 
 
-LaTeX Warning: Hyper reference `acro:BW' on page V undefined on input line 22.
+LaTeX Warning: Hyper reference `acro:BW' on page IV undefined on input line 22.
 
 
-LaTeX Warning: Hyper reference `acro:BW' on page V undefined on input line 22.
+LaTeX Warning: Hyper reference `acro:BW' on page IV undefined on input line 22.
 
 
-LaTeX Warning: Hyper reference `acro:BE' on page V undefined on input line 23.
+LaTeX Warning: Hyper reference `acro:BE' on page IV undefined on input line 23.
 
 
-LaTeX Warning: Hyper reference `acro:BE' on page V undefined on input line 23.
+LaTeX Warning: Hyper reference `acro:BE' on page IV undefined on input line 23.
 
 
-LaTeX Warning: Hyper reference `acro:bgPF' on page V undefined on input line 24.
+LaTeX Warning: Hyper reference `acro:bgPF' on page IV undefined on input line 24.
 
 
-LaTeX Warning: Hyper reference `acro:bgPF' on page V undefined on input line 24.
+LaTeX Warning: Hyper reference `acro:bgPF' on page IV undefined on input line 24.
 
 
-LaTeX Warning: Hyper reference `acro:LUW' on page V undefined on input line 25.
+LaTeX Warning: Hyper reference `acro:LUW' on page IV undefined on input line 25.
 
 
-LaTeX Warning: Hyper reference `acro:LUW' on page V undefined on input line 25.
+LaTeX Warning: Hyper reference `acro:LUW' on page IV undefined on input line 25.
 
 
-LaTeX Warning: Hyper reference `acro:bgRFC' on page V undefined on input line 26.
+LaTeX Warning: Hyper reference `acro:bgRFC' on page IV undefined on input line 26.
 
 
-LaTeX Warning: Hyper reference `acro:bgRFC' on page V undefined on input line 26.
+LaTeX Warning: Hyper reference `acro:bgRFC' on page IV undefined on input line 26.
 
 
-LaTeX Warning: Hyper reference `acro:BTP' on page V undefined on input line 27.
+LaTeX Warning: Hyper reference `acro:BTP' on page IV undefined on input line 27.
 
 
-LaTeX Warning: Hyper reference `acro:BTP' on page V undefined on input line 27.
+LaTeX Warning: Hyper reference `acro:BTP' on page IV undefined on input line 27.
 
-) [5
+) [4
 
 
 ]
@@ -1955,7 +1954,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 \tf@lof=\write7
 
 \openout7 = Praxisbericht.lof
- [6
+ [5
 
 
 
@@ -1994,6 +1993,9 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 5.
 
+LaTeX Warning: Citation 'sap_geschichte_2023' on page 1 undefined on input line 5.
+
+
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1
 
@@ -2004,69 +2006,251 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 \openout2 = Inhalt/04_Inhalt/2_Grundlagen.aux
  (./Inhalt/04_Inhalt/2_Grundlagen.tex
 chapter 2.
-<Bilder/REST_Rest.png, id=192, 1000.73875pt x 388.45125pt>
+
+LaTeX Warning: Citation 'biehl_api_2015' on page 5 undefined on input line 7.
+
+<Bilder/REST_Rest.png, id=182, 1000.73875pt x 388.45125pt>
 File: Bilder/REST_Rest.png Graphic file (type png)
 <use Bilder/REST_Rest.png>
 Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
 (luatex.def)             Requested size: 436.14244pt x 169.29381pt.
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 5 undefined on input line 14.
+
 [5
 
 
 
 
-] [6<./Bilder/REST_Rest.png>] [7
-Missing character: There is no ≤ (U+2264) in font ec-lmr12!
-] [8] [9]
-<Bilder/RAP_Architektur.png, id=262, 916.1728pt x 516.42938pt>
+]
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 6 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 6 undefined on input line 24.
+
+[6<./Bilder/REST_Rest.png>]
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 7 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'fielding_rest_2008' on page 7 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 7 undefined on input line 33.
+
+[7]
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 8 undefined on input line 37.
+
+[8]
+
+LaTeX Warning: Citation 'fielding_architectural_2000' on page 9 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 9 undefined on input line 45.
+
+[9]
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 10 undefined on input line 47.
+
+<Bilder/RAP_Architektur.png, id=240, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
 Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 53.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
- [10] [11<./Bilder/RAP_Architektur.png>] [12] [13] [14] [15]
-<Bilder/Fiori_Model-View-Controller-Konzept.png, id=338, 496.85625pt x 208.52907pt>
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 10 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 10 undefined on input line 54.
+
+[10]
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 11 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 11 undefined on input line 62.
+
+[11<./Bilder/RAP_Architektur.png>]
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 12 undefined on input line 66.
+
+[12]
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 13 undefined on input line 68.
+
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 13 undefined on input line 70.
+
+[13]
+
+LaTeX Warning: Citation 'sap_rap_2023' on page 14 undefined on input line 74.
+
+[14]
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 15 undefined on input line 78.
+
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 15 undefined on input line 80.
+
+
+LaTeX Warning: Citation 'sap_ui5-freestyle-elements-image_2023' on page 15 undefined on input line 84.
+
+[15]
+<Bilder/Fiori_Model-View-Controller-Konzept.png, id=303, 496.85625pt x 208.52907pt>
 File: Bilder/Fiori_Model-View-Controller-Konzept.png Graphic file (type png)
 <use Bilder/Fiori_Model-View-Controller-Konzept.png>
 Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 91.
 (luatex.def)             Requested size: 338.9874pt x 142.26378pt.
- [16] [17<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
-<Bilder/Fiori_Elements_List_Floorplan.png, id=359, 700.11563pt x 314.67563pt>
+
+
+LaTeX Warning: Citation 'sap_sapui5-sap-hel-docu_2023' on page 16 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'sap_sapui5-sap-hel-docu_2023' on page 16 undefined on input line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[][][]|\T1/lmr/m/n/12 Model-View-Controller Kon-zept, Ab-ge-ru-fen von
+ []
+
+[16]
+
+LaTeX Warning: Citation 'sap_sapui5-sap-hel-docu_2023' on page 17 undefined on input line 96.
+
+[17<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
+<Bilder/Fiori_Elements_List_Floorplan.png, id=318, 700.11563pt x 314.67563pt>
 File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_List_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 104.
 (luatex.def)             Requested size: 379.81949pt x 170.71652pt.
- [18]
-<Bilder/Fiori_Elements_Object_Floorplan.png, id=370, 1244.14813pt x 645.41125pt>
+
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 18 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 18 undefined on input line 105.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[][][]|\T1/lmr/m/n/12 Fio-ri Ele-ments List Re-port Flo-or-plan. Ab-ge-ru-fen von
+ []
+
+[18]
+<Bilder/Fiori_Elements_Object_Floorplan.png, id=327, 1244.14813pt x 645.41125pt>
 File: Bilder/Fiori_Elements_Object_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_Object_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 113.
 (luatex.def)             Requested size: 329.07121pt x 170.71652pt.
+
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 19 undefined on input line 114.
+
+
+LaTeX Warning: Citation 'sap_ui5-docu_2022' on page 19 undefined on input line 114.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[][][]|\T1/lmr/m/n/12 Fio-ri Ele-ments Ob-ject Pa-ge Flo-or-plan. Ab-ge-ru-fen von
+ []
+
 ) [19<./Bilder/Fiori_Elements_List_Floorplan.png><./Bilder/Fiori_Elements_Object_Floorplan.png>] [20]
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-<Bilder/Business-Workflows_Schema.png, id=386, 360.59718pt x 270.25969pt>
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 21 undefined on input line 11.
+
+<Bilder/Business-Workflows_Schema.png, id=339, 360.59718pt x 270.25969pt>
 File: Bilder/Business-Workflows_Schema.png Graphic file (type png)
 <use Bilder/Business-Workflows_Schema.png>
 Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input line 19.
 (luatex.def)             Requested size: 303.7139pt x 227.62204pt.
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 21 undefined on input line 20.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[][][]|\T1/lmr/m/n/12 Auf-bau ei-nes Busi-ness Work-flows, Ab-ge-ru-fen von
+ []
+
 [21
 
 
 
 
-] [22<./Bilder/Business-Workflows_Schema.png>] [23]
-<Bilder/Business-Events_BO-as-event-consumer.png, id=424, 246.9225pt x 342.5297pt>
+]
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 22 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 22 undefined on input line 26.
+
+[22<./Bilder/Business-Workflows_Schema.png>]
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 23 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'sap_business-workflows_2022-1' on page 23 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'sap_business-events_2023' on page 23 undefined on input line 35.
+
+[23]
+<Bilder/Business-Events_BO-as-event-consumer.png, id=368, 246.9225pt x 342.5297pt>
 File: Bilder/Business-Events_BO-as-event-consumer.png Graphic file (type png)
 <use Bilder/Business-Events_BO-as-event-consumer.png>
 Package luatex.def Info: Bilder/Business-Events_BO-as-event-consumer.png  used on input line 41.
 (luatex.def)             Requested size: 164.09212pt x 227.62204pt.
- [24<./Bilder/Business-Events_BO-as-event-consumer.png>]
-<Bilder/bgPF_Schema.png, id=439, 564.1075pt x 455.7025pt>
+
+
+LaTeX Warning: Citation 'sap_business-events_2023' on page 24 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'sap_business-events_2023' on page 24 undefined on input line 42.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[][][]|\T1/lmr/m/n/12 Busi-ness Ob-ject als Event-Erzeuger, Ab-ge-ru-fen von
+ []
+
+
+LaTeX Warning: Citation 'sap_business-events_2023' on page 24 undefined on input line 46.
+
+[24<./Bilder/Business-Events_BO-as-event-consumer.png>]
+
+LaTeX Warning: Citation 'sap_creating_2022' on page 25 undefined on input line 48.
+
+<Bilder/bgPF_Schema.png, id=377, 564.1075pt x 455.7025pt>
 File: Bilder/bgPF_Schema.png Graphic file (type png)
 <use Bilder/bgPF_Schema.png>
 Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 58.
 (luatex.def)             Requested size: 281.7776pt x 227.62204pt.
- [25] [26<./Bilder/bgPF_Schema.png>] [27] [28]
+
+LaTeX Warning: Citation 'sap_bgpf_2023' on page 25 undefined on input line 59.
+
+
+LaTeX Warning: Citation 'sap_bgpf_2023' on page 25 undefined on input line 59.
+
+[25]
+
+LaTeX Warning: Citation 'sap_bgpf_2023' on page 26 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'sap_bgpf_2023' on page 26 undefined on input line 65.
+
+[26<./Bilder/bgPF_Schema.png>]
+
+LaTeX Warning: Citation 'sap_bgpf_2023' on page 27 undefined on input line 69.
+
+[27] [28]
 
 LaTeX Warning: Reference `Anhang 1' on page 29 undefined on input line 119.
 
@@ -2085,37 +2269,28 @@ chapter 4.
 
 
 ]
-chapter without number
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (0.13562pt too wide) in paragraph at lines 123--123
-\T1/lmr/m/n/12 programming - model / abap - restful - application - programming - model ? locale = en - US$[]
- []
-
-[7
+LaTeX Warning: Empty bibliography on input line 123.
 
 
-
-
-
-] [8]
 \openout2 = Inhalt/04_Inhalt/5_Anhang.aux
- (./Inhalt/04_Inhalt/5_Anhang.tex
+(./Inhalt/04_Inhalt/5_Anhang.tex
 chapter A.
-[9
+[6
+
+
+
+
 
 
 
 Missing character: There is no … (U+2026) in font ec-lmr12!
 Missing character: There is no … (U+2026) in font ec-lmr12!
-] [10
+] [7
 Missing character: There is no  (U+F0F3) in font ec-lmr12!
-] [11
+] [8
 Missing character: There is no … (U+2026) in font ec-lmr12!
-Missing character: There is no … (U+2026) in font ec-lmr12!
-]) [12
+]) [9
 Missing character: There is no  (U+F0F3) in font ec-lmr12!
 ] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
 
@@ -2126,25 +2301,30 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Praxisbericht.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Praxisbericht
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
 \openout1 = Praxisbericht.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 51878 strings out of 478285
+ 51789 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1430 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 105 attribute, 119 glue_spec, 54 attribute_list, 4 write, 9 pdf_action nodes
-   avail lists: 1:13,2:2258,3:1645,4:214,5:591,6:174,7:9060,8:148,9:798,10:32,11:1058
- 69752 multiletter control sequences out of 65536+600000
- 95 fonts using 6759431 bytes
+ 1312 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 36 glue, 4 kern, 2 glyph, 87 attribute, 117 glue_spec, 45 attribute_list, 4 write nodes
+   avail lists: 1:3,2:2127,3:511,4:208,5:589,6:159,7:9012,8:13,9:796,10:32,11:1078
+ 69679 multiletter control sequences out of 65536+600000
+ 94 fonts using 6677487 bytes
  113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (45 pages, 914862 bytes).
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (42 pages, 893420 bytes).
 
-PDF statistics: 752 PDF objects out of 1000 (max. 8388607)
- 659 compressed objects within 7 object streams
- 235 named destinations out of 1000 (max. 131072)
- 280 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 642 PDF objects out of 1000 (max. 8388607)
+ 562 compressed objects within 6 object streams
+ 219 named destinations out of 1000 (max. 131072)
+ 272 words of extra memory for PDF output out of 10000 (max. 100000000)
 

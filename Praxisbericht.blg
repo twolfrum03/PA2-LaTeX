@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Praxisbericht.blg'
+[40] biber-darwin:340> INFO - === Fri Jul 21, 2023, 13:34:14
+[50] Biber.pm:419> INFO - Reading 'Praxisbericht.bcf'
+[100] Biber.pm:979> INFO - Found 12 citekeys in bib section 0
+[110] Biber.pm:4419> INFO - Processing section 0
+[117] Biber.pm:4610> INFO - Looking for bibtex file 'Inhalt/literatur.bib' for section 0
+[164] bibtex.pm:1713> INFO - LaTeX decoding ...
+[210] bibtex.pm:1519> INFO - Found BibTeX data source 'Inhalt/literatur.bib'
