@@ -70,7 +70,7 @@
 \contentsline {subsection}{\numberline {A.1.3}bgPF}{IX}{subsection.A.1.3}%
 \contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{IX}{section.A.2}%
 \contentsline {subsection}{\numberline {A.2.1}Workflows}{IX}{subsection.A.2.1}%
-\contentsline {subsection}{\numberline {A.2.2}Business Events}{IX}{subsection.A.2.2}%
-\contentsline {subsection}{\numberline {A.2.3}bgPF}{IX}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {A.2.2}Business Events}{XI}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}bgPF}{XI}{subsection.A.2.3}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

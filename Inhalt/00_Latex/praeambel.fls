@@ -261,6 +261,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-koma.sto
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-koma.sto
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/chngcntr/chngcntr.sty
