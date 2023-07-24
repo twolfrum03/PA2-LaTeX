@@ -33,14 +33,14 @@
 \contentsline {subsubsection}{\nonumberline bgPF innerhalb von RAP}{27}{subsubsection*.44}%
 \contentsline {section}{\numberline {3.2}Vergleich der Ansätze}{27}{section.3.2}%
 \contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{28}{subsubsection*.46}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{28}{subsubsection*.48}%
-\contentsline {subsubsection}{\nonumberline Performance}{28}{subsubsection*.50}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{29}{subsubsection*.48}%
+\contentsline {subsubsection}{\nonumberline Performance}{29}{subsubsection*.50}%
 \contentsline {subsubsection}{\nonumberline Kosten}{29}{subsubsection*.52}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{29}{subsubsection*.54}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{29}{subsubsection*.56}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{30}{subsubsection*.54}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{30}{subsubsection*.56}%
 \contentsline {subsubsection}{\nonumberline Wartbarkeit}{30}{subsubsection*.58}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{30}{subsubsection*.60}%
-\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{30}{section.3.3}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{31}{subsubsection*.60}%
+\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{31}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{32}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Zusammenfassung}{32}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Handlungsempfehlung}{32}{section.4.2}%
@@ -71,7 +71,7 @@
 \contentsline {subsection}{\numberline {A.1.3}bgPF}{XII}{subsection.A.1.3}%
 \contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{XII}{section.A.2}%
 \contentsline {subsection}{\numberline {A.2.1}Workflows}{XII}{subsection.A.2.1}%
-\contentsline {subsection}{\numberline {A.2.2}Business Events}{XVI}{subsection.A.2.2}%
-\contentsline {subsection}{\numberline {A.2.3}bgPF}{XVII}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {A.2.2}Business Events}{XVII}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}bgPF}{XVIII}{subsection.A.2.3}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

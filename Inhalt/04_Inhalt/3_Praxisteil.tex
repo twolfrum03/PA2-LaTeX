@@ -74,9 +74,9 @@ Im Folgenden sollen die in den vorherigen Kapiteln vorgestellten Ansätze mitein
 
 \subsubsection{Komplexität der Implementierung}
 
-Als erstes Kriterium wird die Komplexität der Implementierung der drei Technologien herangezogen. Genauer wird hier auf die Anzahl der zu erstellenden Artefakte, eine  Beschreibung der Implementierungstätigkeiten und eine ungefähre Lines of Code-Angabe betrachtet.
+Als erstes Kriterium wird die Komplexität der Implementierung der drei Technologien herangezogen. Genauer wird hier auf die Anzahl der zu erstellenden Artefakte, eine  Beschreibung der Implementierungstätigkeiten und eine ungefähre Lines-of-Code Angabe betrachtet.
 
-Workflows
+Die Komplexität von Workflows hängt von dem Geschäftsprozess ab, der abgebildet werden soll. Somit ist das Spektrum von einem sehr einfachen Workflow, der beispielsweise bei einem gewissen Ereignis einen Mitarbeiter per E-Mail benachrichtigt bis hin zu einem Workflow für einen komplexen Geschäftsprozess, wie einer Abwesenheitsmeldung, bei dem viele Schritte mit Genehmigungsprozessen nötig sind und der in viele Stellen im System hineingreift. Durch die freien Gestaltungsmöglichkeiten eines Workflows, einen Prozess aus beliebig vielen Schritten in beliebiger Konstellation zu modellieren sind Workflows in Produktivsystemen meistens sehr komplex. Hinzu kommt die weitgehenden Konfigurationsmöglichkeiten eines jeden Schrittes in einem Workflow und die Möglichkeit eigenes ABAP-Coding in einem Schritt auszuführen. Hierdurch kann die Komplexität nochmals stark steigen. Zudem können Workflows, wie oben angesprochen ereignisgesteuert gestartet werden und miteinander interagieren, wodurch komplexe Wechselwirkungen zusätzlich beachtet werden müssen. Somit lässt sich insgesamt sagen, dass Workflows zwar potenziell simpel sein können, jedoch in der Realität eher sehr komplex sind. (siehe Anhang \ref{T_Workflows}, Z. 22-33)
 
 Business Events
 
@@ -86,7 +86,7 @@ bgPF
 
 Die Auswirkungen auf die Systemlandschaft werden daran bemessen, ob für die Implementierung der jeweiligen Technologie zusätzliche Systemkomponenten, im Spezielleren das Einbinden von Cloud-Komponenten, notwendig sind.
 
-Workflows
+Workflows sind in der sogenannten ''SAP-Basis'' enthalten. Die Systemkomponente ''SAP-Basis'' bildet die technische Grundlage eines SAP-Systems, indem sie Systemadministration, Datenbankmanagement, Kommunikation, Sicherheit und Performance-Optimierung gewährleistet und somit eine stabile und effiziente Plattform für die Ausführung der SAP-Anwendungen bereitstellt. Das heißt, dass sie in jedem SAP-System als Grundfunktionalität verfügbar sind und somit mit dem initialen Lizenzkauf der Software benutzbar sind. Es müssten keine zusätzlichen Systemkomponenten integriert werden und Workflow sind sowohl in on-premise als auch in Cloud-Systemen verfügbar. Somit lässt sich zusammenfassen, das Workflows keine Auswirkungen auf die Systemlandschaft haben.
 
 Business Events
 
@@ -104,7 +104,7 @@ bgPF
 
 \subsubsection{Kosten}
 
-Zunächst wird die monetäre Seite der drei Technologien betrachtet. Es soll die Frage beantwortet werden, ob durch die drei Technologien zusätzliche Lizenzkosten, laufende Kosten durch Abonnements und Kosten für Netzwerk-Traffic entstehen.
+Zunächst wird die monetäre Seite der drei Technologien betrachtet. Es soll die Frage beantwortet werden, ob durch die drei Technologien zusätzliche Lizenzkosten, laufende Kosten durch Abonnements und Kosten für Netzwerk-Traffic entstehen. 
 
 Workflows
 
@@ -158,16 +158,16 @@ Hier soll eine Entscheidungsmatrix entwickelt werden, welchen Lösungsansatz man
 
 Experteninterviews:
 
-- BusinessEvents (Karsten Strothmann) \newline
-- Business Workflows (Eric Serie) \newline
-- bgPF (Bernhard Grusie)
+% - BusinessEvents (Karsten Strothmann) \newline
+% - Business Workflows (Eric Serie) \newline
+% - bgPF (Bernhard Grusie)
 
-mögliche Vergleichskriterien:
+% mögliche Vergleichskriterien:
 
-- Komplexität der Implementierung (Ranking: Workflow > Business Events > bgPF) -> Lines of Code, Artefakte \newline
-- Systemlandschaft (Cloudkomponente (Datenschutz) EventMesh von BTP bei Business Events nötig, bgPF/ Workflows brauchen das nicht) \newline
-- Performance (Rechenlast, Zeit) (BE nicht so gut, weil Kommunikation über Web zu Cloud über HTTP, bgPF <-> Workflows nehmen sich nicht viel) \newline
-- Kosten (Vorteil Workflows: Release (Abwärts-) Kompatibilität zu ECC (gibts schon immer), Drängen von Kunden auf Funktionsverfügbarkeit in alten Systemen) (BE: Lizenzkosten für BTP Komponente, Netzwerklast durch HTTP Kommunikation bei Kunde) \newline
-- Flexibilität (Workflows sehr flexibel, viele Anbindungen, sehr gute Integration zu zB. Emails) (Beiden anderen Techniken eher low level Code, wenig Anbindungen an andere Frameworks) \newline
-- Skalierbarkeit (Workflows (nicht aufteilbar), BE überhaupt nicht) (bgPF Autoskalierbar, -> siehe Praxiskapitel) \newline
-- Wartbarkeit (Workflows extrem gut wartbar -> komplett auf ABAP-Instanz debuggbar/ nachvollziehbar) (bgPF ähnlich) (BE schlechte Wartbarkeit, da über viele Systeme, Frameworks, intransparente Analysemöglichkeiten)
+% - Komplexität der Implementierung (Ranking: Workflow > Business Events > bgPF) -> Lines of Code, Artefakte \newline
+% - Systemlandschaft (Cloudkomponente (Datenschutz) EventMesh von BTP bei Business Events nötig, bgPF/ Workflows brauchen das nicht) \newline
+% - Performance (Rechenlast, Zeit) (BE nicht so gut, weil Kommunikation über Web zu Cloud über HTTP, bgPF <-> Workflows nehmen sich nicht viel) \newline
+% - Kosten (Vorteil Workflows: Release (Abwärts-) Kompatibilität zu ECC (gibts schon immer), Drängen von Kunden auf Funktionsverfügbarkeit in alten Systemen) (BE: Lizenzkosten für BTP Komponente, Netzwerklast durch HTTP Kommunikation bei Kunde) \newline
+% - Flexibilität (Workflows sehr flexibel, viele Anbindungen, sehr gute Integration zu zB. Emails) (Beiden anderen Techniken eher low level Code, wenig Anbindungen an andere Frameworks) \newline
+% - Skalierbarkeit (Workflows (nicht aufteilbar), BE überhaupt nicht) (bgPF Autoskalierbar, -> siehe Praxiskapitel) \newline
+% - Wartbarkeit (Workflows extrem gut wartbar -> komplett auf ABAP-Instanz debuggbar/ nachvollziehbar) (bgPF ähnlich) (BE schlechte Wartbarkeit, da über viele Systeme, Frameworks, intransparente Analysemöglichkeiten)
