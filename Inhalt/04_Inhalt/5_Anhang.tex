@@ -56,7 +56,7 @@ Wie komplex ist eine Implementierung von Business Events? (genauere Beschreibung
 
 \subsubsection{Auswirkungen auf die Systemlandschaft}
 
-Hat die Implementierung von Business Events Auswirkungen auf die Systemlandschaft? (Zusätzliche Systemkomponenten, Umstrukturierung von Prozessen, Migrationsaufwand on-prem Landschaft zu eventgesteuerter Architektur, Cloud nötig, …)
+Hat die Implementierung von Business Events Auswirkungen auf die Systemlandschaft? (Zusätzliche Systemkomponenten, Umstrukturierung von Prozessen, Migrationsaufwand on-premise Landschaft zu eventgesteuerter Architektur, Cloud nötig, …)
 
 \subsubsection{Performance}
 
@@ -99,16 +99,67 @@ Sind Business Events abwärtskompatibel zu älteren Releases bzw. älteren SAP-S
 \begin{list}{X:}{\setlength{\labelsep}{5mm}}
     \linenumbers[1]
     \item[\textbf{T}:] Hallo Eric, vielen Dank, dass du dir die Zeit für dieses Interview im Rahmen meiner Praxisarbeit genommen hast. Thematisch soll es heute um die SAP-Technologie Business Workflows gehen. Doch starten wir bei dir als Person. Wer bist du und was ist deine Aufgabe in unserer Abteilung AIS HCM? Du kannst auch darauf eingehen, was du in deinem Arbeitsalltag machst und wo du mit Workflows in Kontakt kommst.
-    \item[\textbf{E}:] Hallo Tom, ich bin Eric Serie. Ich habe 1997 bei SAP angefangen. Ich war anfangs in einer französischen Abteilung und jetzt seit über zehn Jahren in der AIS HCM. In meinem Arbeitsalltag kümmere ich mich größtenteils um Kundenmeldungen und helfe Kollegen bei Fragen. Mein Bereich ist die Personaladministration und ich betreue die Workflows der SAP Basis. Hier komme ich mit Workflows in Kontakt. Ich betreue den Teil der Workflows, die mit Personalentwicklung und Objekten wie Planstellen, Organisationseinheiten und Personalnummern zu tun haben.
+    \item[\textbf{E}:] Hallo Tom, ich bin Eric Serie. Ich habe 1997 bei SAP angefangen. Ich war anfangs in einer französischen Abteilung und jetzt seit über zehn Jahren in der AIS HCM. In meinem Arbeitsalltag kümmere ich mich grö{\ss}tenteils um Kundenmeldungen und helfe Kollegen bei Fragen. Mein Bereich ist die Personaladministration und ich betreue die Workflows der SAP Basis. Hier komme ich mit Workflows in Kontakt. Ich betreue den Teil der Workflows, die mit Personalentwicklung und Objekten wie Planstellen, Organisationseinheiten und Personalnummern zu tun haben.
     \item[\textbf{T}:] Danke für deine kurze Vorstellung. Noch vorneweg: Darf ich das Interview aufzeichnen, transkribieren und - wenn du damit einverstanden bist - in meiner Praxisarbeit verwenden? 
     \item[\textbf{E}:] Ja.
     \item[\textbf{T}:] Ok, super. Dann kommen wir zu den inhaltlichen Fragen. Zur Komplexität der Implementierung: Kannst du beschreiben, wie komplex eine Implementierung von Workflows ist, also was man genau machen muss und welche Artefakte erstellt werden müssen?
     \item[\textbf{E}:] Ein Workflow kann sehr einfach sein, also eine einfache Aufgabe erfüllen, wie \zB eine E-Mail versenden oder sehr komplex, da ein Workflow viele Aufgaben oder Schritte haben kann und diese können dann auch wieder sehr verschieden sein, wie zum Beispiel eine Entscheidung oder Genehmigung oder eine komplizierte Aufgabe, wie eine Abwesenheit anzulegen. Es gibt bei Workflows viele verschiedene Schritte und Schritttypen, deshalb können sie sehr komplex sein. Zudem kann in einem Schritt eines Workflows eigenes ABAP-Coding ausgeführt werden, was Workflows auch nochmal komplexer macht.
-    \item[\textbf{T}:] Okay, dass heißt, dass die Komplexität eines Workflows sozusagen mit der Anzahl seiner Schritte steigt? 
+    \item[\textbf{T}:] Okay, dass hei{\ss}t, dass die Komplexität eines Workflows sozusagen mit der Anzahl seiner Schritte steigt? 
     \item[\textbf{E}:] Ja, das ist auf jeden Fall so.
-    \item[\textbf{T}:]  
+    \item[\textbf{T}:] Kommen wir zur nächsten Frage: Hat die Implementierung von Workflows Auswirkungen auf die Systemlandschaft, also braucht man zusätzliche Systemkomponenten, sind Cloud-Komponenten nötig?
+    \item[\textbf{E}:] Nein, Workflows sind komplett in der SAP-Basis enthalten und jedes System hat diese Funktionalität.
+    \item[\textbf{T}:] Das hei{\ss}t, dass wenn sich der Kunde ein SAP ERP-System kauft, ist das dort alles mit enthalten?
+    \item[\textbf{E}:] Genau.
+    \item[\textbf{T}:] Damit einhergehend der Kostenfaktor: Entstehen durch die Implementierung von Workflows irgendwelche zusätzlichen Kosten?
+    \item[\textbf{E}:] Nein, gar nicht.
+    \item[\textbf{T}:] Ok, dann auch hier alles mit dem einmaligen Kauf der SAP-Softwarelizenz abgedeckt?
+    \item[\textbf{E}:] Ja.
+    \item[\textbf{T}:] Dann kommen wir zur Flexibilität von Workflows: Wie flexibel sind Workflows im Bezug auf ihre spätere Anpassbarkeit, Gestaltungsmöglichkeiten bei speziellen Anforderungen und auch auf Integrationsmöglichkeiten mit anderen Technologien?
+    \item[\textbf{E}:] Workflows sind ziemlich flexibel, SAP liefert zwei Arten von Workflows aus: klassische und flexible Workflows. Beim klassischen Workflow liefert SAP gro{\ss}e Muster-Workflows für bestimmte Geschäftsprozesse aus und der Kunde kopiert sich diese Muster und passt diese dann auf seine Bedürfnisse an. Klar, der Kunde muss etwas von der Technik verstehen, aber er muss die Muster nur an seine Gegebenheiten anpassen. Der Nachteil an diesem Konzept ist, dass wenn der Muster-Workflow fehlerhaft ist und wir eine Korrektur veröffentlichen, diese Korrektur nicht automatisch im System des Kunden übernommen wird, sondern der Kunde seinen Workflow selbstständig anpassen muss. Für die Cloud gibt es ein neues Konzept, die flexiblen Workflows. Hier liefern wir nur kleinere einzelne Schritte bzw. Workflows, die der Kunde dann in seinen Workflow integriert. Sollte dann ein Fehler in diesen kleinen Schritten gefunden werden, ist nur dieser kleine Teil des Workflows betroffen und der Kunde bekommt zudem automatisch die Korrektur. Zudem sind diese kleineren Workflows flexibler, da sie sich modular zusammensetzen lassen.
+    \item[\textbf{T}:] Ok, ich fasse das nochmal zusammen: Vorher [Anmerkung: on-premise-Umfeld] war es so, dass SAP einen gro{\ss}en Workflow ausgeliefert, der gro{\ss}e Prozesse abgedeckt hat und den der Kunde nur noch an sich anpassen musste. Wenn in diesem Workflow ein Fehler gefunden wurde, musste der Kunde, euere Korrektur trotzdem noch einmal selbst bei sich anpassen. Jetzt ist dann sozusagen das Ziel, dass nur noch kleinere Workflows ausgeliefert werden.
+    \item[\textbf{E}:] Ja genau, jetzt liefern wir nur noch kleinere Teile und aus diesem muss der Kunde nur noch seinen Workflow zusammensetzen. Wenn SAP einen Fehler in diesem kleinen Teilen findet, bekommt der Kunde die Korrektur automatisch.
+    \item[\textbf{T}:] Du hast ja gesagt, dass sich Workflows aus einzelnen Schritten zusammensetzen. Das hei{\ss}t, dass der Kunde sich auch aus allen verfügbaren Einzelschritten bei einer speziellen Anforderung seinen komplett eigenen Prozess frei zusammenbauen, also er ist nicht an die SAP-Vorlagen gebunden?
+    \item[\textbf{E}:] Ja genau, da hast du recht.
+    \item[\textbf{T}:] Kannst du etwas zu Integrationsmöglichkeiten von Workflows zu anderen Technologien sagen. Du hast beispielsweise schon das Versenden von E-Mails angesprochen.
+    \item[\textbf{E}:] Da Workflows Teil der SAP-Basis Softwarekomponente sind, können diese mit allen anderen Komponenten/ Schichten interagieren. Somit kann jeder Entwickler auf die Workflows in der SAP-Basis zugreifen und diese gegebenenfalls an ihre Bedürfnisse anpassen. Deshalb sind Workflows gut mit anderen Technologien integrierbar.
+    \item[\textbf{T}:] Hier spielt dann ja auch wahrscheinlich mit hinein, dass man in einem Workflow-Schritt sein eigenes ABAP-Coding ausführen kann und somit alles machen kann?
+    \item[\textbf{E}:] Ein Beispiel hierfür wären Berechtigungen: Ein Basis-Workflow kann keine Berechtigungen, die eventuell in anderen Anwendungen benötigt werden, prüfen. Hier kann man beispielsweise durch eigenes ABAP-Coding diese Berechtigungsprüfungen selbst implementieren und die Funktionalität des Workflows beliebig erweitern.
+    \item[\textbf{T}:] Ok, danke. Dann zur nächsten Frage: Wie skalierbar sind Workflows? Ist die Ausführung eines Workflows auf mehrere Prozesse aufteilbar und gibt es Frameworks, die die effiziente Skalierung übernehmen? Gerade wir in der AIS setzen Workflows ja auch in Fiori-Apps ein, die ja ein sehr hohes Nutzungsvolumen haben.
+    \item[\textbf{E}:] Das ist eine gute Frage. Ich würde sagen, dass Workflows an sich sehr flexibel sind. Die Workflows der Basis sind sehr performant und schnell in der Ausführung. Normalerweise gibt es hier keine Probleme bei Anwendungen, die viele Workflows ausführen müssen.
+    \item[\textbf{T}:] Das hei{\ss}t der Workflow an sich ist ein gro{\ss}er zusammenhängender Prozess, der nicht nochmal unterteilt und über mehrere Applikationsserver verteilt ausgeführt werden kann.
+    \item[\textbf{E}:] Ja genau, da hast du recht.
+    \item[\textbf{T}:] Zum Thema Wartbarkeit: Wie wartbar sind Workflows? Also kann ich das zentral an einer Stelle machen oder muss ich Probleme über mehrere Komponenten verteilt suchen?
+    \item[\textbf{E}:] Nein, die Workflows werden an einer Stelle erstellt und können auch von dort aus zentral gewartet werden, auch wenn sie andere Komponenten beeinflussen. Die Wartung ist ziemlich einfach.
+    \item[\textbf{T}:] Dann kommen wir auch schon zu meiner letzten Frage, die Abwärtskompatibilität. Oft findet man die Situation vor, dass Kunden eine Systemlandschaft aus neueren und älteren Systemen haben. Dahingehend die Frage, wie abwärtskompatibel sind Workflows?
+    \item[\textbf{E}:] Klassische Workflows funktionieren in allen Systemen. Flexible Workflows jedoch nicht, da es diese noch nicht so lange gibt und nur für die Cloud gedacht sind. Klar gibt es im Bezug auf die UI einige Verbesserungen mit den neuren Versionen, aber abgesehen davon ist es in allen Systemen das Gleiche. Auch das Entwickeln eines Workflows in einem höheren Release und das Herunterziehen in einen älteren Release ist überhaupt kein Problem.
+    \item[\textbf{T}:] Ok gut, das wars dann auch schon mit meinen Fragen. Dann bedanke ich mich für das Interview und würde dir dann das Transkript nochmal zuschicken, damit das für dich passt und ich das dann in meiner Arbeit verwenden kann.
+    \item[\textbf{E}:] Ok, so machen wir das.
 \end{list}
 
 \subsection{Business Events} \label{T_Business-Events}
 
+\textbf{Befragender:} Tom Wolfrum (Abkürzung: \textbf{T})
+
+\textbf{Befragter:} Karsten Strothmann (Abkürzung: \textbf{K})
+
+\textbf{Datum:} 24.07.2023
+
+\begin{list}{X:}{\setlength{\labelsep}{5mm}}
+    \linenumbers[1]
+    \item[\textbf{T}:] abc
+    \item[\textbf{K}:] def 
+\end{list}
+
 \subsection{bgPF} \label{T_bgPF}
+
+\textbf{Befragender:} Tom Wolfrum (Abkürzung: \textbf{T})
+
+\textbf{Befragter:} Vorname Nachname (Abkürzung: \textbf{V})
+
+\textbf{Datum:} xx.yy.2023
+
+\begin{list}{X:}{\setlength{\labelsep}{5mm}}
+    \linenumbers[1]
+    \item[\textbf{T}:] abc
+    \item[\textbf{V}:] def 
+\end{list}
