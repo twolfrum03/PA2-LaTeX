@@ -763,7 +763,6 @@ INPUT ./Bilder/Business-Events_BO-as-event-consumer.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 OUTPUT Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
@@ -772,6 +771,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 OUTPUT Inhalt/04_Inhalt/5_Anhang.aux
 INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
 INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss8.tfm
 INPUT ./Praxisbericht.aux
