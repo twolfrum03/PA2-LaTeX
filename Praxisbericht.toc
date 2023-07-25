@@ -34,17 +34,17 @@
 \contentsline {section}{\numberline {3.2}Vergleich der Ansätze}{27}{section.3.2}%
 \contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{28}{subsubsection*.46}%
 \contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{29}{subsubsection*.48}%
-\contentsline {subsubsection}{\nonumberline Performance}{29}{subsubsection*.50}%
+\contentsline {subsubsection}{\nonumberline Performance}{30}{subsubsection*.50}%
 \contentsline {subsubsection}{\nonumberline Kosten}{30}{subsubsection*.52}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{30}{subsubsection*.54}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{31}{subsubsection*.54}%
 \contentsline {subsubsection}{\nonumberline Skalierbarkeit}{31}{subsubsection*.56}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{31}{subsubsection*.58}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{32}{subsubsection*.58}%
 \contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{32}{subsubsection*.60}%
-\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{32}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{33}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{33}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{33}{section.4.3}%
+\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{33}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Zusammenfassung}{34}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{34}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{34}{section.4.3}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{VII}{chapter*.61}%
 \contentsline {chapter}{\numberline {A}Anhang}{IX}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Fragebögen Experteninterviews}{IX}{section.A.1}%
