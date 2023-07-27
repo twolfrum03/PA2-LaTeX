@@ -98,7 +98,7 @@ Die Performance der drei Lösungsansätze wird anhand der Rechenlast, die auf de
 
 Allgemein lässt sich sagen, dass der Performance-Aspekt bei Workflows in einer typischen Systemlandschaft kein Problem darstellt und auch bei sehr häufig stattfindenden Prozessen keine Leistungsgrenzen erreicht werden. Zudem werden Workflows, bedingt durch die Prozesse, die mit ihnen abgebildet werden, meist nicht auf einmal ausgeführt, sondern immer nur einzelne oder wenige Schritte. Diese Schritte erzeugen für sich keine nennenswerte Last auf dem System und sind meist sehr unterschiedlich. Der limitierende Faktor hingegen ist eher der Anwender, da in vielen Prozessen manuell Entscheidungen getroffen werden müssen oder der Benutzer aktiv Dinge tun muss, wodurch die Ausführung blockiert ist. Auch in dem Fall, dass viele Schritte eines Workflows hintereinander ausgeführt werden, bearbeitet das System alle Tätigkeiten im Hintergrund ohne den Anwender zu beeinflussen. Kommunikation über Systemgrenzen hinaus, die die Performance verschlechtern würde, ist zwar theoretisch möglich, aber in der Realität meist nicht notwendig und die Ausführung von Workflows findet beim Gro{\ss}teil der Geschäftsprozesse rein lokal statt. Somit sind Workflows insgesamt eine performante Technologie. (vgl. Anhang \ref{T_Workflows}, Z. 41-66)
 
- (vgl. Anhang \ref{T_Business-Events}, Z. 109-135)
+Der Einsatz von Business Events ist für das Quellsystem der Events von erheblichen Vorteil, da durch den eventgesteuerten Ansatz die nachgelagerte Code-Ausführung gezielt ausgelöst werden kann und keine Last durch permanente API-Calls, um zu prüfen, ob das relevante Ereignis eingetreten ist, entsteht. Das ausschlaggebende Kriterium bei Business Events im Bezug auf die Performance sind die mitgeschickten Daten: Je mehr Daten bei einem Event mitgeschickt werden, desto größer wird es und desto mehr Last entsteht bei der Erzeugung und Weiterleitung. Hier gilt es, den Mittelweg zwischen der Menge an mitgeschickten Informationen und der Menge an API-Calls zu finden. Insgesamt dürfe das für den konkreten Anwendungsfall jedoch kein Problem darstellen, da kleine Benachrichtigungs-Events ausreichen um eine asynchrone Code-Ausführung im Hintergrund anzustoßen. (vgl. Anhang \ref{T_Business-Events}, Z. 109-135)
 
 bgPF
 
@@ -108,7 +108,7 @@ Zunächst wird die monetäre Seite der drei Technologien betrachtet. Es soll die
 
 Da die Workflows in der SAP-Basis mit jedem System enthalten sind, entstehen für den Kunden keine weiteren Kosten durch die Implementierung dieser Technologie. (vgl. Anhang \ref{T_Workflows}, Z. 67-72)
 
-Business Events
+Die Implementierung von Business Events verursacht Kosten. Zum einen durch das Betreiben eines Brokers, wie \zB dem SAP Event Mesh. Kleinere Broker wie dieser, die vor Allem auf kleinere Notification-Events ausgelegt sind, werden gemietet und nach dem Benutzungsvolumen bezahlt. Hier liegen die Kosten, wenn nur einzlene Anwendungsfälle oder Bereiche abgebildet werden im dreistelligen Bereich pro Monat. Soll jedoch die gesamte Unternehmensarichtektur mit Events gesteuert werden, müssen umfangreichere Technologien zum Einsatz kommen, bei denen die Kosten schnell im sechsstelligen Bereich liegen. Hier ist der relevante Faktor die Betrachtung des Break-even-Punkts, ab dem man Geld spart, da die Infrastruktur vorhanden ist und Skaleneffekte eintreten. Ab welcher Anzahl an Events diese Technologie günstiger ist, muss im Einzelfall betrachtet werden. Im konkreten Anwendungsfall sollte das nicht gegen Business Events als Lösungsansatz sprechen, da hier nur ein spezieller Anwendungsfall mit kleinen Events betrachtet wird, der auch mit dem SAP Event Mesh abgebildet werden kann. (vgl. Anhang \ref{T_Business-Events}, Z. 136-163)
 
 bgPF
 
@@ -118,7 +118,7 @@ Beim Kriterium der Flexibilität soll die spätere Anpassbarkeit der Lösungsans
 
 Bei der Flexibilität von Workflows muss zwischen klassischen und flexiblen Workflows unterschieden werden. Bei der Betrachtung der  Gestaltungsmöglichkeiten bei speziellen Anforderungen verhalten sich beide Varianten gleich, die Vorlagen, die hier von SAP an Kunden ausgeliefert werden, sind nochmals an die konkreten Bedürfnisse und Geschäftsprozesse anpassbar. Im Bezug auf die spätere Anpassbarkeit sind flexible Workflows im Vorteil, da hier Fehlerkorrekturen im Gegensatz zu klassischen Workflows automatisch im Kundensystem übernommen werden, sobald diese von der SAP veröffentlicht wurden. Bei klassischen Workflows müssen diese noch aktiv vom Kunden umgesetzt werden. Jedoch sind flexible Workflows nur für Cloud-Produkte verfügbar. Die Integrationsmöglichkeiten mit anderen Technologien sind für Workflows auch sehr umfangreich, da auf diese als Teil der SAP-Basis von allen anderen Softwarekomponenten aus zugegriffen werden kann. Insgesamt sind Workflows sehr flexibel, da der Kunde nicht an die Vorlagen der SAP gebunden ist und durch das Ausführen von eigenem ABAP-Coding weitgehende Freiheiten hat. (vgl. Anhang \ref{T_Workflows}, Z. 73-115)
 
-Business Events
+Die Flexibilität von Business Events hängt stark von der verwendeten Technologie ab. Auf der einen Seite gibt es Standard-Events, die sehr unflexibel sind, auf der anderen Seite sind Custom Events mit dem Netweaver Event-Enablement Add-On sehr flexibel und schnell anpassbar. Durch die möglichkeit ein eigenes Event mit RAP zu programmieren erhält der Entwickler fast unbegrenzte Freiheiten, solange man sich im Cloud Events Standard bewegt. Events lassen sich auch untereinander mit anderen Events kombinieren. Diese können \zB beim Passieren des Event Brokers verändert werden oder in anderen Systemkomponenten gewisse Logik auslösen. Somit sind Business Events insgesamt im Bezug auf ihre spätere Anpassbarkeit und ihre Integrationsmöglichkeiten mit anderen Technologien sehr flexibel. (vgl. Anhang \ref{T_Business-Events}, Z. 164-186)
 
 bgPF
 
@@ -128,7 +128,7 @@ Die Skalierbarkeit der Komponenten beschreibt ihre Fähigkeit bei wachendem Nutz
 
 Workflows sind an sich gro{\ss}e zusammenhängende Prozesse, die aufgrund der sequentiellen Reihenfolge der einzelnen Schritte nicht unterteilt und \zB parallel ausgeführt werden können. Somit skalieren Workflows nur linear, die Menge an beanspruchten Ressourcen steigt proportional zur Anzahl der laufenden Prozesse. (vgl. Anhang \ref{T_Workflows}, Z. 116-127)
 
-Business Events
+Das Thema Skalierbarkeit ist eine der großen Stärken von Business Events. Event Broker sind darauf ausgelegt bis hin zu mehreren Milliarden von Events pro Tag zu verarbeiten und weiterzuleiten. Bei dieser Technologie erreichen als erstes das Back-End-System, von dem aus die Events losgeschickt werden oder das System, das die Events letztendlich empfängt ein Limit. Aber auch dieses Limit wird erst sehr spät erreicht, da die Technologie allgemein auf starke Skalierung ausgelegt ist. (vgl. Anhang \ref{T_Business-Events}, Z. 187-193)
 
 bgPF
 
@@ -138,7 +138,7 @@ Software wird als leicht wartbar bezeichnet, wenn sie leicht verändert, erweite
 
 Workflows werden im SAP-System zentral an einer Stelle erstellt, konfiguriert und verwaltet. Von dieser Stelle kann auch zentral das Debugging stattfinden, auch wenn andere Systemkomponenten beeinflusst werden. Somit kann die Wartung als relativ einfach beschrieben werden. 
 
-Business Events
+Die Wartbarkeit von Business Events wird maßgeblich davon beeinflusst, inwieweit die Grundsätze der eventgesteuerten Architektur bei der Implementierung eingehalten wurden. Dann kann die gesamte Wartung nur an der Eventquelle geschehen, da die Events unabhängig von ihrem Konsumenten konstruiert sind. Realistisch ist der Wartungsaufwand und die Komplexität jedoch etwas höher, da oft Konsumenten schon im Voraus aus Effizienzgründen Annahmen über die Gestalt der Events treffen. Somit muss die Wartung dann neben dem Quell-System auch beim Konsumenten und dem Event Broker erfolgen. Auch die Art der Events ist entscheidend, da kleinere Notification Events grundsätzlich einfacher zu warten sind als große Daten Events. Insgesamt sind Business Events jedoch gut wartbar. (vgl. Anhang \ref{T_Business-Events}, Z. 194-212)
 
 bgPF
 
@@ -148,7 +148,7 @@ Zuletzt wird noch die Abwärtskompatibilität der Ansätze betrachtet.
 
 Klassische Workflows sind keine neue Technologie mehr und funktionieren in allen gängigen (auch älteren) SAP-Systemen. Auf flexible Workflows trifft das jedoch nicht zu, da diese für die Cloud entwickelt wurden und eine neuere Technologie sind. Bei klassischen Workflows wurde in neueren Versionen lediglich die Benutzeroberfläche angepasst, die Funktionalität ist gleich geblieben. Somit können Workflows, die in neueren Versionen entwickelt wurden problemlos in ältere Systeme kopiert werden. Zusammenfassend eigenen sich Workflows sehr gut, wenn Abwärtskompatibilität ein wichtiges Kriterium ist.
 
-Business Events
+Die Abwärtskompatibilität wird auch im Wesentlichen von der verwendeten Technologie bestimmt. Sollen Standard Events zum Einsatz kommen, muss das S/4 Back-End-System immer auf der aktuellsten Version sein, da ältere Versionen die neuen Features nicht unterstützen. Genau für ältere Systeme gibt es das Event Enablement Add-On, was dafür ausgelegt ist, auch noch mit alten SAP ECC Systemen zu arbeiten. Somit sind Business Events zumindest teilweise abwärtskompatibel.(vgl. Anhang \ref{T_Business-Events}, Z. 213-223)
 
 bgPF
 
