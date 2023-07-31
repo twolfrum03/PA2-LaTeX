@@ -4,7 +4,21 @@ Im folgenden sollen die wichtigsten Ergebnisse noch einmal zusammengefasst werde
 
 \section{Zusammenfassung}
 
+\textcolor{red}{ÜBERARBEITEN!!! CHATGPT!!!}
 
+Die wissenschaftliche Arbeit beschäftigt sich mit der Umsetzung sequentieller Prozesse im REST-Umfeld und vergleicht verschiedene praktische Lösungsansätze in SAP-Systemen. Der theoretische Teil der Arbeit führt in die Grundlagen von RESTful-APIs ein, erläutert das ABAP Restful Application Programming Model (RAP) und stellt SAP Fiori Elements als Framework für benutzerfreundliche Anwendungen vor.
+
+Der praktische Teil untersucht drei Ansätze für asynchrone Prozesse mit sequentieller Kommunikation: Business Workflows, Business Events und das Background Processing Framework (bgPF). Workflows ermöglichen die Abbildung verschiedener Geschäftsprozesse im SAP-System und eignen sich für repetitive Prozesse. Business Events ermöglichen asynchrone Kommunikation zwischen Business Objects, während das bgPF die Auslagerung von Logik in separate Prozesse erlaubt.
+
+Die Vergleichsanalyse zeigt, dass Workflows potenziell komplex sind, während Business Events je nach Ansatz variieren und das bgPF eher einfach einzusetzen ist. In Bezug auf die Systemlandschaft benötigen Workflows keine zusätzlichen Anforderungen, während Business Events und bgPF spezifische Broker bzw. Event Meshes erfordern. Workflows zeigten gute Performance, jedoch können Benutzerinteraktionen die Ausführung blockieren. Business Events waren effizient, aber die Grö{\ss}e der Daten kann die Performance beeinflussen, während das bgPF durch asynchrone Ausführung eine gewisse Verzögerung aufweist.
+
+Die Kosten variieren bei den Ansätzen: Workflows verursachen keine zusätzlichen Kosten, während Business Events und bgPF Investitionen erfordern können. Hinsichtlich Flexibilität bieten Workflows Anpassungsmöglichkeiten durch ABAP-Coding, während Business Events und bgPF ebenfalls anpassbar sind und gut in die Systemlandschaft integriert werden können.
+
+In Bezug auf Skalierbarkeit zeigen Workflows lineares Wachstum, Business Events sind gut skalierbar, während das bgPF derzeit noch Defizite in Bezug auf die Skalierbarkeit hat, da es ausschlie{\ss}lich in Cloud-Systemen verfügbar ist. Die Wartbarkeit von Workflows ist relativ einfach, während Business Events und bgPF von der korrekten Implementierung abhängig sind, aber gut gewartet werden können.
+
+Abschlie{\ss}end wird die Abwärtskompatibilität betrachtet: Workflows sind abwärtskompatibel, während Business Events und bgPF von der verwendeten Technologie und Version abhängen. Workflows bieten sich somit an, wenn Abwärtskompatibilität wichtig ist.
+
+In der Entscheidungsmatrix zeigt sich, dass Workflows breite Stärken haben, Business Events besonders skalierbar und effizient sind, während das bgPF Framework besonders für Cloud-Systeme geeignet ist. Alle drei Ansätze sind je nach spezifischem Anwendungsszenario nutzbar.
 
 \section{Handlungsempfehlung}
 

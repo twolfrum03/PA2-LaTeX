@@ -43,8 +43,8 @@
 \contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{37}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{39}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Zusammenfassung}{39}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{39}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{40}{section.4.3}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{40}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{41}{section.4.3}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{VII}{chapter*.63}%
 \contentsline {chapter}{\numberline {A}Anhang}{IX}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Fragebögen Experteninterviews}{IX}{section.A.1}%
