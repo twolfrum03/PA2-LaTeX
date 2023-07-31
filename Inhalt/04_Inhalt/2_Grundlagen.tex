@@ -9,10 +9,10 @@ Eine API ist eine Schnittstelle, über die verschiedene Softwareanwendungen mite
 Eine RESTful-API ist eine spezielle Schnittstelle, die den Designkonventionen nach REST folgt.
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[height=5.95cm]{Bilder/REST_Rest.png}
-    \caption[REST Designprinzipien]{REST Designprinzipien, Abgerufen von \cite{fielding_architectural_2000} am 05.07.2023.}
-    \label{fig:iso_norm}
+ \centering
+ \includegraphics[height=5.95cm]{Bilder/REST_Rest.png}
+ \caption[REST Designprinzipien]{REST Designprinzipien, Abgerufen von \cite{fielding_architectural_2000} am 05.07.2023.}
+ \label{fig:iso_norm}
 \end{figure}
 
 \subsubsection{Client-Server-Architektur}
@@ -49,10 +49,10 @@ RAP baut im Allgemeinen auf drei Säulen auf: Anders als in den vorhergehenden P
 \subsubsection{Architektur eines Business Services in RAP}
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[height=8cm]{Bilder/RAP_Architektur.png}
-    \caption[RESTful Application Programming Model Architektur]{RESTful Application Programming Model Architektur, Abgerufen von \cite{sap_rap_2023} am 09.07.2023.}
-    \label{fig:iso_norm}
+ \centering
+ \includegraphics[height=8cm]{Bilder/RAP_Architektur.png}
+ \caption[RESTful Application Programming Model Architektur]{RESTful Application Programming Model Architektur, Abgerufen von \cite{sap_rap_2023} am 09.07.2023.}
+ \label{fig:iso_norm}
 \end{figure}
 
 \subsubsection{Modellierung von Daten und Verhalten}
@@ -87,10 +87,10 @@ Verglichen mit SAP UI5 Freestyle (Freestyle abgekürzt), der anderen Technologie
 
 Beide Fiori Technologien, Elements und Freestyle verwenden das Model-View-Controller Konzept, auf welches im Folgenden genauer eingegangen wird.
 \begin{figure}[H]
-    \centering
-    \includegraphics[height=5cm]{Bilder/Fiori_Model-View-Controller-Konzept.png}
-    \caption[Model-View-Controller Konzept]{Model-View-Controller Konzept, Abgerufen von \cite{sap_sapui5-sap-hel-docu_2023} am 13.07.2023.}
-    \label{fig:iso_norm}
+ \centering
+ \includegraphics[height=5cm]{Bilder/Fiori_Model-View-Controller-Konzept.png}
+ \caption[Model-View-Controller Konzept]{Model-View-Controller Konzept, Abgerufen von \cite{sap_sapui5-sap-hel-docu_2023} am 13.07.2023.}
+ \label{fig:iso_norm}
 \end{figure}
 
 Das Konzept unterteilt eine Anwendung in ein Modell, einen View und einen Controller. Das Modell verwaltet die Daten der Anwendung und stellt Methoden bereit, um die Daten aus der Datenbank abzurufen und bei Bedarf zu bearbeiten. Fiori unterstützt Client- und serverseitige Modelle. Das hei{\ss}t, dass das Modell entweder komplett vom Client heruntergeladen wird und dort dann lokal existiert, oder bei serverseitigen Modellen nur die jeweils angefragten Daten vom Client beim Server angefordert werden. Daraus resultiert, dass clientseitige Modelle sich aus Performancegründen nur bei kleinen Datenmodellen empfehlen lassen und sich für gro{\ss}e Modelle eher serverseitige Datenmodelle anbieten. Wenn das Modell auf der Client Seite existieren soll, kann entweder ein JSON-, XML- oder Ressourcen-Modell verwendet werden. Serverseitig kann ein OData-Service in den Versionen zwei und vier verwendet werden. Es ist auch möglich für verschiedene Bereiche einer Anwendung jeweils verschiedene Modelle zu definieren und diesen auch modellspezifisch über den Controller verschiedene Interaktionsmöglichkeiten mit dem View zu geben. Der View definiert und rendert die Benutzeroberfläche und legt somit das Aussehen der App für den Anwender fest und visualisiert die Daten des Models. Standardmä{\ss}ig werden XML- und JSON-Views unterstützt. Zudem kann man einen View als eigene Klasse selbst programmieren. Der Controller ist für die Interaktionen des Benutzers mit der App zuständig und enthält Methoden, die die Interaktion zwischen Modell und View regeln. Er enthält den Programmcode für die Geschäftsprozesslogik hinter der Anwendung. Zudem kann der Controller in Methoden oder zu bestimmten Zeitpunkten, wie \zB bei Start oder Beenden der Anwendung Events auslösen. Diese Events können dann von anderen Controllern empfangen und verarbeitet werden. Somit können eventgesteuert bestimmte Aktionen in der Anwendung ausgelöst werden. ''Data-binding'' wird verwendet, um die Daten des Modells und den View zu synchronisieren und das Bearbeiten dieser Daten direkt auf der Benutzeroberfläche zu ermöglichen. Das Data binding definiert, wie das Model und der View miteinander kommunizieren. Eine Art, die Daten des Models an die UI zu binden, ist das One-way Binding, welches nur in eine Richtung Daten bindet. Beispielsweise werden hier nur werden Verändernungen der Daten im Modell in die UI synchronisiert und nicht in die Gegenrichtung. Beim Two-way Binding ist diese Bindung in beide Richtungen vorhanden. Wenn sich also Daten entweder im View oder im Model ändern werden diese Änderungen dirket mit der jeweils anderen Komponente synchronisiert. Das Ziel des Konzepts ist es, die Daten der App logisch von den Interaktionen des Benutzers zu trennen. Eine Anwendung in die genannten drei Teile aufzuteilen hat folgende Vorteile: Der Programmcode der Anwendung ist leichter lesbar, wartbar und erweiterbar, da er in logisch zusammenhängende Teile aufgeteilt ist. Somit ist es möglich die Darstellung der Daten in der View zu verändern, ohne die darunterliegende Logik oder das Datenmodell zu ändern und mit mehreren Views mehrere Darstellungsweisen, je nach Anwendungsfall zu erstellen. \footcite[Vgl.][]{sap_sapui5-sap-hel-docu_2023}
@@ -100,19 +100,19 @@ Das Konzept unterteilt eine Anwendung in ein Modell, einen View und einen Contro
 Apps sind in Fiori Elements immer auf vordefinierten Layouts aufgebaut. Diese können am Anfang der Entwicklung einer App ausgewählt werden und geben das generelle Aussehen und Funktionen vor.
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[height=6cm]{Bilder/Fiori_Elements_List_Floorplan.png}
-    \caption[Fiori Elements List Report Floorplan]{Fiori Elements List Report Floorplan. Abgerufen von \cite{sap_ui5-docu_2022} am 13.07.2023.}
-    \label{fig:iso_norm}
+ \centering
+ \includegraphics[height=6cm]{Bilder/Fiori_Elements_List_Floorplan.png}
+ \caption[Fiori Elements List Report Floorplan]{Fiori Elements List Report Floorplan. Abgerufen von \cite{sap_ui5-docu_2022} am 13.07.2023.}
+ \label{fig:iso_norm}
 \end{figure}
 
 Auf dem Bild ist beispielhaft das Layout List Report zu sehen. Dieser kann verwendet werden, wenn der Zweck der Anwendung das Arbeiten mit einer Liste von Dingen \zB Produkten ist. Diese werden dann in einer sortierten Tabelle dargestellt, in der der Benutzer nach Einträgen sortieren, filtern und suchen kann. Hier müssen nur die Produktdaten über einen OData Service bereitgestellt werden und die Darstellung der Daten über UI-Annotationen nach Bedarf angepasst werden. Die restliche Benutzeroberfläche mit Navigation, Suchleisten und Aktionen wird vollständig durch das Framework generiert. Der List Report wird häufig als Einstiegspunkt in einer App verwendet um nach bestimmten Objekten zu suchen und mit diesen dann in einer Object Page näher zu interagieren.
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[height=6cm]{Bilder/Fiori_Elements_Object_Floorplan.png}
-    \caption[Fiori Elements Object Page Floorplan]{Fiori Elements Object Page Floorplan. Abgerufen von \cite{sap_ui5-docu_2022} am 13.07.2023.}
-    \label{fig:iso_norm}
+ \centering
+ \includegraphics[height=6cm]{Bilder/Fiori_Elements_Object_Floorplan.png}
+ \caption[Fiori Elements Object Page Floorplan]{Fiori Elements Object Page Floorplan. Abgerufen von \cite{sap_ui5-docu_2022} am 13.07.2023.}
+ \label{fig:iso_norm}
 \end{figure}
 
 Das List Report Layout wird häufig mit dem Object Page Floorplan in einer App kombiniert, wenn es darum geht, mit den einzelnen Objekten in der Liste zu arbeiten. Die Objekt-Ansicht wird durch einen Klick auf das gewünschte Objekt in der Listen-Ansicht aufgerufen. Hier können dann weitere Informationen zu \zB einem Produkt angezeigt und bei Bedarf auch bearbeitet werden. Des Weiteren gibt es noch Floorplans für eine Worklist, eine Liste mit Unterstützung für diverse Analyseverfahren, wie \zB Drill-Down und ein Dashboard.

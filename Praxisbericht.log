@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  31 JUL 2023 10:34
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  31 JUL 2023 17:07
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -1542,7 +1542,14 @@ LaTeX Warning: Label `fig:iso_norm' multiply defined.
 
 LaTeX Warning: Label `fig:iso_norm' multiply defined.
 
-) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
+
+LaTeX Warning: Label `fig:iso_norm' multiply defined.
+
+) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
+
+LaTeX Warning: Label `fig:iso_norm' multiply defined.
+
+) (./Inhalt/04_Inhalt/5_Anhang.aux))
 \openout1 = Praxisbericht.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1990,6 +1997,8 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
+Package tocbasic Info: Using my definition of `\numberline' on input line 15.
 )
 \tf@lof=\write7
 
@@ -2043,7 +2052,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 \openout2 = Inhalt/04_Inhalt/2_Grundlagen.aux
  (./Inhalt/04_Inhalt/2_Grundlagen.tex
 chapter 2.
-<Bilder/REST_Rest.png, id=192, 1000.73875pt x 388.45125pt>
+<Bilder/REST_Rest.png, id=196, 1000.73875pt x 388.45125pt>
 File: Bilder/REST_Rest.png Graphic file (type png)
 <use Bilder/REST_Rest.png>
 Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
@@ -2054,25 +2063,25 @@ Package luatex.def Info: Bilder/REST_Rest.png  used on input line 13.
 
 
 ] [6<./Bilder/REST_Rest.png>] [7] [8] [9]
-<Bilder/RAP_Architektur.png, id=262, 916.1728pt x 516.42938pt>
+<Bilder/RAP_Architektur.png, id=266, 916.1728pt x 516.42938pt>
 File: Bilder/RAP_Architektur.png Graphic file (type png)
 <use Bilder/RAP_Architektur.png>
 Package luatex.def Info: Bilder/RAP_Architektur.png  used on input line 53.
 (luatex.def)             Requested size: 403.81625pt x 227.62204pt.
  [10] [11<./Bilder/RAP_Architektur.png>] [12] [13] [14] [15]
-<Bilder/Fiori_Model-View-Controller-Konzept.png, id=338, 496.85625pt x 208.52907pt>
+<Bilder/Fiori_Model-View-Controller-Konzept.png, id=342, 496.85625pt x 208.52907pt>
 File: Bilder/Fiori_Model-View-Controller-Konzept.png Graphic file (type png)
 <use Bilder/Fiori_Model-View-Controller-Konzept.png>
 Package luatex.def Info: Bilder/Fiori_Model-View-Controller-Konzept.png  used on input line 91.
 (luatex.def)             Requested size: 338.9874pt x 142.26378pt.
  [16] [17<./Bilder/Fiori_Model-View-Controller-Konzept.png>]
-<Bilder/Fiori_Elements_List_Floorplan.png, id=359, 700.11563pt x 314.67563pt>
+<Bilder/Fiori_Elements_List_Floorplan.png, id=363, 700.11563pt x 314.67563pt>
 File: Bilder/Fiori_Elements_List_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_List_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_List_Floorplan.png  used on input line 104.
 (luatex.def)             Requested size: 379.81949pt x 170.71652pt.
  [18]
-<Bilder/Fiori_Elements_Object_Floorplan.png, id=370, 1244.14813pt x 645.41125pt>
+<Bilder/Fiori_Elements_Object_Floorplan.png, id=374, 1244.14813pt x 645.41125pt>
 File: Bilder/Fiori_Elements_Object_Floorplan.png Graphic file (type png)
 <use Bilder/Fiori_Elements_Object_Floorplan.png>
 Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on input line 113.
@@ -2081,7 +2090,7 @@ Package luatex.def Info: Bilder/Fiori_Elements_Object_Floorplan.png  used on inp
 \openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
  (./Inhalt/04_Inhalt/3_Praxisteil.tex
 chapter 3.
-<Bilder/Business-Workflows_Schema.png, id=386, 360.59718pt x 270.25969pt>
+<Bilder/Business-Workflows_Schema.png, id=390, 360.59718pt x 270.25969pt>
 File: Bilder/Business-Workflows_Schema.png Graphic file (type png)
 <use Bilder/Business-Workflows_Schema.png>
 Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input line 19.
@@ -2092,27 +2101,48 @@ Package luatex.def Info: Bilder/Business-Workflows_Schema.png  used on input lin
 
 
 ] [22<./Bilder/Business-Workflows_Schema.png>] [23]
-<Bilder/Business-Events_BO-as-event-consumer.png, id=424, 246.9225pt x 342.5297pt>
+<Bilder/Business-Events_BO-as-event-consumer.png, id=428, 246.9225pt x 342.5297pt>
 File: Bilder/Business-Events_BO-as-event-consumer.png Graphic file (type png)
 <use Bilder/Business-Events_BO-as-event-consumer.png>
 Package luatex.def Info: Bilder/Business-Events_BO-as-event-consumer.png  used on input line 41.
 (luatex.def)             Requested size: 164.09212pt x 227.62204pt.
  [24<./Bilder/Business-Events_BO-as-event-consumer.png>]
-<Bilder/bgPF_Schema.png, id=439, 564.1075pt x 455.7025pt>
+<Bilder/bgPF_Schema.png, id=443, 564.1075pt x 455.7025pt>
 File: Bilder/bgPF_Schema.png Graphic file (type png)
 <use Bilder/bgPF_Schema.png>
 Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 58.
 (luatex.def)             Requested size: 281.7776pt x 227.62204pt.
- [25] [26<./Bilder/bgPF_Schema.png>] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]) [37]
+ [25] [26<./Bilder/bgPF_Schema.png>] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
+<Bilder/Entscheidungsmatrix_Diagramm.png, id=561, 1475.5125pt x 733.74126pt>
+File: Bilder/Entscheidungsmatrix_Diagramm.png Graphic file (type png)
+<use Bilder/Entscheidungsmatrix_Diagramm.png>
+Package luatex.def Info: Bilder/Entscheidungsmatrix_Diagramm.png  used on input line 161.
+(luatex.def)             Requested size: 457.71936pt x 227.62204pt.
+
+Overfull \hbox (8.16565pt too wide) in paragraph at lines 161--162
+ [][] 
+ []
+
+[37<./Bilder/Entscheidungsmatrix_Diagramm.png>]) [38]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-) [38
+<Bilder/Handlungsempfehlung_Entscheidungsmatrix.png, id=572, 1556.81625pt x 421.575pt>
+File: Bilder/Handlungsempfehlung_Entscheidungsmatrix.png Graphic file (type png)
+<use Bilder/Handlungsempfehlung_Entscheidungsmatrix.png>
+Package luatex.def Info: Bilder/Handlungsempfehlung_Entscheidungsmatrix.png  used on input line 15.
+(luatex.def)             Requested size: 451.79773pt x 122.34692pt.
+
+Overfull \hbox (2.24402pt too wide) in paragraph at lines 15--16
+ [][] 
+ []
+
+[39
 
 
 
 
-]
+<./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png>]) [40]
 chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
@@ -2159,19 +2189,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52152 strings out of 478285
+ 52180 strings out of 478285
  100000,2373549 words of node,token memory allocated
  1493 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 38 glue, 4 kern, 1 penalty, 1 margin_kern, 5 glyph, 107 attribute, 119 glue_spec, 55 attribute_list, 4 write, 9 pdf_action nodes
    avail lists: 1:13,2:2262,3:1645,4:254,5:632,6:173,7:9053,8:148,9:797,10:32,11:1058
- 69974 multiletter control sequences out of 65536+600000
+ 69986 multiletter control sequences out of 65536+600000
  97 fonts using 6924791 bytes
- 113i,20n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,21n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (70 pages, 1001719 bytes).
+Output written on Praxisbericht.pdf (72 pages, 1097219 bytes).
 
-PDF statistics: 910 PDF objects out of 1000 (max. 8388607)
- 790 compressed objects within 8 object streams
- 278 named destinations out of 1000 (max. 131072)
+PDF statistics: 928 PDF objects out of 1000 (max. 8388607)
+ 801 compressed objects within 9 object streams
+ 282 named destinations out of 1000 (max. 131072)
  280 words of extra memory for PDF output out of 10000 (max. 100000000)
 

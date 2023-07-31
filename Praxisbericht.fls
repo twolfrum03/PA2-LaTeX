@@ -763,9 +763,15 @@ INPUT ./Bilder/Business-Events_BO-as-event-consumer.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png
 INPUT ./Bilder/bgPF_Schema.png
+INPUT ./Bilder/Entscheidungsmatrix_Diagramm.png
+INPUT ./Bilder/Entscheidungsmatrix_Diagramm.png
+INPUT ./Bilder/Entscheidungsmatrix_Diagramm.png
 OUTPUT Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 INPUT ./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
+INPUT ./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png
+INPUT ./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png
+INPUT ./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 OUTPUT Inhalt/04_Inhalt/5_Anhang.aux
