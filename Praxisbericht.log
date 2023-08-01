@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 AUG 2023 16:58
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  1 AUG 2023 22:32
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/LaTeX_SAP-Vorlage_PA_13.06.23/Praxisbericht.tex
@@ -2100,22 +2100,22 @@ File: Bilder/bgPF_Schema.png Graphic file (type png)
 Package luatex.def Info: Bilder/bgPF_Schema.png  used on input line 64.
 (luatex.def)             Requested size: 281.7776pt x 227.62204pt.
  [21<./Bilder/bgPF_Schema.png>] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-<Bilder/Entscheidungsmatrix_Diagramm.png, id=514, 1475.5125pt x 733.74126pt>
+<Bilder/Entscheidungsmatrix_Diagramm.png, id=516, 1475.5125pt x 733.74126pt>
 File: Bilder/Entscheidungsmatrix_Diagramm.png Graphic file (type png)
 <use Bilder/Entscheidungsmatrix_Diagramm.png>
-Package luatex.def Info: Bilder/Entscheidungsmatrix_Diagramm.png  used on input line 169.
+Package luatex.def Info: Bilder/Entscheidungsmatrix_Diagramm.png  used on input line 170.
 (luatex.def)             Requested size: 449.72672pt x 223.63867pt.
- [32<./Bilder/Entscheidungsmatrix_Diagramm.png>]) [33]
+) [32<./Bilder/Entscheidungsmatrix_Diagramm.png>]
 \openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
 chapter 4.
-[34
+[33
 
 
 
 
 ]
-<Bilder/Handlungsempfehlung_Entscheidungsmatrix.png, id=529, 1556.81625pt x 421.575pt>
+<Bilder/Handlungsempfehlung_Entscheidungsmatrix.png, id=526, 1556.81625pt x 421.575pt>
 File: Bilder/Handlungsempfehlung_Entscheidungsmatrix.png Graphic file (type png)
 <use Bilder/Handlungsempfehlung_Entscheidungsmatrix.png>
 Package luatex.def Info: Bilder/Handlungsempfehlung_Entscheidungsmatrix.png  used on input line 22.
@@ -2125,7 +2125,7 @@ Overfull \hbox (2.24402pt too wide) in paragraph at lines 22--23
  [][] 
  []
 
-[35<./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png>]) [36]
+[34<./Bilder/Handlungsempfehlung_Entscheidungsmatrix.png>]) [35]
 chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
@@ -2172,7 +2172,7 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52171 strings out of 478285
+ 52170 strings out of 478285
  100000,2373549 words of node,token memory allocated
  1467 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 36 glue, 4 kern, 1 penalty, 1 margin_kern, 5 glyph, 103 attribute, 119 glue_spec, 53 attribute_list, 4 write, 9 pdf_action nodes
@@ -2181,10 +2181,10 @@ Here is how much of LuaTeX's memory you used:
  97 fonts using 6924791 bytes
  113i,21n,112p,10750b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (67 pages, 1089226 bytes).
+Output written on Praxisbericht.pdf (66 pages, 1088498 bytes).
 
-PDF statistics: 864 PDF objects out of 1000 (max. 8388607)
- 743 compressed objects within 8 object streams
- 276 named destinations out of 1000 (max. 131072)
+PDF statistics: 861 PDF objects out of 1000 (max. 8388607)
+ 741 compressed objects within 8 object streams
+ 275 named destinations out of 1000 (max. 131072)
  216 words of extra memory for PDF output out of 10000 (max. 100000000)
 

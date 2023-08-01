@@ -41,10 +41,10 @@
 \contentsline {subsubsection}{\nonumberline Wartbarkeit}{30}{subsubsection*.58}%
 \contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{31}{subsubsection*.60}%
 \contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{32}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{34}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{34}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{35}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{36}{section.4.3}%
+\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Zusammenfassung}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{34}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{35}{section.4.3}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{VI}{chapter*.63}%
 \contentsline {chapter}{\numberline {A}Anhang}{VIII}{appendix.A}%
 \contentsline {subsubsection}{\nonumberline Allgemein}{VIII}{subsubsection*.67}%
