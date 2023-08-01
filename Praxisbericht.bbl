@@ -120,7 +120,6 @@
       \strng{authorbibnamehash}{c6055872081cf3b6db6ba40e9af2fad9}
       \strng{authornamehash}{c6055872081cf3b6db6ba40e9af2fad9}
       \strng{authorfullhash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
@@ -130,44 +129,6 @@
       \field{title}{Architectural {Styles} and the {Design} of {Network}-based {Software} {Architectures}}
       \field{type}{phdthesis}
       \field{year}{2000}
-    \endentry
-    \entry{fielding_rest_2008}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c6055872081cf3b6db6ba40e9af2fad9}{%
-           family={Fielding},
-           familyi={F\bibinitperiod},
-           given={Roy},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \strng{fullhash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \strng{bibnamehash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \strng{authorbibnamehash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \strng{authornamehash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \strng{authorfullhash}{c6055872081cf3b6db6ba40e9af2fad9}
-      \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{REST} {APIs} must be hypertext-driven » {Untangled}}
-      \field{urlday}{13}
-      \field{urlmonth}{7}
-      \field{urlyear}{2023}
-      \field{year}{2008}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/9HFHKJR2/rest-apis-must-be-hypertext-driven.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
-      \endverb
-      \verb{url}
-      \verb https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
-      \endverb
     \endentry
     \entry{sap_rap_2023}{misc}{}
       \name{author}{1}{}{%
