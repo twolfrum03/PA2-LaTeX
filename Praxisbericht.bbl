@@ -245,7 +245,7 @@
       \verb https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/f09752ebcf63473e9194ea29ca232e56.html
       \endverb
     \endentry
-    \entry{sap_sapui5-sap-hel-docu_2023}{misc}{}
+    \entry{sap_business-workflows_2022-1}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
            family={SAP},
@@ -263,45 +263,6 @@
       \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{SAPUI5}: {UI} {Development} {Toolkit} for {HTML5} {|} {SAP} {Help} {Portal}}
-      \field{urlday}{13}
-      \field{urlmonth}{7}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb SAPUI5\: UI Development Toolkit for HTML5 | SAP Help Portal:/Users/I570199/Zotero/storage/S64A9768/95d113be50ae40d5b0b562b84d715227.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://help.sap.com/docs/SAPUI5/9c39e0e47bde4ed993d07d56b3ce3e08/95d113be50ae40d5b0b562b84d715227.html?locale=en-US&state=DRAFT&version=1.98_SAPUI5
-      \endverb
-      \verb{url}
-      \verb https://help.sap.com/docs/SAPUI5/9c39e0e47bde4ed993d07d56b3ce3e08/95d113be50ae40d5b0b562b84d715227.html?locale=en-US&state=DRAFT&version=1.98_SAPUI5
-      \endverb
-    \endentry
-    \entry{sap_business-workflows_2022-1}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=999bc6b18351bbe817d26f559ba408ae}{%
-           family={SAP},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{999bc6b18351bbe817d26f559ba408ae}
-      \strng{fullhash}{999bc6b18351bbe817d26f559ba408ae}
-      \strng{bibnamehash}{999bc6b18351bbe817d26f559ba408ae}
-      \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
-      \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
-      \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
-      \field{extraname}{6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -339,10 +300,10 @@
       \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
-      \field{extraname}{7}
+      \field{extraname}{6}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{extradate}{5}
+      \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -379,9 +340,9 @@
       \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
-      \field{extraname}{8}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extraname}{7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -418,10 +379,10 @@
       \strng{authorbibnamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authornamehash}{999bc6b18351bbe817d26f559ba408ae}
       \strng{authorfullhash}{999bc6b18351bbe817d26f559ba408ae}
-      \field{extraname}{9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradate}{6}
+      \field{extraname}{8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradate}{5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}

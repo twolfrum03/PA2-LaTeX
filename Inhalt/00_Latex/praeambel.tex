@@ -16,12 +16,14 @@
 \usepackage{graphicx}        % Einbinden von Grafiken erlauben
 \usepackage{wrapfig}         % Grafiken fließend im Text
 \usepackage{setspace}        % Zeilenabstand \singlespacing, \onehalfspaceing, \doublespacing
-\usepackage[
-	%showframe,                % Ränder anzeigen lassen
-	left=2.7cm, right=2.5cm,
-	top=2.5cm,  bottom=2.5cm,
-	includeheadfoot
-]{geometry}                      % Seitenlayout einstellen
+% \usepackage[
+% 	%showframe,                % Ränder anzeigen lassen
+% 	left=3.5cm, right=2.5cm,
+% 	top=1.25cm,  bottom=0.75cm,
+% 	includeheadfoot, headsep=1.25cm, footskip=1.25cm
+% ]{geometry}                      % Seitenlayout einstellen
+\usepackage[left=3.5cm, right=2.5cm, head=1.25cm, bottom=2cm, foot=1.25cm, includefoot]{geometry}
+
 \usepackage{scrlayer-scrpage}    % Gestaltung von Fuß- und Kopfzeilen
 \usepackage{acronym}             % Abkürzungen, Abkürzungsverzeichnis
 \usepackage{titletoc}            % Anpassungen am Inhaltsverzeichnis
@@ -118,6 +120,7 @@
 \renewcommand{\ALG@name}{Algorithmus}   % Umbenennen von "Algorithm" im Header der Listings.
 \makeatother                            % Zeichen wieder zurücksetzen
 \renewcommand{\lstlistingname}{Listing} % Erlaubt das Umbenennen von "Listing" in anderen Titel.
+
 
 % ---- Tabellen
 \usepackage{booktabs}  % Für schönere Tabellen. Enthält neue Befehle wie \midrule
