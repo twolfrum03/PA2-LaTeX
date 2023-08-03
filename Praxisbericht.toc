@@ -16,7 +16,7 @@
 \contentsline {subsubsection}{\nonumberline Einheitliche Schnittstelle}{6}{subsubsection*.16}%
 \contentsline {subsubsection}{\nonumberline Schichtenarchitektur}{7}{subsubsection*.18}%
 \contentsline {subsubsection}{\nonumberline Code on Demand}{7}{subsubsection*.20}%
-\contentsline {section}{\numberline {2.2}ABAP Restful Application Programming Model}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.2}ABAP RESTful Application Programming Model}{8}{section.2.2}%
 \contentsline {subsubsection}{\nonumberline Architektur eines Business Services in RAP}{9}{subsubsection*.22}%
 \contentsline {subsubsection}{\nonumberline Modellierung von Daten und Behaviors}{9}{subsubsection*.25}%
 \contentsline {subsubsection}{\nonumberline Veröffentlichung des Business Service}{10}{subsubsection*.27}%

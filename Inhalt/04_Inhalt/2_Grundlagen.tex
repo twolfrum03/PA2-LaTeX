@@ -11,7 +11,7 @@ Eine RESTful-API ist eine spezielle Schnittstelle, die den Designkonventionen na
 \begin{figure}[H]
  \centering
  \includegraphics[height=5.82cm]{Bilder/REST_Rest.png}
- \caption[REST Designprinzipien]{REST Designprinzipien, Abgerufen von \cite{fielding_architectural_2000} am 05.07.2023.}
+ \caption[REST Designprinzipien]{REST Designprinzipien. Abgerufen von \cite{fielding_architectural_2000} am 05.07.2023.}
  \label{fig:iso_norm}
 \end{figure}
 
@@ -21,7 +21,7 @@ Das erste Prinzip ist die Client-Server-Architektur. Das bedeutet, dass die Benu
 
 \subsubsection{Zustandslosigkeit}
 
-Zudem soll eine RESTful-API zustandslos angelegt sein. Das hei{\ss}t im Genaueren, dass die Kommunikation der verschiedenen Parteien zustandslos sein muss. Es muss für den Server möglich sein, die Anfrage des Clients vollständig zu verstehen bzw. zu verarbeiten, ohne zusätzlich auf vergangene Anfragen zugreifen zu müssen. Für den Client muss es möglich sein, jede Antwort des Servers ohne zusätzliche Informationen zu verstehen, die eventuell zu einem früheren Zeitpunkt angefordert wurden. Das hei{\ss}t, dass in jeder Anfrage immer alle notwendigen Informationen mitgeschickt werden müssen, von keinem ''Vorwissen'' ausgegangen werden darf und Sitzungsinformationen ausschlie{\ss}lich auf dem Client gespeichert werden. Durch diese Bedingung verbessert sich die Skalierbarkeit weiter, da der Server keine Ressourcen für die Speicherung der Request-Stati freihalten muss. Zudem steigt die Zuverlässigkeit der Schnittstelle und das Monitoring vereinfacht sich, da bei einem Fehler immer nur ein Request betrachtet werden muss. Somit ist ein Fehler einfacher behebbar und hat keine Auswirkungen auf andere Anfragen. \footcite[Vgl.][S. 78f]{fielding_architectural_2000}
+Des Weiteren soll eine RESTful-API zustandslos angelegt sein. Das hei{\ss}t im Genaueren, dass die Kommunikation der verschiedenen Parteien zustandslos sein muss. Es muss für den Server möglich sein, die Anfrage des Clients vollständig zu verstehen bzw. zu verarbeiten, ohne zusätzlich auf vergangene Anfragen zugreifen zu müssen. Für den Client muss es möglich sein, jede Antwort des Servers ohne zusätzliche Informationen zu verstehen, die eventuell zu einem früheren Zeitpunkt angefordert wurden. Das hei{\ss}t, dass in jeder Anfrage immer alle notwendigen Informationen mitgeschickt werden müssen, von keinem ''Vorwissen'' ausgegangen werden darf und Sitzungsinformationen ausschlie{\ss}lich auf dem Client gespeichert werden. Durch diese Bedingung verbessert sich die Skalierbarkeit weiter, da der Server keine Ressourcen für die Speicherung der Request-Stati freihalten muss. Zudem steigt die Zuverlässigkeit der Schnittstelle und das Monitoring vereinfacht sich, da bei einem Fehler immer nur ein Request betrachtet werden muss. Somit ist ein Fehler einfacher behebbar und hat keine Auswirkungen auf andere Anfragen. \footcite[Vgl.][S. 78f]{fielding_architectural_2000}
 
 \subsubsection{Caching}
 
@@ -44,7 +44,7 @@ Durch Auslagerung von Funktionalitäten in eigene Schichten verbessert sich die 
 
 Die sechste (optionale) Designkonvention von REST besagt, dass Code in Form von Skripten oder Apps über die Schnittstelle vom Client heruntergeladen und ausgeführt werden kann. Dies vereinfacht die Programmlogik des Clients, da weniger Programme schon im Voraus vorhanden sein müssen. Zudem wird dadurch die Erweiterbarkeit eines Systems verbessert, da auch nach dem initialen Installieren eines Systems, dieses noch durch das Bereitstellen von Code über die Schnittstelle erweitert werden kann. \footcite[Vgl.][S. 84f]{fielding_architectural_2000}
 
-\section{ABAP Restful Application Programming Model}
+\section{ABAP RESTful Application Programming Model}
 
 ABAP RAP ist ein Programmiermodell der SAP auf Basis von ABAP, das die Architektur für die Entwicklung von OData-Services definiert. Es basiert auf den Designprinzipien nach REST. Mit diesem Modell können sowohl Web APIs veröffentlicht und Business Events erzeugt als auch Fiori Apps entwickelt werden.
 %RAP ist nach dem ''Classic ABAP Programming'' und dem ''ABAP Programming Model for SAP Fiori'' die dritte Evolutionsstufe des ABAP Programming Model.
@@ -57,7 +57,7 @@ RAP baut im Allgemeinen auf drei Säulen auf: Anders als in vorhergehenden Progr
 \begin{figure}[H]
  \centering
  \includegraphics[height=8.46cm]{Bilder/RAP_Architektur.png}
- \caption[RESTful Application Programming Model Architektur]{RESTful Application Programming Model Architektur, Abgerufen von \cite{sap_rap_2023} am 09.07.2023.}
+ \caption[RESTful Application Programming Model Architektur]{RESTful Application Programming Model Architektur. Abgerufen von \cite{sap_rap_2023} am 09.07.2023.}
  \label{fig:iso_norm_RAP_Architektur}
 \end{figure}
 
