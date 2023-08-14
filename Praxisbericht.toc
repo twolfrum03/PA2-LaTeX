@@ -46,32 +46,41 @@
 \contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{32}{section.4.3}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{33}{chapter*.58}%
 \contentsline {chapter}{\numberline {A}Anhang}{34}{appendix.A}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{34}{subsubsection*.62}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{34}{subsubsection*.64}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{34}{subsubsection*.66}%
-\contentsline {subsubsection}{\nonumberline Performance}{34}{subsubsection*.68}%
-\contentsline {subsubsection}{\nonumberline Kosten}{35}{subsubsection*.70}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{35}{subsubsection*.72}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{35}{subsubsection*.74}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{35}{subsubsection*.76}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{35}{subsubsection*.78}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{35}{subsubsection*.81}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{36}{subsubsection*.83}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{36}{subsubsection*.85}%
-\contentsline {subsubsection}{\nonumberline Performance}{36}{subsubsection*.87}%
-\contentsline {subsubsection}{\nonumberline Kosten}{36}{subsubsection*.89}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{36}{subsubsection*.91}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{36}{subsubsection*.93}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{37}{subsubsection*.95}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{37}{subsubsection*.97}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{37}{subsubsection*.100}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{37}{subsubsection*.102}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{37}{subsubsection*.104}%
-\contentsline {subsubsection}{\nonumberline Performance}{37}{subsubsection*.106}%
-\contentsline {subsubsection}{\nonumberline Kosten}{38}{subsubsection*.108}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{38}{subsubsection*.110}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{38}{subsubsection*.112}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{38}{subsubsection*.114}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{38}{subsubsection*.116}%
+\contentsline {section}{\numberline {A.1}Fragebögen Experteninterviews}{34}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Workflows}{34}{subsection.A.1.1}%
+\contentsline {subsubsection}{\nonumberline Allgemein}{34}{subsubsection*.60}%
+\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{34}{subsubsection*.62}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{34}{subsubsection*.64}%
+\contentsline {subsubsection}{\nonumberline Performance}{34}{subsubsection*.66}%
+\contentsline {subsubsection}{\nonumberline Kosten}{35}{subsubsection*.68}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{35}{subsubsection*.70}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{35}{subsubsection*.72}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{35}{subsubsection*.74}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{35}{subsubsection*.76}%
+\contentsline {subsection}{\numberline {A.1.2}Business Events}{35}{subsection.A.1.2}%
+\contentsline {subsubsection}{\nonumberline Allgemein}{35}{subsubsection*.78}%
+\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{36}{subsubsection*.80}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{36}{subsubsection*.82}%
+\contentsline {subsubsection}{\nonumberline Performance}{36}{subsubsection*.84}%
+\contentsline {subsubsection}{\nonumberline Kosten}{36}{subsubsection*.86}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{36}{subsubsection*.88}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{36}{subsubsection*.90}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{37}{subsubsection*.92}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{37}{subsubsection*.94}%
+\contentsline {subsection}{\numberline {A.1.3}bgPF}{37}{subsection.A.1.3}%
+\contentsline {subsubsection}{\nonumberline Allgemein}{37}{subsubsection*.96}%
+\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{37}{subsubsection*.98}%
+\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{37}{subsubsection*.100}%
+\contentsline {subsubsection}{\nonumberline Performance}{37}{subsubsection*.102}%
+\contentsline {subsubsection}{\nonumberline Kosten}{38}{subsubsection*.104}%
+\contentsline {subsubsection}{\nonumberline Flexibilität}{38}{subsubsection*.106}%
+\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{38}{subsubsection*.108}%
+\contentsline {subsubsection}{\nonumberline Wartbarkeit}{38}{subsubsection*.110}%
+\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{38}{subsubsection*.112}%
+\contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{38}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}Business Workflows}{38}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Business Events}{43}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}bgPF}{51}{subsection.A.2.3}%
+\contentsline {section}{\numberline {A.3}Internes Wiki bgPF}{57}{section.A.3}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

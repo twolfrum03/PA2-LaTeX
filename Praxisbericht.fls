@@ -707,6 +707,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
 OUTPUT Inhalt/01_Standard/geschlechtsneutral.aux
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.tex
 INPUT ./Inhalt/01_Standard/geschlechtsneutral.tex
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT ./Praxisbericht.toc
 INPUT ./Praxisbericht.toc
 OUTPUT Praxisbericht.toc
@@ -973,6 +976,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb
