@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Praxisbericht.blg'
+[38] biber-darwin:340> INFO - === Sun Aug 13, 2023, 16:33:59
+[47] Biber.pm:419> INFO - Reading 'Praxisbericht.bcf'
+[94] Biber.pm:979> INFO - Found 9 citekeys in bib section 0
+[101] Biber.pm:4419> INFO - Processing section 0
+[120] Biber.pm:4610> INFO - Looking for bibtex file 'Inhalt/literatur.bib' for section 0
+[132] bibtex.pm:1713> INFO - LaTeX decoding ...
+[146] bibtex.pm:1519> INFO - Found BibTeX data source 'Inhalt/literatur.bib'
+[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[230] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[230] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[245] bbl.pm:660> INFO - Writing 'Praxisbericht.bbl' with encoding 'UTF-8'
+[248] bbl.pm:763> INFO - Output to Praxisbericht.bbl
+[248] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/mv/8jk21q7d0p5d8s_k123pd4_w0000gn/T/biber_tmp_CoCJ/a3880c76f34ea5bee4730f185bf8bebe_36855.utf8, line 106, warning: 206 characters of junk seen at toplevel
+[248] Biber.pm:133> INFO - WARNINGS: 1
