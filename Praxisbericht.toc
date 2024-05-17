@@ -3,84 +3,26 @@
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{VI}{chapter*.7}%
 \contentsline {chapter}{\nonumberline Tabellenverzeichnis}{VII}{chapter*.8}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Unternehmensprofil und Anwendungsbezug}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Motivation und Problemstellung}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Aufbau und Ziel der Arbeit}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Abgrenzung}{2}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Methodisches Vorgehen}{3}{section.1.5}%
-\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}RESTful Application Programming Interface}{4}{section.2.1}%
-\contentsline {subsubsection}{\nonumberline Client-Server-Architektur}{4}{subsubsection*.11}%
-\contentsline {subsubsection}{\nonumberline Zustandslosigkeit}{5}{subsubsection*.13}%
-\contentsline {subsubsection}{\nonumberline Caching}{5}{subsubsection*.15}%
-\contentsline {subsubsection}{\nonumberline Einheitliche Schnittstelle}{6}{subsubsection*.17}%
-\contentsline {subsubsection}{\nonumberline Schichtenarchitektur}{7}{subsubsection*.19}%
-\contentsline {subsubsection}{\nonumberline Code on Demand}{7}{subsubsection*.21}%
-\contentsline {section}{\numberline {2.2}ABAP RESTful Application Programming Model}{8}{section.2.2}%
-\contentsline {subsubsection}{\nonumberline Architektur eines Business Services in RAP}{9}{subsubsection*.23}%
-\contentsline {subsubsection}{\nonumberline Modellierung von Daten und Behaviors}{9}{subsubsection*.26}%
-\contentsline {subsubsection}{\nonumberline Veröffentlichung des Business Service}{10}{subsubsection*.28}%
-\contentsline {subsubsection}{\nonumberline Konsumieren des Services}{12}{subsubsection*.30}%
-\contentsline {section}{\numberline {2.3}SAP Fiori Elements}{12}{section.2.3}%
-\contentsline {subsubsection}{\nonumberline Vergleich Fiori Elements - SAP UI5 Freestyle}{13}{subsubsection*.32}%
-\contentsline {chapter}{\numberline {3}Praktischer Teil}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Lösungsansätze}{14}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Business Workflows}{14}{subsection.3.1.1}%
-\contentsline {subsubsection}{\nonumberline Aufbau eines Business Workflows}{14}{subsubsection*.34}%
-\contentsline {subsection}{\numberline {3.1.2}Business Events}{16}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Background Processing Framework}{18}{subsection.3.1.3}%
-\contentsline {subsubsection}{\nonumberline bgPF innerhalb von RAP}{19}{subsubsection*.39}%
-\contentsline {section}{\numberline {3.2}Vergleich der Ansätze}{19}{section.3.2}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{20}{subsubsection*.41}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{21}{subsubsection*.43}%
-\contentsline {subsubsection}{\nonumberline Performance}{22}{subsubsection*.45}%
-\contentsline {subsubsection}{\nonumberline Kosten}{24}{subsubsection*.47}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{25}{subsubsection*.49}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{26}{subsubsection*.51}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{27}{subsubsection*.53}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{28}{subsubsection*.55}%
-\contentsline {section}{\numberline {3.3}Entscheidungsmatrix}{28}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{30}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{30}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{31}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Reflexion der Arbeit und Ausblick}{32}{section.4.3}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{33}{chapter*.58}%
-\contentsline {chapter}{\numberline {A}Anhang}{34}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Fragebögen Experteninterviews}{34}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Workflows}{34}{subsection.A.1.1}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{34}{subsubsection*.60}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{34}{subsubsection*.62}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{34}{subsubsection*.64}%
-\contentsline {subsubsection}{\nonumberline Performance}{34}{subsubsection*.66}%
-\contentsline {subsubsection}{\nonumberline Kosten}{35}{subsubsection*.68}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{35}{subsubsection*.70}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{35}{subsubsection*.72}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{35}{subsubsection*.74}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{35}{subsubsection*.76}%
-\contentsline {subsection}{\numberline {A.1.2}Business Events}{35}{subsection.A.1.2}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{35}{subsubsection*.78}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{36}{subsubsection*.80}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{36}{subsubsection*.82}%
-\contentsline {subsubsection}{\nonumberline Performance}{36}{subsubsection*.84}%
-\contentsline {subsubsection}{\nonumberline Kosten}{36}{subsubsection*.86}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{36}{subsubsection*.88}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{36}{subsubsection*.90}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{37}{subsubsection*.92}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{37}{subsubsection*.94}%
-\contentsline {subsection}{\numberline {A.1.3}bgPF}{37}{subsection.A.1.3}%
-\contentsline {subsubsection}{\nonumberline Allgemein}{37}{subsubsection*.96}%
-\contentsline {subsubsection}{\nonumberline Komplexität der Implementierung}{37}{subsubsection*.98}%
-\contentsline {subsubsection}{\nonumberline Auswirkungen auf die Systemlandschaft}{37}{subsubsection*.100}%
-\contentsline {subsubsection}{\nonumberline Performance}{37}{subsubsection*.102}%
-\contentsline {subsubsection}{\nonumberline Kosten}{38}{subsubsection*.104}%
-\contentsline {subsubsection}{\nonumberline Flexibilität}{38}{subsubsection*.106}%
-\contentsline {subsubsection}{\nonumberline Skalierbarkeit}{38}{subsubsection*.108}%
-\contentsline {subsubsection}{\nonumberline Wartbarkeit}{38}{subsubsection*.110}%
-\contentsline {subsubsection}{\nonumberline Abwärtskompatibilität}{38}{subsubsection*.112}%
-\contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{38}{section.A.2}%
-\contentsline {subsection}{\numberline {A.2.1}Business Workflows}{38}{subsection.A.2.1}%
-\contentsline {subsection}{\numberline {A.2.2}Business Events}{43}{subsection.A.2.2}%
-\contentsline {subsection}{\numberline {A.2.3}bgPF}{51}{subsection.A.2.3}%
-\contentsline {section}{\numberline {A.3}Internes Wiki bgPF}{57}{section.A.3}%
+\contentsline {section}{\numberline {1.1}Motivation und Problemstellung}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}(Aufbau und) Ziel der Arbeit}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Thematische Abgrenzung}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Methodisches Vorgehen}{1}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}SAP Central Procurement insb. Central Contracts}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Geschäftsprozessanalyse und Prozessoptimierung}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}(UI/ )UX im Geschäftsprozesskontext}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Massendaten-Management}{2}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Praktischer Teil}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Globaler Prozesskontext und Ist-Analyse}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Konzeption und Umsetzungsmöglichkeiten des optimierten Prozesses}{3}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Anpassung des Standards}{3}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Entwicklung einer ma\ss geschneiderten Lösung}{3}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Evaluation der verschiedenen Lösungsansätze}{3}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Zusammenfassung}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{4}{section.4.2}%
+\contentsline {section}{\numberline {4.3}kritische Reflexion und Ausblick}{4}{section.4.3}%
+\contentsline {chapter}{\numberline {A}Anhang}{5}{appendix.A}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
