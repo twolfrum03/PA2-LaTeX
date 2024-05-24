@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  17 MAY 2024 21:22
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  24 MAY 2024 10:18
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/PA2-LaTeX/Praxisbericht.tex
@@ -1540,7 +1540,7 @@ Package biblatex Warning: Conflicting options.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
+(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux) (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux) (./Inhalt/04_Inhalt/5_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/6_Anhang.aux))
 \openout1 = Praxisbericht.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1837,6 +1837,9 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 23.
 Package tocbasic Info: Using my definition of `\numberline' on input line 24.
 Package tocbasic Info: Using my definition of `\numberline' on input line 25.
 Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
 )
 \tf@toc=\write6
 
@@ -1891,49 +1894,63 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
  (./Inhalt/04_Inhalt/2_Grundlagen.tex
 chapter 2.
 
-Overfull \hbox (11.10602pt too wide) in paragraph at lines 15--16
+Overfull \hbox (11.10602pt too wide) in paragraph at lines 9--10
 \T1/lmr/m/n/12 pas-sen-de Li-te-ra-tur vor-han-den auch di-rekt in Ver-bin-dung mit Massendaten-Management) 
  []
 
-[3
+) [3
 
 
 
 
-]) [4]
-\openout2 = Inhalt/04_Inhalt/3_Praxisteil.aux
- (./Inhalt/04_Inhalt/3_Praxisteil.tex
+]
+\openout2 = Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux
+ (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.tex
 chapter 3.
-[5
+) [4
 
 
 
 
-]) [6]
-\openout2 = Inhalt/04_Inhalt/4_Schlussbetrachtung.aux
- (./Inhalt/04_Inhalt/4_Schlussbetrachtung.tex
+]
+\openout2 = Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux
+ (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.tex
 chapter 4.
-) [7
+
+Overfull \hbox (3.57413pt too wide) in paragraph at lines 11--12
+\T1/lmr/m/n/12 -> Kun-den-an-for-de-run-gen nicht im Stan-dard ab-bild-bar (zu spe-zi-ell, we-nig Abweichungs-
+ []
+
+) [5
+
+
+
+
+]
+\openout2 = Inhalt/04_Inhalt/5_Schlussbetrachtung.aux
+ (./Inhalt/04_Inhalt/5_Schlussbetrachtung.tex
+chapter 5.
+) [6
 
 
 
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 126.
+LaTeX Warning: Empty bibliography on input line 128.
 
 
-\openout2 = Inhalt/04_Inhalt/5_Anhang.aux
-(./Inhalt/04_Inhalt/5_Anhang.tex
+\openout2 = Inhalt/04_Inhalt/6_Anhang.aux
+(./Inhalt/04_Inhalt/6_Anhang.tex
 chapter A.
-) [8
+) [7
 
 
 
 
 
 
-] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Praxisteil.aux) (./Inhalt/04_Inhalt/4_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/5_Anhang.aux))
+] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux) (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux) (./Inhalt/04_Inhalt/5_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/6_Anhang.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1945,19 +1962,19 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52218 strings out of 478285
+ 52259 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 881 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 2 glyph, 23 attribute, 114 glue_spec, 13 attribute_list, 4 write nodes
-   avail lists: 2:1861,3:419,4:174,5:232,6:129,7:4139,8:4,9:681,10:13,11:480
- 70228 multiletter control sequences out of 65536+600000
- 61 fonts using 4258191 bytes
+ 876 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 4 glue, 4 kern, 2 glyph, 23 attribute, 113 glue_spec, 13 attribute_list, 4 write nodes
+   avail lists: 2:2023,3:461,4:190,5:218,6:138,7:3453,8:4,9:725,10:13,11:371
+ 70237 multiletter control sequences out of 65536+600000
+ 60 fonts using 4175511 bytes
  113i,20n,112p,10730b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (16 pages, 220042 bytes).
+Output written on Praxisbericht.pdf (15 pages, 218805 bytes).
 
-PDF statistics: 257 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 131072)
- 216 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 268 PDF objects out of 1000 (max. 8388607)
+ 237 compressed objects within 3 object streams
+ 49 named destinations out of 1000 (max. 131072)
+ 240 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -4,25 +4,28 @@
 \contentsline {chapter}{\nonumberline Tabellenverzeichnis}{VII}{chapter*.8}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation und Problemstellung}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}(Aufbau und) Ziel der Arbeit}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Thematische Abgrenzung}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.2}Ziel der Arbeit}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Thematische Abgrenzung}{2}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Methodisches Vorgehen}{2}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}SAP Central Procurement insb. Central Contracts}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Geschäftsprozessanalyse und Prozessoptimierung}{3}{section.2.2}%
-\contentsline {section}{\numberline {2.3}(UI/ )UX im Geschäftsprozesskontext}{3}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Massendaten-Management}{4}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Praktischer Teil}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Globaler Prozesskontext und Ist-Analyse}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{5}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Konzeption und Umsetzungsmöglichkeiten des optimierten Prozesses}{5}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Anpassung des Standards}{6}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Entwicklung einer ma\ss geschneiderten Lösung}{6}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Evaluation der verschiedenen Lösungsansätze}{6}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Schlussbetrachtungen}{7}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Zusammenfassung}{7}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Handlungsempfehlung}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}kritische Reflexion und Ausblick}{7}{section.4.3}%
-\contentsline {chapter}{\numberline {A}Anhang}{8}{appendix.A}%
+\contentsline {section}{\numberline {2.1}Geschäftsprozessanalyse und Prozessoptimierung}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}User Experience im Geschäftsprozesskontext}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Massendaten-Management}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}SAP Central Procurement insb. Central Contracts}{3}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Analyse und Neu-Konzeptionierung des Prozesses}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Globaler Prozesskontext}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{4}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Bewertung der Ist-Situation anhand der Anforderungen}{4}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Soll-Konzeption}{4}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{5}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{5}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer ma\ss geschneiderten Lösung}{5}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{5}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{6}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung}{6}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fazit}{6}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{6}{section.5.3}%
+\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{6}{section.5.4}%
+\contentsline {chapter}{\numberline {A}Anhang}{7}{appendix.A}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
