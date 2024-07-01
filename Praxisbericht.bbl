@@ -16,5 +16,427 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{theorie_digitale_transformation_beschaffung_automobilindustrie_2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f45938f85d977ead645b61f76b52cd61}{%
+           family={Karl},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4956c9d7d7ca8316f3f23b5a180b888e}{%
+           family={Sucky},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c715c1b3ef1bb62666f9e6ffda300fe8}{%
+           family={Klatt},
+           familyi={K\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=2e9e5fff76b562c6f8534e73b265e3cf}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=49ae36c78dbedb613c4cbe8533bca6a3}{%
+           family={Eierle},
+           familyi={E\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod}}}%
+        {{hash=60ca964b0f99281e01181c51913f8422}{%
+           family={Fliaster},
+           familyi={F\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7cf5d04bc72c4455cd4cee7bdd74d60d}{%
+           family={Ivens},
+           familyi={I\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1ebea69b1b3d9f65b80ce6926b272643}{%
+           family={Leischnig},
+           familyi={L\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=40574d32fbebbe7700e6a8953877d59e}{%
+           family={Pflaum},
+           familyi={P\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4956c9d7d7ca8316f3f23b5a180b888e}{%
+           family={Sucky},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{6220729436badbabcb99752b93df91c6}
+      \strng{fullhash}{6220729436badbabcb99752b93df91c6}
+      \strng{bibnamehash}{6220729436badbabcb99752b93df91c6}
+      \strng{authorbibnamehash}{6220729436badbabcb99752b93df91c6}
+      \strng{authornamehash}{6220729436badbabcb99752b93df91c6}
+      \strng{authorfullhash}{6220729436badbabcb99752b93df91c6}
+      \strng{editorbibnamehash}{5902b17aca01932789f480e6aa94de4f}
+      \strng{editornamehash}{5902b17aca01932789f480e6aa94de4f}
+      \strng{editorfullhash}{adac19547d70bf32c19b025bb0afcd0d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Spätestens Tesla hätte die Automobilindustrie aufwecken sollen: Innovative Marktteilnehmer und technische Innovationen forcieren auch in dieser Branche eine Veränderung von Geschäftsprozessen oder ganzen Geschäftsmodellen. Die Forschung hinsichtlich des Einflusses der Digitalisierung auf Beschaffung und Einkauf steckt im Gegensatz zu anderen betrieblichen Funktionsbereichen wie bspw. der Produktion allerdings noch in den Kinderschuhen. Aus diesen Gründen gibt dieser Beitrag auf Basis wissenschaftlicher Literatur und aus der Sicht von Praktikern einen Einblick in die digitale Transformation der Beschaffung in der deutschen Automobilindustrie. Dabei eilt die wissenschaftliche Literatur der Unternehmenspraxis in vielen Bereichen voraus. Aktuell stehen in der Praxis oft noch Themen aus längst als etabliert geglaubten Digitalisierungsstufen auf der Agenda.}
+      \field{booktitle}{Geschäftsmodelle in der digitalen {Welt}: {Strategien}, {Prozesse} und {Praxiserfahrungen}}
+      \field{isbn}{978-3-658-22129-4}
+      \field{title}{Digitale {Transformation} der {Beschaffung} am {Beispiel} der deutschen {Automobilindustrie}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{539\bibrangedash 558}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/978-3-658-22129-4_27
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/I570199/Zotero/storage/48VK98Y9/Karl et al. - 2019 - Digitale Transformation der Beschaffung am Beispie.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-22129-4_27
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-22129-4_27
+      \endverb
+    \endentry
+    \entry{theorie_sap_webseite_dms_übersicht_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {German}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Versetzen Sie Beschaffungs- und Commodity-Management-Teams in die Lage, für Direktmaterialien mit hohem Wert entsprechende Beschaffungsverträge mit SAP-Software für die Produktbeschaffung abzuschließen.}
+      \field{journaltitle}{SAP}
+      \field{title}{{SAP}-{Lösungen} für die {Produktbeschaffung} {|} {Software} für die {Produktbeschaffung}}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/DB4RBYGU/product-sourcing-software.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sap.com/germany/products/spend-management/product-sourcing-software.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/germany/products/spend-management/product-sourcing-software.html
+      \endverb
+    \endentry
+    \entry{theorie_sap_plm_übersicht_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Accelerate product development and reduce costs by enabling collaborative innovation with the SAP Product Lifecycle Management solution.}
+      \field{journaltitle}{SAP}
+      \field{title}{{SAP} {Product} {Lifecycle} {Management} {|} {PLM} {Cloud} and {Collaborative} {Innovation}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/GYMNZUCP/product-lifecycle-management.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sap.com/products/scm/product-lifecycle-management.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/products/scm/product-lifecycle-management.html
+      \endverb
+    \endentry
+    \entry{theorie_sap_procurement_planning_overview_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discover how the SAP Ariba Procurement Planning solution supports launches of highly engineered products to help you plan and manage new product innovation or forward sourcing programs.}
+      \field{journaltitle}{SAP}
+      \field{title}{Procurement project management for new product introduction: {Efficiently} plan and manage automotive and industrial manufacturing sourcing activities}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/HE3H9296/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sap.com/documents/2021/07/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/documents/2021/07/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html
+      \endverb
+    \endentry
+    \entry{theorie_sap_supplier_quotation_management_help_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction: {Managing} {Quotations} with {SAP} {S}/{4HANA} for {Supplier} {Quotation} {Management} {|} {SAP} {Help} {Portal}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Introduction\: Managing Quotations with SAP S/4HANA for Supplier Quotation Management | SAP Help Portal:/Users/I570199/Zotero/storage/MKY83KLE/6d8d6800afab45caae8da141381c2986.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SCP_QUOTATION/3ba80afb5d1841e6a94f91b07a003c20/6d8d6800afab45caae8da141381c2986.html?version=2402
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SCP_QUOTATION/3ba80afb5d1841e6a94f91b07a003c20/6d8d6800afab45caae8da141381c2986.html?version=2402
+      \endverb
+    \endentry
+    \entry{theorie_sap_enterprise_contract_management_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{5}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SAP} {Enterprise} {Contract} {Management}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb SAP Industry Solution Portfolio:/Users/I570199/Zotero/storage/B3RB7FNC/6EAE8B27FCC11ED892E92A59D6C840CC.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://solutionportfolio.net.sap/industry/HANAOP/object/6EAE8B27FCC11ED892E92A59D6C840CC
+      \endverb
+      \verb{url}
+      \verb https://solutionportfolio.net.sap/industry/HANAOP/object/6EAE8B27FCC11ED892E92A59D6C840CC
+      \endverb
+    \endentry
+    \entry{theorie_sap_commodity_management_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f003c44deab679aa2edfaff864c77402}{%
+           family={{SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{f003c44deab679aa2edfaff864c77402}
+      \strng{fullhash}{f003c44deab679aa2edfaff864c77402}
+      \strng{bibnamehash}{f003c44deab679aa2edfaff864c77402}
+      \strng{authorbibnamehash}{f003c44deab679aa2edfaff864c77402}
+      \strng{authornamehash}{f003c44deab679aa2edfaff864c77402}
+      \strng{authorfullhash}{f003c44deab679aa2edfaff864c77402}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Better manage price volatility and commodity risk – with our commodity management software.}
+      \field{journaltitle}{SAP}
+      \field{title}{{SAP} {Commodity} {Management} {|} {Finance} and {Procurement}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/83YSPZLZ/commodity-management.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sap.com/germany/products/financial-management/commodity-management.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/germany/products/financial-management/commodity-management.html
+      \endverb
+    \endentry
+    \entry{theorie_sap_contract_price_renegotiation_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SAP} {Ariba} {Direct} {Materials} {Sourcing} for {Automotive} and {Industrial} {Manufacturing} in {SAP} {S}/{4HANA}, {Contract} {Price} {Renegotiation} {Add}-on {|} {SAP} {Help} {Portal}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb SAP Ariba Direct Materials Sourcing for Automotive and Industrial Manufacturing in SAP S/4HANA, Contract Price Renegotiation Add-on | SAP Help Portal:/Users/I570199/Zotero/storage/VT3JDCV6/f18ae6a5362c47b6b6438c5c880ed0f3.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/CONTRACT_PRICE_RENEGOTIATION/73ab209bd5d747a795cadddb674ba421/f18ae6a5362c47b6b6438c5c880ed0f3.html?locale=en-US
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/CONTRACT_PRICE_RENEGOTIATION/73ab209bd5d747a795cadddb674ba421/f18ae6a5362c47b6b6438c5c880ed0f3.html?locale=en-US
+      \endverb
+    \endentry
+    \entry{theorie_sap_central_procurement_overview_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {German}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Erfahren Sie, wie Sie mit SAP-Lösungen für eine zentrale Beschaffung die Transparenz steigern, die Compliance verbessern und die Kosten senken können.}
+      \field{journaltitle}{SAP}
+      \field{title}{{SAP} {Ariba} {Central} {Procurement}, {Private} {Cloud} {Edition} {|} {Zentraler} {Einkauf}}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/I570199/Zotero/storage/ZCRQ4IQX/centralized-procurement.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sap.com/germany/products/spend-management/centralized-procurement.html
+      \endverb
+      \verb{url}
+      \verb https://www.sap.com/germany/products/spend-management/centralized-procurement.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
