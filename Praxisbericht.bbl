@@ -436,6 +436,42 @@
       \verb https://www.sap.com/germany/products/spend-management/centralized-procurement.html
       \endverb
     \endentry
+    \entry{theorie_sap_central_contract_overview_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
+           family={{SAP SE}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
+      \field{extraname}{8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Central {Purchase} {Contracts} {|} {SAP} {Help} {Portal}}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Central Purchase Contracts | SAP Help Portal:/Users/I570199/Zotero/storage/H5VNLDMP/fb8697eea5964302ab99d4770f2325bf.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/SAP_S4HANA_CLOUD/0e602d466b99490187fcbb30d1dc897c/7d38e396d29949f9b8eb7227289dc58a.html?locale=en-US
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/SAP_S4HANA_CLOUD/0e602d466b99490187fcbb30d1dc897c/7d38e396d29949f9b8eb7227289dc58a.html?locale=en-US
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

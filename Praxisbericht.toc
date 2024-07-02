@@ -14,22 +14,22 @@
 \contentsline {section}{\numberline {2.4}SAP Produkte}{3}{section.2.4}%
 \contentsline {subsubsection}{\nonumberline SAP Ariba Direct Materials Sourcing for Automotive and Industrial Manufacturing in SAP S/4 HANA}{3}{subsubsection*.10}%
 \contentsline {subsubsection}{\nonumberline SAP Ariba Central Procurement}{6}{subsubsection*.13}%
-\contentsline {subsubsection}{\nonumberline Central Contracting}{7}{subsubsection*.16}%
-\contentsline {chapter}{\numberline {3}Analyse des Ist-Prozesses}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Einordnung des betrachteten Prozesses}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{8}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Bewertung der Ist-Situation}{8}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Soll-Konzeption}{8}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{9}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{10}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung}{10}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Fazit}{10}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{10}{section.5.3}%
-\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{10}{section.5.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{11}{chapter*.17}%
-\contentsline {chapter}{\numberline {A}Anhang}{13}{appendix.A}%
+\contentsline {subsubsection}{\nonumberline Central Contract}{7}{subsubsection*.16}%
+\contentsline {chapter}{\numberline {3}Analyse des Ist-Prozesses}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Einordnung des betrachteten Prozesses}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Bewertung der Ist-Situation}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Soll-Konzeption}{9}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{10}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fazit}{11}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{11}{section.5.3}%
+\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{11}{section.5.4}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{12}{chapter*.18}%
+\contentsline {chapter}{\numberline {A}Anhang}{14}{appendix.A}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

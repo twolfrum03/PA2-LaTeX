@@ -2373,6 +2373,7 @@
     <bcf:citekey order="10" intorder="1">theorie_sap_contract_price_renegotiation_2024</bcf:citekey>
     <bcf:citekey order="11" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
     <bcf:citekey order="12" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">theorie_sap_central_contract_overview_2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
