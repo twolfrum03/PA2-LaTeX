@@ -19,6 +19,281 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{theorie_staud_geschäftsprozessanalyse_2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb2fea59fcb63978a640d83b1de1f6dc}{%
+           family={{Josef Staud}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \strng{fullhash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \strng{bibnamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \strng{authorbibnamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \strng{authornamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \strng{authorfullhash}{eb2fea59fcb63978a640d83b1de1f6dc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-540-24510-0}
+      \field{title}{Geschäftsprozessanalyse}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/3-540-37976-2
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/I570199/Zotero/storage/237XW7HU/2006 - Geschäftsprozessanalyse.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/3-540-37976-2
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/3-540-37976-2
+      \endverb
+      \keyw{Betriebswirtschaft,Betriebswirtschaftliche Standardsoftware,Ereignisgesteuerte Prozessketten,ERP-Software,Geschäftsprozess,Geschäftsprozesse,Geschäftsprozessmodellierung,Methoden,Modellierung,Optimierung von Geschäftsprozessen,Prozessmodellierun}
+    \endentry
+    \entry{theorie_koch_studie_kriterien_geschäftsprozess_2003}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3927d6f227dd5ce4b600df7d1b93091f}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Dagmar},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b7024ad91d26df00a73444c3028e564}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ludwig-Maximilians-Universität München, Institut für Wirtschaftsinformatik und Neue Medien (WIM)}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \strng{namehash}{def36fd86ea3ce34763aca50c39e4099}
+      \strng{fullhash}{def36fd86ea3ce34763aca50c39e4099}
+      \strng{bibnamehash}{def36fd86ea3ce34763aca50c39e4099}
+      \strng{authorbibnamehash}{def36fd86ea3ce34763aca50c39e4099}
+      \strng{authornamehash}{def36fd86ea3ce34763aca50c39e4099}
+      \strng{authorfullhash}{def36fd86ea3ce34763aca50c39e4099}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{6/2003}
+      \field{shorttitle}{Business {Process} {Redesign} als nachhaltiger {Trend}?}
+      \field{title}{Business {Process} {Redesign} als nachhaltiger {Trend}? {Eine} empirische {Studie} zu {Aktualität}, {Inhalten} und {Gestaltung} in deutschen {Großunternehmen}}
+      \field{type}{Working {Paper}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/Users/I570199/Zotero/storage/FMVTAXX9/Koch and Hess - 2003 - Business Process Redesign als nachhaltiger Trend .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.econstor.eu/handle/10419/60069
+      \endverb
+      \verb{url}
+      \verb https://www.econstor.eu/handle/10419/60069
+      \endverb
+    \endentry
+    \entry{theorie_gadatsch_grundkurs_geschäftsprozessmanagement_2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9275409be595e9a1805fbdb65ceb0dee}{%
+           family={Gadatsch},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner}%
+      }
+      \strng{namehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{fullhash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{bibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authorbibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authornamehash}{9275409be595e9a1805fbdb65ceb0dee}
+      \strng{authorfullhash}{9275409be595e9a1805fbdb65ceb0dee}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-8348-0762-5 978-3-8348-9346-8}
+      \field{title}{Grundkurs {Geschäftsprozess}-{Management}}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-9346-8
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/I570199/Zotero/storage/65JWGDJP/Gadatsch - 2010 - Grundkurs Geschäftsprozess-Management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-8348-9346-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-8348-9346-8
+      \endverb
+      \keyw{Geschäftsprozess,Geschäftsprozesse,Geschäftsprozessmodellierung,Modellierung,Business Process Management,Datenmodell,Geschäftsprozessmanagement,Lernen,Prozessmanagement,Prozessmodellierung,Simulation,Standardsoftware,Workflow,Workflow-Management,Workflow-Management-System}
+    \endentry
+    \entry{theorie_berkau_arten_geschäftsprozesse_1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9c49d40944039f9f5db316a334acea5}{%
+           family={Berkau},
+           familyi={B\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9c49d40944039f9f5db316a334acea5}
+      \strng{fullhash}{f9c49d40944039f9f5db316a334acea5}
+      \strng{bibnamehash}{f9c49d40944039f9f5db316a334acea5}
+      \strng{authorbibnamehash}{f9c49d40944039f9f5db316a334acea5}
+      \strng{authornamehash}{f9c49d40944039f9f5db316a334acea5}
+      \strng{authorfullhash}{f9c49d40944039f9f5db316a334acea5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kostenrechnungspraxis}
+      \field{title}{Instrumente der {Datenverarbeitung} für das effiziente {Prozesscontrolling}}
+      \field{volume}{2}
+      \field{year}{1998}
+      \field{pages}{27\bibrangedash 32}
+      \range{pages}{6}
+    \endentry
+    \entry{theorie_riekhof_geschäftsprozess_einordnung_1997}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f0790d4818b562d9fea327d43a7dc77}{%
+           family={Riekhof},
+           familyi={R\bibinitperiod},
+           given={Hans-Christian},
+           giveni={H\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Schäffer-Pöschel}%
+      }
+      \strng{namehash}{3f0790d4818b562d9fea327d43a7dc77}
+      \strng{fullhash}{3f0790d4818b562d9fea327d43a7dc77}
+      \strng{bibnamehash}{3f0790d4818b562d9fea327d43a7dc77}
+      \strng{editorbibnamehash}{3f0790d4818b562d9fea327d43a7dc77}
+      \strng{editornamehash}{3f0790d4818b562d9fea327d43a7dc77}
+      \strng{editorfullhash}{3f0790d4818b562d9fea327d43a7dc77}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-7910-1073-1}
+      \field{shorttitle}{Beschleunigung von {Geschäftsprozessen}}
+      \field{title}{Beschleunigung von {Geschäftsprozessen}: {Wettbewerbsvorteile} durch {Lernfähigkeit} ; mit {Fallstudien} von {AFG} - {Bosch} - {Phoenix} - {Siemens} - {Volkswagen} - {Würth}}
+      \field{year}{1997}
+      \keyw{Fallstudiensammlung,Organisatorisches Lernen,Prozessmanagement}
+    \endentry
+    \entry{theorie_best_geschaftsprozesse_optimieren_2009}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=24b986070fccfcc65996a9a1bda0fb25}{%
+           family={Best},
+           familyi={B\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c97fcd32adaef849d1dd01e00b5f781}{%
+           family={Weth},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{585de4767e3cbc1022dd765b02b30f75}
+      \strng{fullhash}{585de4767e3cbc1022dd765b02b30f75}
+      \strng{bibnamehash}{585de4767e3cbc1022dd765b02b30f75}
+      \strng{authorbibnamehash}{585de4767e3cbc1022dd765b02b30f75}
+      \strng{authornamehash}{585de4767e3cbc1022dd765b02b30f75}
+      \strng{authorfullhash}{585de4767e3cbc1022dd765b02b30f75}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-8349-1384-5 978-3-8349-9410-3}
+      \field{title}{Geschäftsprozesse optimieren}
+      \field{urlday}{2}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-8349-9410-3
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/I570199/Zotero/storage/6KPWHF2W/Best and Weth - 2009 - Geschäftsprozesse optimieren.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-8349-9410-3
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-8349-9410-3
+      \endverb
+      \keyw{Change Management,Geschäftsprozess,Geschäftsprozesse,Kompetenzen,Leistungsmessung,Management,Manager,Organisation,Planung,Prozessoptimierung,Reorganisation,Unternehmenskultur,Unternehmer,Veränderungsmanagement,Wissensmanagement}
+    \endentry
     \entry{theorie_digitale_transformation_beschaffung_automobilindustrie_2019}{incollection}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f45938f85d977ead645b61f76b52cd61}{%
@@ -141,8 +416,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -182,8 +457,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -223,8 +498,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{3}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -261,8 +536,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{4}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -297,8 +572,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{5}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -335,8 +610,8 @@
       \strng{authorbibnamehash}{f003c44deab679aa2edfaff864c77402}
       \strng{authornamehash}{f003c44deab679aa2edfaff864c77402}
       \strng{authorfullhash}{f003c44deab679aa2edfaff864c77402}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -372,8 +647,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -411,8 +686,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -449,8 +724,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}

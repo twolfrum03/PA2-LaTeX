@@ -421,6 +421,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
@@ -763,6 +766,13 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD10.t
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
+INPUT ./Bilder/Geschäftsprozesse_Arten.png
+INPUT ./Bilder/Geschäftsprozesse_Arten.png
+INPUT ./Bilder/Geschäftsprozesse_Arten.png
+INPUT ./Bilder/Geschäftsprozess_Einordnung2.png
+INPUT ./Bilder/Geschäftsprozess_Einordnung2.png
+INPUT ./Bilder/Geschäftsprozess_Einordnung2.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png
