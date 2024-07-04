@@ -2375,19 +2375,23 @@
     <bcf:citekey order="12" intorder="1">theorie_best_geschaftsprozesse_optimieren_2009</bcf:citekey>
     <bcf:citekey order="13" intorder="1">theorie_best_geschaftsprozesse_optimieren_2009</bcf:citekey>
     <bcf:citekey order="14" intorder="1">theorie_best_geschaftsprozesse_optimieren_2009</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">theorie_digitale_transformation_beschaffung_automobilindustrie_2019</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">theorie_digitale_transformation_beschaffung_automobilindustrie_2019</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">theorie_sap_webseite_dms_übersicht_2024</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">theorie_sap_plm_übersicht_2024</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">theorie_sap_procurement_planning_overview_2024</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">theorie_sap_webseite_dms_übersicht_2024</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">theorie_sap_supplier_quotation_management_help_2024</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">theorie_sap_enterprise_contract_management_2024</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">theorie_sap_commodity_management_2024</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">theorie_sap_contract_price_renegotiation_2024</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">theorie_sap_central_contract_overview_2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">theorie_gadatsch_grundkurs_geschäftsprozessmanagement_2010</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">theorie_bleicher_organisation_1991</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">theorie_bleicher_organisation_1991</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">theorie_bleicher_organisation_1991</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">theorie_digitale_transformation_beschaffung_automobilindustrie_2019</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">theorie_digitale_transformation_beschaffung_automobilindustrie_2019</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">theorie_sap_webseite_dms_übersicht_2024</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">theorie_sap_plm_übersicht_2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">theorie_sap_procurement_planning_overview_2024</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">theorie_sap_webseite_dms_übersicht_2024</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">theorie_sap_supplier_quotation_management_help_2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">theorie_sap_enterprise_contract_management_2024</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">theorie_sap_commodity_management_2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">theorie_sap_contract_price_renegotiation_2024</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">theorie_sap_central_procurement_overview_2024</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">theorie_sap_central_contract_overview_2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -294,6 +294,43 @@
       \endverb
       \keyw{Change Management,Geschäftsprozess,Geschäftsprozesse,Kompetenzen,Leistungsmessung,Management,Manager,Organisation,Planung,Prozessoptimierung,Reorganisation,Unternehmenskultur,Unternehmer,Veränderungsmanagement,Wissensmanagement}
     \endentry
+    \entry{theorie_bleicher_organisation_1991}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2208a86a2e752f176d4bf02c993623ce}{%
+           family={Bleicher},
+           familyi={B\bibinitperiod},
+           given={Knut},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler}%
+      }
+      \strng{namehash}{2208a86a2e752f176d4bf02c993623ce}
+      \strng{fullhash}{2208a86a2e752f176d4bf02c993623ce}
+      \strng{bibnamehash}{2208a86a2e752f176d4bf02c993623ce}
+      \strng{authorbibnamehash}{2208a86a2e752f176d4bf02c993623ce}
+      \strng{authornamehash}{2208a86a2e752f176d4bf02c993623ce}
+      \strng{authorfullhash}{2208a86a2e752f176d4bf02c993623ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{2., vollständig neu bearbeitete und erweiterte Auflage}
+      \field{isbn}{978-3-322-82919-1 978-3-409-31552-4}
+      \field{shorttitle}{Organisation}
+      \field{title}{Organisation: {Strategien} - {Strukturen} - {Kulturen}}
+      \field{year}{1991}
+      \keyw{Management,Organisation,Sankt Galler Modell,Theorie,Unternehmen,Unternehmensorganisation}
+    \endentry
     \entry{theorie_digitale_transformation_beschaffung_automobilindustrie_2019}{incollection}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f45938f85d977ead645b61f76b52cd61}{%
@@ -416,8 +453,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -457,8 +494,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -498,8 +535,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -724,8 +761,8 @@
       \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
       \field{extraname}{8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradate}{8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
