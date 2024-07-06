@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,775 +16,885 @@
   {}
 \endgroup
 
+\datalist[entry]{none/global//global/global}
+  \entry{theorie_staud_geschäftsprozessanalyse_2006}{book}{}
+    \name{author}{1}{}{%
+      {{hash=J}{%
+         family={{Josef Staud}},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \keyw{Betriebswirtschaft, Betriebswirtschaftliche Standardsoftware, Ereignisgesteuerte Prozessketten, ERP-Software, Geschäftsprozess, Geschäftsprozesse, Geschäftsprozessmodellierung, Methoden, Modellierung, Optimierung von Geschäftsprozessen, Prozessmodellierun}
+    \strng{namehash}{J1}
+    \strng{fullhash}{J1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1007/3-540-37976-2
+    \endverb
+    \field{isbn}{978-3-540-24510-0}
+    \field{title}{Geschäftsprozessanalyse}
+    \verb{url}
+    \verb http://link.springer.com/10.1007/3-540-37976-2
+    \endverb
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \verb{file}
+    \verb Submitted Version:/Users/I570199/Zotero/storage/237XW7HU/2006 - Gesch
+    \verb äftsprozessanalyse.pdf:application/pdf
+    \endverb
+    \field{year}{2006}
+    \field{urlday}{11}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{theorie_staud_geschäftsprozessanalyse_2006}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=eb2fea59fcb63978a640d83b1de1f6dc}{%
-           family={{Josef Staud}},
-           familyi={J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {de}%
-      }
-      \list{location}{1}{%
-        {Berlin, Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \strng{fullhash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \strng{bibnamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \strng{authorbibnamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \strng{authornamehash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \strng{authorfullhash}{eb2fea59fcb63978a640d83b1de1f6dc}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-540-24510-0}
-      \field{title}{Geschäftsprozessanalyse}
-      \field{urlday}{11}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2006}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1007/3-540-37976-2
-      \endverb
-      \verb{file}
-      \verb Submitted Version:/Users/I570199/Zotero/storage/237XW7HU/2006 - Geschäftsprozessanalyse.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/3-540-37976-2
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/3-540-37976-2
-      \endverb
-      \keyw{Betriebswirtschaft,Betriebswirtschaftliche Standardsoftware,Ereignisgesteuerte Prozessketten,ERP-Software,Geschäftsprozess,Geschäftsprozesse,Geschäftsprozessmodellierung,Methoden,Modellierung,Optimierung von Geschäftsprozessen,Prozessmodellierun}
-    \endentry
-    \entry{theorie_koch_studie_kriterien_geschäftsprozess_2003}{report}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=3927d6f227dd5ce4b600df7d1b93091f}{%
-           family={Koch},
-           familyi={K\bibinitperiod},
-           given={Dagmar},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b7024ad91d26df00a73444c3028e564}{%
-           family={Hess},
-           familyi={H\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Ludwig-Maximilians-Universität München, Institut für Wirtschaftsinformatik und Neue Medien (WIM)}%
-      }
-      \list{language}{1}{%
-        {ger}%
-      }
-      \list{location}{1}{%
-        {München}%
-      }
-      \strng{namehash}{def36fd86ea3ce34763aca50c39e4099}
-      \strng{fullhash}{def36fd86ea3ce34763aca50c39e4099}
-      \strng{bibnamehash}{def36fd86ea3ce34763aca50c39e4099}
-      \strng{authorbibnamehash}{def36fd86ea3ce34763aca50c39e4099}
-      \strng{authornamehash}{def36fd86ea3ce34763aca50c39e4099}
-      \strng{authorfullhash}{def36fd86ea3ce34763aca50c39e4099}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{number}{6/2003}
-      \field{shorttitle}{Business {Process} {Redesign} als nachhaltiger {Trend}?}
-      \field{title}{Business {Process} {Redesign} als nachhaltiger {Trend}? {Eine} empirische {Studie} zu {Aktualität}, {Inhalten} und {Gestaltung} in deutschen {Großunternehmen}}
-      \field{type}{Working {Paper}}
-      \field{urlday}{3}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2003}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Full Text PDF:/Users/I570199/Zotero/storage/FMVTAXX9/Koch and Hess - 2003 - Business Process Redesign als nachhaltiger Trend .pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.econstor.eu/handle/10419/60069
-      \endverb
-      \verb{url}
-      \verb https://www.econstor.eu/handle/10419/60069
-      \endverb
-    \endentry
-    \entry{theorie_gadatsch_grundkurs_geschäftsprozessmanagement_2010}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9275409be595e9a1805fbdb65ceb0dee}{%
-           family={Gadatsch},
-           familyi={G\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {de}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {Vieweg+Teubner}%
-      }
-      \strng{namehash}{9275409be595e9a1805fbdb65ceb0dee}
-      \strng{fullhash}{9275409be595e9a1805fbdb65ceb0dee}
-      \strng{bibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
-      \strng{authorbibnamehash}{9275409be595e9a1805fbdb65ceb0dee}
-      \strng{authornamehash}{9275409be595e9a1805fbdb65ceb0dee}
-      \strng{authorfullhash}{9275409be595e9a1805fbdb65ceb0dee}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-8348-0762-5 978-3-8348-9346-8}
-      \field{title}{Grundkurs {Geschäftsprozess}-{Management}}
-      \field{urlday}{11}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2010}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1007/978-3-8348-9346-8
-      \endverb
-      \verb{file}
-      \verb Submitted Version:/Users/I570199/Zotero/storage/65JWGDJP/Gadatsch - 2010 - Grundkurs Geschäftsprozess-Management.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/978-3-8348-9346-8
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/978-3-8348-9346-8
-      \endverb
-      \keyw{Geschäftsprozess,Geschäftsprozesse,Geschäftsprozessmodellierung,Modellierung,Business Process Management,Datenmodell,Geschäftsprozessmanagement,Lernen,Prozessmanagement,Prozessmodellierung,Simulation,Standardsoftware,Workflow,Workflow-Management,Workflow-Management-System}
-    \endentry
-    \entry{theorie_berkau_arten_geschäftsprozesse_1998}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f9c49d40944039f9f5db316a334acea5}{%
-           family={Berkau},
-           familyi={B\bibinitperiod},
-           given={Carsten},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f9c49d40944039f9f5db316a334acea5}
-      \strng{fullhash}{f9c49d40944039f9f5db316a334acea5}
-      \strng{bibnamehash}{f9c49d40944039f9f5db316a334acea5}
-      \strng{authorbibnamehash}{f9c49d40944039f9f5db316a334acea5}
-      \strng{authornamehash}{f9c49d40944039f9f5db316a334acea5}
-      \strng{authorfullhash}{f9c49d40944039f9f5db316a334acea5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Kostenrechnungspraxis}
-      \field{title}{Instrumente der {Datenverarbeitung} für das effiziente {Prozesscontrolling}}
-      \field{volume}{2}
-      \field{year}{1998}
-      \field{pages}{27\bibrangedash 32}
-      \range{pages}{6}
-    \endentry
-    \entry{theorie_riekhof_geschäftsprozess_einordnung_1997}{book}{}
-      \name{editor}{1}{}{%
-        {{un=0,uniquepart=base,hash=3f0790d4818b562d9fea327d43a7dc77}{%
-           family={Riekhof},
-           familyi={R\bibinitperiod},
-           given={Hans-Christian},
-           giveni={H\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {ger}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \list{publisher}{1}{%
-        {Schäffer-Pöschel}%
-      }
-      \strng{namehash}{3f0790d4818b562d9fea327d43a7dc77}
-      \strng{fullhash}{3f0790d4818b562d9fea327d43a7dc77}
-      \strng{bibnamehash}{3f0790d4818b562d9fea327d43a7dc77}
-      \strng{editorbibnamehash}{3f0790d4818b562d9fea327d43a7dc77}
-      \strng{editornamehash}{3f0790d4818b562d9fea327d43a7dc77}
-      \strng{editorfullhash}{3f0790d4818b562d9fea327d43a7dc77}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{shorttitle}
-      \field{isbn}{978-3-7910-1073-1}
-      \field{shorttitle}{Beschleunigung von {Geschäftsprozessen}}
-      \field{title}{Beschleunigung von {Geschäftsprozessen}: {Wettbewerbsvorteile} durch {Lernfähigkeit} ; mit {Fallstudien} von {AFG} - {Bosch} - {Phoenix} - {Siemens} - {Volkswagen} - {Würth}}
-      \field{year}{1997}
-      \keyw{Fallstudiensammlung,Organisatorisches Lernen,Prozessmanagement}
-    \endentry
-    \entry{theorie_best_geschaftsprozesse_optimieren_2009}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=24b986070fccfcc65996a9a1bda0fb25}{%
-           family={Best},
-           familyi={B\bibinitperiod},
-           given={Eva},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8c97fcd32adaef849d1dd01e00b5f781}{%
-           family={Weth},
-           familyi={W\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {de}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {Gabler}%
-      }
-      \strng{namehash}{585de4767e3cbc1022dd765b02b30f75}
-      \strng{fullhash}{585de4767e3cbc1022dd765b02b30f75}
-      \strng{bibnamehash}{585de4767e3cbc1022dd765b02b30f75}
-      \strng{authorbibnamehash}{585de4767e3cbc1022dd765b02b30f75}
-      \strng{authornamehash}{585de4767e3cbc1022dd765b02b30f75}
-      \strng{authorfullhash}{585de4767e3cbc1022dd765b02b30f75}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-8349-1384-5 978-3-8349-9410-3}
-      \field{title}{Geschäftsprozesse optimieren}
-      \field{urlday}{2}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2009}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1007/978-3-8349-9410-3
-      \endverb
-      \verb{file}
-      \verb Submitted Version:/Users/I570199/Zotero/storage/6KPWHF2W/Best and Weth - 2009 - Geschäftsprozesse optimieren.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/978-3-8349-9410-3
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/978-3-8349-9410-3
-      \endverb
-      \keyw{Change Management,Geschäftsprozess,Geschäftsprozesse,Kompetenzen,Leistungsmessung,Management,Manager,Organisation,Planung,Prozessoptimierung,Reorganisation,Unternehmenskultur,Unternehmer,Veränderungsmanagement,Wissensmanagement}
-    \endentry
-    \entry{theorie_bleicher_organisation_1991}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2208a86a2e752f176d4bf02c993623ce}{%
-           family={Bleicher},
-           familyi={B\bibinitperiod},
-           given={Knut},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {ger}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {Gabler}%
-      }
-      \strng{namehash}{2208a86a2e752f176d4bf02c993623ce}
-      \strng{fullhash}{2208a86a2e752f176d4bf02c993623ce}
-      \strng{bibnamehash}{2208a86a2e752f176d4bf02c993623ce}
-      \strng{authorbibnamehash}{2208a86a2e752f176d4bf02c993623ce}
-      \strng{authornamehash}{2208a86a2e752f176d4bf02c993623ce}
-      \strng{authorfullhash}{2208a86a2e752f176d4bf02c993623ce}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{edition}{2., vollständig neu bearbeitete und erweiterte Auflage}
-      \field{isbn}{978-3-322-82919-1 978-3-409-31552-4}
-      \field{shorttitle}{Organisation}
-      \field{title}{Organisation: {Strategien} - {Strukturen} - {Kulturen}}
-      \field{year}{1991}
-      \keyw{Management,Organisation,Sankt Galler Modell,Theorie,Unternehmen,Unternehmensorganisation}
-    \endentry
-    \entry{theorie_digitale_transformation_beschaffung_automobilindustrie_2019}{incollection}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=f45938f85d977ead645b61f76b52cd61}{%
-           family={Karl},
-           familyi={K\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4956c9d7d7ca8316f3f23b5a180b888e}{%
-           family={Sucky},
-           familyi={S\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c715c1b3ef1bb62666f9e6ffda300fe8}{%
-           family={Klatt},
-           familyi={K\bibinitperiod},
-           given={Alina},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{7}{}{%
-        {{hash=2e9e5fff76b562c6f8534e73b265e3cf}{%
-           family={Becker},
-           familyi={B\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=49ae36c78dbedb613c4cbe8533bca6a3}{%
-           family={Eierle},
-           familyi={E\bibinitperiod},
-           given={Brigitte},
-           giveni={B\bibinitperiod}}}%
-        {{hash=60ca964b0f99281e01181c51913f8422}{%
-           family={Fliaster},
-           familyi={F\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=7cf5d04bc72c4455cd4cee7bdd74d60d}{%
-           family={Ivens},
-           familyi={I\bibinitperiod},
-           given={Björn},
-           giveni={B\bibinitperiod}}}%
-        {{hash=1ebea69b1b3d9f65b80ce6926b272643}{%
-           family={Leischnig},
-           familyi={L\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=40574d32fbebbe7700e6a8953877d59e}{%
-           family={Pflaum},
-           familyi={P\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4956c9d7d7ca8316f3f23b5a180b888e}{%
-           family={Sucky},
-           familyi={S\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {de}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {Springer Fachmedien}%
-      }
-      \strng{namehash}{6220729436badbabcb99752b93df91c6}
-      \strng{fullhash}{6220729436badbabcb99752b93df91c6}
-      \strng{bibnamehash}{6220729436badbabcb99752b93df91c6}
-      \strng{authorbibnamehash}{6220729436badbabcb99752b93df91c6}
-      \strng{authornamehash}{6220729436badbabcb99752b93df91c6}
-      \strng{authorfullhash}{6220729436badbabcb99752b93df91c6}
-      \strng{editorbibnamehash}{5902b17aca01932789f480e6aa94de4f}
-      \strng{editornamehash}{5902b17aca01932789f480e6aa94de4f}
-      \strng{editorfullhash}{adac19547d70bf32c19b025bb0afcd0d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Spätestens Tesla hätte die Automobilindustrie aufwecken sollen: Innovative Marktteilnehmer und technische Innovationen forcieren auch in dieser Branche eine Veränderung von Geschäftsprozessen oder ganzen Geschäftsmodellen. Die Forschung hinsichtlich des Einflusses der Digitalisierung auf Beschaffung und Einkauf steckt im Gegensatz zu anderen betrieblichen Funktionsbereichen wie bspw. der Produktion allerdings noch in den Kinderschuhen. Aus diesen Gründen gibt dieser Beitrag auf Basis wissenschaftlicher Literatur und aus der Sicht von Praktikern einen Einblick in die digitale Transformation der Beschaffung in der deutschen Automobilindustrie. Dabei eilt die wissenschaftliche Literatur der Unternehmenspraxis in vielen Bereichen voraus. Aktuell stehen in der Praxis oft noch Themen aus längst als etabliert geglaubten Digitalisierungsstufen auf der Agenda.}
-      \field{booktitle}{Geschäftsmodelle in der digitalen {Welt}: {Strategien}, {Prozesse} und {Praxiserfahrungen}}
-      \field{isbn}{978-3-658-22129-4}
-      \field{title}{Digitale {Transformation} der {Beschaffung} am {Beispiel} der deutschen {Automobilindustrie}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{539\bibrangedash 558}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1007/978-3-658-22129-4_27
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/I570199/Zotero/storage/48VK98Y9/Karl et al. - 2019 - Digitale Transformation der Beschaffung am Beispie.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-3-658-22129-4_27
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-3-658-22129-4_27
-      \endverb
-    \endentry
-    \entry{theorie_sap_webseite_dms_übersicht_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {German}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Versetzen Sie Beschaffungs- und Commodity-Management-Teams in die Lage, für Direktmaterialien mit hohem Wert entsprechende Beschaffungsverträge mit SAP-Software für die Produktbeschaffung abzuschließen.}
-      \field{journaltitle}{SAP}
-      \field{title}{{SAP}-{Lösungen} für die {Produktbeschaffung} {|} {Software} für die {Produktbeschaffung}}
-      \field{urlday}{26}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/DB4RBYGU/product-sourcing-software.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sap.com/germany/products/spend-management/product-sourcing-software.html
-      \endverb
-      \verb{url}
-      \verb https://www.sap.com/germany/products/spend-management/product-sourcing-software.html
-      \endverb
-    \endentry
-    \entry{theorie_sap_plm_übersicht_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Accelerate product development and reduce costs by enabling collaborative innovation with the SAP Product Lifecycle Management solution.}
-      \field{journaltitle}{SAP}
-      \field{title}{{SAP} {Product} {Lifecycle} {Management} {|} {PLM} {Cloud} and {Collaborative} {Innovation}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/GYMNZUCP/product-lifecycle-management.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sap.com/products/scm/product-lifecycle-management.html
-      \endverb
-      \verb{url}
-      \verb https://www.sap.com/products/scm/product-lifecycle-management.html
-      \endverb
-    \endentry
-    \entry{theorie_sap_procurement_planning_overview_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Discover how the SAP Ariba Procurement Planning solution supports launches of highly engineered products to help you plan and manage new product innovation or forward sourcing programs.}
-      \field{journaltitle}{SAP}
-      \field{title}{Procurement project management for new product introduction: {Efficiently} plan and manage automotive and industrial manufacturing sourcing activities}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/HE3H9296/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sap.com/documents/2021/07/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html
-      \endverb
-      \verb{url}
-      \verb https://www.sap.com/documents/2021/07/f4c209e2-ed7d-0010-bca6-c68f7e60039b.html
-      \endverb
-    \endentry
-    \entry{theorie_sap_supplier_quotation_management_help_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Introduction: {Managing} {Quotations} with {SAP} {S}/{4HANA} for {Supplier} {Quotation} {Management} {|} {SAP} {Help} {Portal}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Introduction\: Managing Quotations with SAP S/4HANA for Supplier Quotation Management | SAP Help Portal:/Users/I570199/Zotero/storage/MKY83KLE/6d8d6800afab45caae8da141381c2986.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://help.sap.com/docs/SCP_QUOTATION/3ba80afb5d1841e6a94f91b07a003c20/6d8d6800afab45caae8da141381c2986.html?version=2402
-      \endverb
-      \verb{url}
-      \verb https://help.sap.com/docs/SCP_QUOTATION/3ba80afb5d1841e6a94f91b07a003c20/6d8d6800afab45caae8da141381c2986.html?version=2402
-      \endverb
-    \endentry
-    \entry{theorie_sap_enterprise_contract_management_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{SAP} {Enterprise} {Contract} {Management}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb SAP Industry Solution Portfolio:/Users/I570199/Zotero/storage/B3RB7FNC/6EAE8B27FCC11ED892E92A59D6C840CC.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://solutionportfolio.net.sap/industry/HANAOP/object/6EAE8B27FCC11ED892E92A59D6C840CC
-      \endverb
-      \verb{url}
-      \verb https://solutionportfolio.net.sap/industry/HANAOP/object/6EAE8B27FCC11ED892E92A59D6C840CC
-      \endverb
-    \endentry
-    \entry{theorie_sap_commodity_management_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f003c44deab679aa2edfaff864c77402}{%
-           family={{SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{f003c44deab679aa2edfaff864c77402}
-      \strng{fullhash}{f003c44deab679aa2edfaff864c77402}
-      \strng{bibnamehash}{f003c44deab679aa2edfaff864c77402}
-      \strng{authorbibnamehash}{f003c44deab679aa2edfaff864c77402}
-      \strng{authornamehash}{f003c44deab679aa2edfaff864c77402}
-      \strng{authorfullhash}{f003c44deab679aa2edfaff864c77402}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Better manage price volatility and commodity risk – with our commodity management software.}
-      \field{journaltitle}{SAP}
-      \field{title}{{SAP} {Commodity} {Management} {|} {Finance} and {Procurement}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/83YSPZLZ/commodity-management.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sap.com/germany/products/financial-management/commodity-management.html
-      \endverb
-      \verb{url}
-      \verb https://www.sap.com/germany/products/financial-management/commodity-management.html
-      \endverb
-    \endentry
-    \entry{theorie_sap_contract_price_renegotiation_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{SAP} {Ariba} {Direct} {Materials} {Sourcing} for {Automotive} and {Industrial} {Manufacturing} in {SAP} {S}/{4HANA}, {Contract} {Price} {Renegotiation} {Add}-on {|} {SAP} {Help} {Portal}}
-      \field{urlday}{1}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb SAP Ariba Direct Materials Sourcing for Automotive and Industrial Manufacturing in SAP S/4HANA, Contract Price Renegotiation Add-on | SAP Help Portal:/Users/I570199/Zotero/storage/VT3JDCV6/f18ae6a5362c47b6b6438c5c880ed0f3.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://help.sap.com/docs/CONTRACT_PRICE_RENEGOTIATION/73ab209bd5d747a795cadddb674ba421/f18ae6a5362c47b6b6438c5c880ed0f3.html?locale=en-US
-      \endverb
-      \verb{url}
-      \verb https://help.sap.com/docs/CONTRACT_PRICE_RENEGOTIATION/73ab209bd5d747a795cadddb674ba421/f18ae6a5362c47b6b6438c5c880ed0f3.html?locale=en-US
-      \endverb
-    \endentry
-    \entry{theorie_sap_central_procurement_overview_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {German}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Erfahren Sie, wie Sie mit SAP-Lösungen für eine zentrale Beschaffung die Transparenz steigern, die Compliance verbessern und die Kosten senken können.}
-      \field{journaltitle}{SAP}
-      \field{title}{{SAP} {Ariba} {Central} {Procurement}, {Private} {Cloud} {Edition} {|} {Zentraler} {Einkauf}}
-      \field{urlday}{26}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/Users/I570199/Zotero/storage/ZCRQ4IQX/centralized-procurement.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sap.com/germany/products/spend-management/centralized-procurement.html
-      \endverb
-      \verb{url}
-      \verb https://www.sap.com/germany/products/spend-management/centralized-procurement.html
-      \endverb
-    \endentry
-    \entry{theorie_sap_central_contract_overview_2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a8fdc4d4089d2e7c3046b1da9fa45a47}{%
-           family={{SAP SE}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{fullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{bibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorbibnamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authornamehash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \strng{authorfullhash}{a8fdc4d4089d2e7c3046b1da9fa45a47}
-      \field{extraname}{8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{extradate}{8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Central {Purchase} {Contracts} {|} {SAP} {Help} {Portal}}
-      \field{urlday}{2}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Central Purchase Contracts | SAP Help Portal:/Users/I570199/Zotero/storage/H5VNLDMP/fb8697eea5964302ab99d4770f2325bf.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://help.sap.com/docs/SAP_S4HANA_CLOUD/0e602d466b99490187fcbb30d1dc897c/7d38e396d29949f9b8eb7227289dc58a.html?locale=en-US
-      \endverb
-      \verb{url}
-      \verb https://help.sap.com/docs/SAP_S4HANA_CLOUD/0e602d466b99490187fcbb30d1dc897c/7d38e396d29949f9b8eb7227289dc58a.html?locale=en-US
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{theorie_koch_studie_kriterien_geschäftsprozess_2003}{report}{}
+    \name{author}{2}{}{%
+      {{hash=KD}{%
+         family={Koch},
+         familyi={K\bibinitperiod},
+         given={Dagmar},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hess},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \strng{namehash}{KDHT1}
+    \strng{fullhash}{KDHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{number}{6/2003}
+    \field{shorttitle}{Business {Process} {Redesign} als nachhaltiger {Trend}?}
+    \field{title}{Business {Process} {Redesign} als nachhaltiger {Trend}? {Eine} empirische {Studie} zu {Aktualität}, {Inhalten} und {Gestaltung} in deutschen {Großunternehmen}}
+    \verb{url}
+    \verb https://www.econstor.eu/handle/10419/60069
+    \endverb
+    \list{location}{1}{%
+      {München}%
+    }
+    \list{institution}{1}{%
+      {Ludwig-Maximilians-Universität München, Institut für Wirtschaftsinformatik und Neue Medien (WIM)}%
+    }
+    \verb{file}
+    \verb Full Text PDF:/Users/I570199/Zotero/storage/FMVTAXX9/Koch and Hess -
+    \verb 2003 - Business Process Redesign als nachhaltiger Trend .pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{type}{Working {Paper}}
+    \field{year}{2003}
+    \field{urlday}{03}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_gadatsch_grundkurs_geschäftsprozessmanagement_2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={Gadatsch},
+         familyi={G\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \list{publisher}{1}{%
+      {Vieweg+Teubner}%
+    }
+    \keyw{Geschäftsprozess, Geschäftsprozesse, Geschäftsprozessmodellierung, Modellierung, Business Process Management, Datenmodell, Geschäftsprozessmanagement, Lernen, Prozessmanagement, Prozessmodellierung, Simulation, Standardsoftware, Workflow, Workflow-Management, Workflow-Management-System}
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1007/978-3-8348-9346-8
+    \endverb
+    \field{isbn}{978-3-8348-0762-5 978-3-8348-9346-8}
+    \field{title}{Grundkurs {Geschäftsprozess}-{Management}}
+    \verb{url}
+    \verb http://link.springer.com/10.1007/978-3-8348-9346-8
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \verb{file}
+    \verb Submitted Version:/Users/I570199/Zotero/storage/65JWGDJP/Gadatsch - 2
+    \verb 010 - Grundkurs Geschäftsprozess-Management.pdf:application/pdf
+    \endverb
+    \field{year}{2010}
+    \field{urlday}{11}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_berkau_arten_geschäftsprozesse_1998}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BC}{%
+         family={Berkau},
+         familyi={B\bibinitperiod},
+         given={Carsten},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BC1}
+    \strng{fullhash}{BC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{pages}{27\bibrangedash 32}
+    \field{title}{Instrumente der {Datenverarbeitung} für das effiziente {Prozesscontrolling}}
+    \field{volume}{2}
+    \field{journaltitle}{Kostenrechnungspraxis}
+    \field{year}{1998}
+  \endentry
+
+  \entry{theorie_riekhof_geschäftsprozess_einordnung_1997}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=RHC}{%
+         family={Riekhof},
+         familyi={R\bibinitperiod},
+         given={Hans-Christian},
+         giveni={H\bibinithyphendelim C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Schäffer-Pöschel}%
+    }
+    \keyw{Fallstudiensammlung, Organisatorisches Lernen, Prozessmanagement}
+    \strng{namehash}{RHC1}
+    \strng{fullhash}{RHC1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{isbn}{978-3-7910-1073-1}
+    \field{shorttitle}{Beschleunigung von {Geschäftsprozessen}}
+    \field{title}{Beschleunigung von {Geschäftsprozessen}: {Wettbewerbsvorteile} durch {Lernfähigkeit} ; mit {Fallstudien} von {AFG} - {Bosch} - {Phoenix} - {Siemens} - {Volkswagen} - {Würth}}
+    \list{location}{1}{%
+      {Stuttgart}%
+    }
+    \field{year}{1997}
+  \endentry
+
+  \entry{theorie_best_geschaftsprozesse_optimieren_2009}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Best},
+         familyi={B\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Weth},
+         familyi={W\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \list{publisher}{1}{%
+      {Gabler}%
+    }
+    \keyw{Change Management, Geschäftsprozess, Geschäftsprozesse, Kompetenzen, Leistungsmessung, Management, Manager, Organisation, Planung, Prozessoptimierung, Reorganisation, Unternehmenskultur, Unternehmer, Veränderungsmanagement, Wissensmanagement}
+    \strng{namehash}{BEWM1}
+    \strng{fullhash}{BEWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1007/978-3-8349-9410-3
+    \endverb
+    \field{isbn}{978-3-8349-1384-5 978-3-8349-9410-3}
+    \field{title}{Geschäftsprozesse optimieren}
+    \verb{url}
+    \verb http://link.springer.com/10.1007/978-3-8349-9410-3
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \verb{file}
+    \verb Submitted Version:/Users/I570199/Zotero/storage/6KPWHF2W/Best and Wet
+    \verb h - 2009 - Geschäftsprozesse optimieren.pdf:application/pdf
+    \endverb
+    \field{year}{2009}
+    \field{urlday}{02}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_bleicher_organisation_1991}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BK}{%
+         family={Bleicher},
+         familyi={B\bibinitperiod},
+         given={Knut},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Gabler}%
+    }
+    \keyw{Management, Organisation, Sankt Galler Modell, Theorie, Unternehmen, Unternehmensorganisation}
+    \strng{namehash}{BK1}
+    \strng{fullhash}{BK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{edition}{2., vollständig neu bearbeitete und erweiterte Auflage}
+    \field{isbn}{978-3-322-82919-1 978-3-409-31552-4}
+    \field{shorttitle}{Organisation}
+    \field{title}{Organisation: {Strategien} - {Strukturen} - {Kulturen}}
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{theorie_hammer_champy_business_reengineering_1996}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HM}{%
+         family={Hammer},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Champy},
+         familyi={C\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Campus-Verl}%
+    }
+    \keyw{Reengineering, Unternehmen}
+    \strng{namehash}{HMCJ1}
+    \strng{fullhash}{HMCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{edition}{6. Aufl}
+    \field{isbn}{978-3-593-35017-2}
+    \field{shorttitle}{Business reengineering}
+    \field{title}{Business reengineering: die {Radikalkur} für das {Unternehmen}}
+    \list{location}{1}{%
+      {Frankfurt am Main}%
+    }
+    \field{year}{1996}
+  \endentry
+
+  \entry{theorie_osterle_business_1995}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OH}{%
+         family={Oesterle},
+         familyi={O\bibinitperiod},
+         given={Hubert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{OH1}
+    \strng{fullhash}{OH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{edition}{1}
+    \field{title}{Business {Engineering}. {Prozess}- und {Systementwicklung}: {Band} 1: {Entwurfstechniken}}
+    \verb{url}
+    \verb https://swbplus.bsz-bw.de/bsz047933178cov.jpg
+    \endverb
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{1995}
+  \endentry
+
+  \entry{theorie_beyer_user_experience_mit_sap_2020}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BC}{%
+         family={Beyer},
+         familyi={B\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Klumm},
+         familyi={K\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lindner},
+         familyi={L\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \list{publisher}{1}{%
+      {Rheinwerk Verlag}%
+    }
+    \strng{namehash}{BCKMLC1}
+    \strng{fullhash}{BCKMLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{isbn}{978-3-8362-7302-2}
+    \field{title}{User {Experience} mit {SAP}}
+    \list{location}{1}{%
+      {Bonn}%
+    }
+    \field{year}{2020}
+  \endentry
+
+  \entry{theorie_ux_din_iso_9241_110_2006}{book}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{Deutsches Institut für Normung e. V. (DIN)}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Beuth Verlag}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{title}{Ergonomische Anforderungen für Bürotätigkeiten mit Bildschirmgeräten - Teil 110: Grundsätze der Dialoggestaltung (DIN EN ISO 9241-110:2006)}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2006}
+  \endentry
+
+  \entry{theorie_kohnke_extended_tam_2023}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=KO}{%
+         family={Kohnke},
+         familyi={K\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {Researchgat}%
+    }
+    \strng{namehash}{KO1}
+    \strng{fullhash}{KO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    PDF {\textbar} This study provides a systematic analysis of experience as a moderating factor in an extended Technology Acceptance Model (TAM). The hypotheses... {\textbar} Find, read and cite all the research you need on ResearchGate%
+    }
+    \field{booktitle}{{ResearchGate}}
+    \field{title}{User experience and the adoption of company-wide standard software systems}
+    \verb{url}
+    \verb https://www.researchgate.net/publication/294892136_User_experience_an
+    \verb d_the_adoption_of_company-wide_standard_software_systems
+    \endverb
+    \list{location}{1}{%
+      {Philadelphia, USA}%
+    }
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/ACIW4MZN/294892136_User_experi
+    \verb ence_and_the_adoption_of_company-wide_standard_software_systems.html:
+    \verb text/html
+    \endverb
+    \field{month}{12}
+    \field{year}{2023}
+    \field{urlday}{13}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_davis_tam_1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DFD}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Fred\bibnamedelima D.},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DFD1}
+    \strng{fullhash}{DFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Valid measurement scales for predicting user acceptance of computers are in short supply. Most subjective measures used in practice are unvalidated, and their relationship to system usage is unknown. The present research develops and validates new scales for two specific variables, perceived usefulness and perceived ease of use, which are hypothesized to be fundamental determinants of user acceptance. Definitions for these two variables were used to develop scale items that were pretested for content validity and then tested for reliability and construct validity in two studies involving a total of 152 users and four application programs. The measures were refined and stream-lined, resulting in two six-item scales with reliabilities of.98 for usefulness and.94 for ease of use. The scales exhibited high convergent, discriminant, and factorial validity. Perceived usefulness was significantly correlated with both self-reported current usage (r=.63, Study 1) and self-predicted future usage (r=.85, Study 2). Perceived ease of use was also significantly correlated with current usage (r=.45, Study 1) and future usage (r=.59, Study 2). In both studies, usefulness had a significantly greater correlation with usage behavior than did ease of use. Regression analyses suggest that perceived ease of use may actually be a causal antecedent to perceived usefulness, as opposed to a parallel, direct determinant of system usage. Implications are drawn for future research on user acceptance.%
+    }
+    \verb{doi}
+    \verb 10.2307/249008
+    \endverb
+    \field{issn}{0276-7783}
+    \field{note}{Publisher: Management Information Systems Research Center, University of Minnesota}
+    \field{number}{3}
+    \field{pages}{319\bibrangedash 340}
+    \field{title}{Perceived {Usefulness}, {Perceived} {Ease} of {Use}, and {User} {Acceptance} of {Information} {Technology}}
+    \verb{url}
+    \verb https://www.jstor.org/stable/249008
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{MIS Quarterly}
+    \field{year}{1989}
+    \field{urlday}{06}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_digitale_transformation_beschaffung_automobilindustrie_2019}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=KD}{%
+         family={Karl},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sucky},
+         familyi={S\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Klatt},
+         familyi={K\bibinitperiod},
+         given={Alina},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{7}{}{%
+      {{hash=BW}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=EB}{%
+         family={Eierle},
+         familyi={E\bibinitperiod},
+         given={Brigitte},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Fliaster},
+         familyi={F\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=IB}{%
+         family={Ivens},
+         familyi={I\bibinitperiod},
+         given={Björn},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Leischnig},
+         familyi={L\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pflaum},
+         familyi={P\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sucky},
+         familyi={S\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {de}%
+    }
+    \list{publisher}{1}{%
+      {Springer Fachmedien}%
+    }
+    \strng{namehash}{KDSEKA1}
+    \strng{fullhash}{KDSEKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Spätestens Tesla hätte die Automobilindustrie aufwecken sollen: Innovative Marktteilnehmer und technische Innovationen forcieren auch in dieser Branche eine Veränderung von Geschäftsprozessen oder ganzen Geschäftsmodellen. Die Forschung hinsichtlich des Einflusses der Digitalisierung auf Beschaffung und Einkauf steckt im Gegensatz zu anderen betrieblichen Funktionsbereichen wie bspw. der Produktion allerdings noch in den Kinderschuhen. Aus diesen Gründen gibt dieser Beitrag auf Basis wissenschaftlicher Literatur und aus der Sicht von Praktikern einen Einblick in die digitale Transformation der Beschaffung in der deutschen Automobilindustrie. Dabei eilt die wissenschaftliche Literatur der Unternehmenspraxis in vielen Bereichen voraus. Aktuell stehen in der Praxis oft noch Themen aus längst als etabliert geglaubten Digitalisierungsstufen auf der Agenda.%
+    }
+    \field{booktitle}{Geschäftsmodelle in der digitalen {Welt}: {Strategien}, {Prozesse} und {Praxiserfahrungen}}
+    \verb{doi}
+    \verb 10.1007/978-3-658-22129-4_27
+    \endverb
+    \field{isbn}{978-3-658-22129-4}
+    \field{pages}{539\bibrangedash 558}
+    \field{title}{Digitale {Transformation} der {Beschaffung} am {Beispiel} der deutschen {Automobilindustrie}}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-658-22129-4_27
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \verb{file}
+    \verb Full Text PDF:/Users/I570199/Zotero/storage/48VK98Y9/Karl et al. - 20
+    \verb 19 - Digitale Transformation der Beschaffung am Beispie.pdf:applicati
+    \verb on/pdf
+    \endverb
+    \field{year}{2019}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_webseite_dms_übersicht_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {German}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{7}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Versetzen Sie Beschaffungs- und Commodity-Management-Teams in die Lage, für Direktmaterialien mit hohem Wert entsprechende Beschaffungsverträge mit SAP-Software für die Produktbeschaffung abzuschließen.%
+    }
+    \field{title}{{SAP}-{Lösungen} für die {Produktbeschaffung} {\textbar} {Software} für die {Produktbeschaffung}}
+    \verb{url}
+    \verb https://www.sap.com/germany/products/spend-management/product-sourcin
+    \verb g-software.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/DB4RBYGU/product-sourcing-soft
+    \verb ware.html:text/html
+    \endverb
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{26}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_plm_übersicht_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{8}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Accelerate product development and reduce costs by enabling collaborative innovation with the SAP Product Lifecycle Management solution.%
+    }
+    \field{title}{{SAP} {Product} {Lifecycle} {Management} {\textbar} {PLM} {Cloud} and {Collaborative} {Innovation}}
+    \verb{url}
+    \verb https://www.sap.com/products/scm/product-lifecycle-management.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/GYMNZUCP/product-lifecycle-man
+    \verb agement.html:text/html
+    \endverb
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_procurement_planning_overview_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{3}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Discover how the SAP Ariba Procurement Planning solution supports launches of highly engineered products to help you plan and manage new product innovation or forward sourcing programs.%
+    }
+    \field{title}{Procurement project management for new product introduction: {Efficiently} plan and manage automotive and industrial manufacturing sourcing activities}
+    \verb{url}
+    \verb https://www.sap.com/documents/2021/07/f4c209e2-ed7d-0010-bca6-c68f7e6
+    \verb 0039b.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/HE3H9296/f4c209e2-ed7d-0010-bc
+    \verb a6-c68f7e60039b.html:text/html
+    \endverb
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_supplier_quotation_management_help_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{title}{Introduction: {Managing} {Quotations} with {SAP} {S}/{4HANA} for {Supplier} {Quotation} {Management} {\textbar} {SAP} {Help} {Portal}}
+    \verb{url}
+    \verb https://help.sap.com/docs/SCP_QUOTATION/3ba80afb5d1841e6a94f91b07a003
+    \verb c20/6d8d6800afab45caae8da141381c2986.html?version=2402
+    \endverb
+    \verb{file}
+    \verb Introduction\: Managing Quotations with SAP S/4HANA for Supplier Quot
+    \verb ation Management | SAP Help Portal:/Users/I570199/Zotero/storage/MKY8
+    \verb 3KLE/6d8d6800afab45caae8da141381c2986.html:text/html
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_enterprise_contract_management_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{6}
+    \field{labeldatesource}{}
+    \field{title}{{SAP} {Enterprise} {Contract} {Management}}
+    \verb{url}
+    \verb https://solutionportfolio.net.sap/industry/HANAOP/object/6EAE8B27FCC1
+    \verb 1ED892E92A59D6C840CC
+    \endverb
+    \verb{file}
+    \verb SAP Industry Solution Portfolio:/Users/I570199/Zotero/storage/B3RB7FN
+    \verb C/6EAE8B27FCC11ED892E92A59D6C840CC.html:text/html
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_commodity_management_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Better manage price volatility and commodity risk – with our commodity management software.%
+    }
+    \field{title}{{SAP} {Commodity} {Management} {\textbar} {Finance} and {Procurement}}
+    \verb{url}
+    \verb https://www.sap.com/germany/products/financial-management/commodity-m
+    \verb anagement.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/83YSPZLZ/commodity-management.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_contract_price_renegotiation_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{5}
+    \field{labeldatesource}{}
+    \field{title}{{SAP} {Ariba} {Direct} {Materials} {Sourcing} for {Automotive} and {Industrial} {Manufacturing} in {SAP} {S}/{4HANA}, {Contract} {Price} {Renegotiation} {Add}-on {\textbar} {SAP} {Help} {Portal}}
+    \verb{url}
+    \verb https://help.sap.com/docs/CONTRACT_PRICE_RENEGOTIATION/73ab209bd5d747
+    \verb a795cadddb674ba421/f18ae6a5362c47b6b6438c5c880ed0f3.html?locale=en-US
+    \endverb
+    \verb{file}
+    \verb SAP Ariba Direct Materials Sourcing for Automotive and Industrial Man
+    \verb ufacturing in SAP S/4HANA, Contract Price Renegotiation Add-on | SAP
+    \verb Help Portal:/Users/I570199/Zotero/storage/VT3JDCV6/f18ae6a5362c47b6b6
+    \verb 438c5c880ed0f3.html:text/html
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{01}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_central_procurement_overview_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {German}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{4}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Erfahren Sie, wie Sie mit SAP-Lösungen für eine zentrale Beschaffung die Transparenz steigern, die Compliance verbessern und die Kosten senken können.%
+    }
+    \field{title}{{SAP} {Ariba} {Central} {Procurement}, {Private} {Cloud} {Edition} {\textbar} {Zentraler} {Einkauf}}
+    \verb{url}
+    \verb https://www.sap.com/germany/products/spend-management/centralized-pro
+    \verb curement.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/ZCRQ4IQX/centralized-procureme
+    \verb nt.html:text/html
+    \endverb
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{26}
+    \field{urlmonth}{06}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_central_contract_overview_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{title}{Central {Purchase} {Contracts} {\textbar} {SAP} {Help} {Portal}}
+    \verb{url}
+    \verb https://help.sap.com/docs/SAP_S4HANA_CLOUD/0e602d466b99490187fcbb30d1
+    \verb dc897c/7d38e396d29949f9b8eb7227289dc58a.html?locale=en-US
+    \endverb
+    \verb{file}
+    \verb Central Purchase Contracts | SAP Help Portal:/Users/I570199/Zotero/st
+    \verb orage/H5VNLDMP/fb8697eea5964302ab99d4770f2325bf.html:text/html
+    \endverb
+    \field{year}{2024}
+    \field{urlday}{02}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+\enddatalist
 \endinput
-

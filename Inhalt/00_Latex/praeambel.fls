@@ -285,6 +285,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx

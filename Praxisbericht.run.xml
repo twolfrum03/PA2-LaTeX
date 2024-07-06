@@ -41,10 +41,11 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Praxisbericht.bcf</file>
+      <file>Praxisbericht.aux</file>
+      <file>Praxisbericht-blx.bib</file>
     </provides>
     <requires type="dynamic">
       <file>Praxisbericht.bbl</file>
@@ -53,6 +54,7 @@
       <file>blx-dm.def</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
+      <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
@@ -62,14 +64,15 @@
       <file>ngerman.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
-    <generic>biber</generic>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
     <cmdline>
-      <binary>biber</binary>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
       <infile>Praxisbericht</infile>
     </cmdline>
     <input>
-      <file>Praxisbericht.bcf</file>
+      <file>Praxisbericht.aux</file>
     </input>
     <output>
       <file>Praxisbericht.bbl</file>
@@ -78,10 +81,14 @@
       <file>Praxisbericht.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Praxisbericht.bcf</file>
+      <file>Praxisbericht.aux</file>
+      <file>Praxisbericht-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>Inhalt/literatur.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
     </requires>
   </external>
 </requests>

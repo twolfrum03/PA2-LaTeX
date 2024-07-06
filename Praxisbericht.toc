@@ -11,27 +11,30 @@
 \contentsline {section}{\numberline {2.1}Geschäftsprozessanalyse und -optimierung}{3}{section.2.1}%
 \contentsline {subsubsection}{\nonumberline Geschäftsprozess}{3}{subsubsection*.10}%
 \contentsline {subsubsection}{\nonumberline Geschäftsprozessanalyse}{5}{subsubsection*.14}%
-\contentsline {subsubsection}{\nonumberline Geschäftsprozessoptimierung}{7}{subsubsection*.16}%
+\contentsline {subsubsection}{\nonumberline Prozessoptimierung}{7}{subsubsection*.16}%
 \contentsline {section}{\numberline {2.2}User Experience im Geschäftsprozesskontext}{9}{section.2.2}%
-\contentsline {section}{\numberline {2.3}SAP Produkte}{9}{section.2.3}%
-\contentsline {subsubsection}{\nonumberline SAP Ariba Direct Materials Sourcing for Automotive and Industrial Manufacturing in SAP S/4 HANA}{9}{subsubsection*.19}%
-\contentsline {subsubsection}{\nonumberline SAP Ariba Central Procurement}{11}{subsubsection*.22}%
-\contentsline {subsubsection}{\nonumberline Central Contract}{13}{subsubsection*.25}%
-\contentsline {chapter}{\numberline {3}Analyse des Ist-Prozesses}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Einordnung des betrachteten Prozesses}{14}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{14}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Bewertung der Ist-Situation}{14}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Soll-Konzeption}{14}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{15}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{15}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{15}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{15}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{16}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung}{16}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Fazit}{16}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{16}{section.5.3}%
-\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{16}{section.5.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{17}{chapter*.27}%
-\contentsline {chapter}{\numberline {A}Anhang}{20}{appendix.A}%
+\contentsline {subsubsection}{\nonumberline Grundlegendes}{9}{subsubsection*.19}%
+\contentsline {subsubsection}{\nonumberline Einflussfaktoren auf User Experience}{10}{subsubsection*.21}%
+\contentsline {subsubsection}{\nonumberline Technology Acceptance Model}{12}{subsubsection*.24}%
+\contentsline {section}{\numberline {2.3}SAP Produktumfeld}{13}{section.2.3}%
+\contentsline {subsubsection}{\nonumberline SAP Ariba Direct Materials Sourcing for Automotive and Industrial Manufacturing in SAP S/4 HANA}{13}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline SAP Ariba Central Procurement}{15}{subsubsection*.30}%
+\contentsline {subsubsection}{\nonumberline Central Contract}{17}{subsubsection*.33}%
+\contentsline {chapter}{\numberline {3}Analyse des Ist-Prozesses}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Einordnung des betrachteten Prozesses}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Anforderungsanalyse}{19}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Bewertung der Ist-Situation}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Soll-Konzeption}{19}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{20}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{20}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{21}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung}{21}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fazit}{21}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{21}{section.5.3}%
+\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{21}{section.5.4}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{22}{chapter*.35}%
+\contentsline {chapter}{\numberline {A}Anhang}{25}{appendix.A}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -287,6 +287,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
@@ -621,7 +623,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-OUTPUT Praxisbericht.bcf
+OUTPUT Praxisbericht-blx.bib
 INPUT ./Praxisbericht.bbl
 INPUT ./Praxisbericht.bbl
 INPUT ./Praxisbericht.bbl
@@ -776,6 +778,12 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
 INPUT ./Bilder/Geschäftsprozessoptimierung_Massnahmen.png
 INPUT ./Bilder/Geschäftsprozessoptimierung_Massnahmen.png
 INPUT ./Bilder/Geschäftsprozessoptimierung_Massnahmen.png
+INPUT ./Bilder/User-Experience_Einflussfaktoren.png
+INPUT ./Bilder/User-Experience_Einflussfaktoren.png
+INPUT ./Bilder/User-Experience_Einflussfaktoren.png
+INPUT ./Bilder/User-Experience_ETAM.png
+INPUT ./Bilder/User-Experience_ETAM.png
+INPUT ./Bilder/User-Experience_ETAM.png
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png
 INPUT ./Bilder/Direct_Material_Sourcing_Overview3.png

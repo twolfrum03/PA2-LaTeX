@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  4 JUL 2024 16:47
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  6 JUL 2024 13:14
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/PA2-LaTeX/Praxisbericht.tex
@@ -705,6 +705,16 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
@@ -1747,8 +1757,12 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
 
-\openout3 = Praxisbericht.bcf
+\openout3 = Praxisbericht-blx.bib
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Praxisbericht.bbl' found.
  (./Praxisbericht.bbl)
@@ -1891,10 +1905,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 15.
-Package tocbasic Info: Using my definition of `\numberline' on input line 16.
-Package tocbasic Info: Using my definition of `\numberline' on input line 20.
-Package tocbasic Info: Using my definition of `\numberline' on input line 21.
-Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
 Package tocbasic Info: Using my definition of `\numberline' on input line 23.
 Package tocbasic Info: Using my definition of `\numberline' on input line 24.
 Package tocbasic Info: Using my definition of `\numberline' on input line 25.
@@ -1908,6 +1919,9 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 32.
 Package tocbasic Info: Using my definition of `\numberline' on input line 33.
 Package tocbasic Info: Using my definition of `\numberline' on input line 34.
 Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
+Package tocbasic Info: Using my definition of `\numberline' on input line 38.
 )
 \tf@toc=\write6
 
@@ -1961,6 +1975,36 @@ LaTeX Warning: Hyper reference `acro:GPO' on page V undefined on input line 15.
 
 LaTeX Warning: Hyper reference `acro:GPO' on page V undefined on input line 15.
 
+
+LaTeX Warning: Hyper reference `acro:BPR' on page V undefined on input line 16.
+
+
+LaTeX Warning: Hyper reference `acro:BPR' on page V undefined on input line 16.
+
+
+LaTeX Warning: Hyper reference `acro:UX' on page V undefined on input line 17.
+
+
+LaTeX Warning: Hyper reference `acro:UX' on page V undefined on input line 17.
+
+
+LaTeX Warning: Hyper reference `acro:UI' on page V undefined on input line 18.
+
+
+LaTeX Warning: Hyper reference `acro:UI' on page V undefined on input line 18.
+
+
+LaTeX Warning: Hyper reference `acro:TAM' on page V undefined on input line 19.
+
+
+LaTeX Warning: Hyper reference `acro:TAM' on page V undefined on input line 19.
+
+
+LaTeX Warning: Hyper reference `acro:ETAM' on page V undefined on input line 20.
+
+
+LaTeX Warning: Hyper reference `acro:ETAM' on page V undefined on input line 20.
+
 ) [5
 
 
@@ -1973,6 +2017,8 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 6.
 Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
+Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 )
 \tf@lof=\write7
 
@@ -2034,7 +2080,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 (microtype)             (new value: 7.0pt) on input line 11.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 11.
-<Bilder/Geschäftsprozesse_Arten.png, id=155, 758.835pt x 308.15125pt>
+<Bilder/Geschäftsprozesse_Arten.png, id=165, 758.835pt x 308.15125pt>
 File: Bilder/Geschäftsprozesse_Arten.png Graphic file (type png)
 <use Bilder/Geschäftsprozesse_Arten.png>
 Package luatex.def Info: Bilder/Geschäftsprozesse_Arten.png  used on input line 19.
@@ -2045,50 +2091,52 @@ Package luatex.def Info: Bilder/Geschäftsprozesse_Arten.png  used on input line
 
 
 ]
-<Bilder/Geschäftsprozess_Einordnung2.png, id=181, 755.82375pt x 383.4325pt>
+<Bilder/Geschäftsprozess_Einordnung2.png, id=190, 755.82375pt x 383.4325pt>
 File: Bilder/Geschäftsprozess_Einordnung2.png Graphic file (type png)
 <use Bilder/Geschäftsprozess_Einordnung2.png>
 Package luatex.def Info: Bilder/Geschäftsprozess_Einordnung2.png  used on input line 30.
 (luatex.def)             Requested size: 336.51927pt x 170.71652pt.
  [4<./Bilder/Geschäftsprozesse_Arten.png>] [5<./Bilder/Geschäftsprozess_Einordnung2.png>] [6] [7]
-<Bilder/Geschäftsprozessoptimierung_Massnahmen.png, id=228, 526.96875pt x 747.79375pt>
+<Bilder/Geschäftsprozessoptimierung_Massnahmen.png, id=236, 526.96875pt x 747.79375pt>
 File: Bilder/Geschäftsprozessoptimierung_Massnahmen.png Graphic file (type png)
 <use Bilder/Geschäftsprozessoptimierung_Massnahmen.png>
-Package luatex.def Info: Bilder/Geschäftsprozessoptimierung_Massnahmen.png  used on input line 83.
+Package luatex.def Info: Bilder/Geschäftsprozessoptimierung_Massnahmen.png  used on input line 82.
 (luatex.def)             Requested size: 260.66136pt x 369.88582pt.
- [8<./Bilder/Geschäftsprozessoptimierung_Massnahmen.png>]
-<Bilder/Direct_Material_Sourcing_Overview3.png, id=245, 1711.39375pt x 808.01875pt>
+ [8<./Bilder/Geschäftsprozessoptimierung_Massnahmen.png>] [9]
+<Bilder/User-Experience_Einflussfaktoren.png, id=275, 610.28pt x 612.2875pt>
+File: Bilder/User-Experience_Einflussfaktoren.png Graphic file (type png)
+<use Bilder/User-Experience_Einflussfaktoren.png>
+Package luatex.def Info: Bilder/User-Experience_Einflussfaktoren.png  used on input line 117.
+(luatex.def)             Requested size: 226.87096pt x 227.62204pt.
+ [10]
+<Bilder/User-Experience_ETAM.png, id=293, 2226.3175pt x 1190.4475pt>
+File: Bilder/User-Experience_ETAM.png Graphic file (type png)
+<use Bilder/User-Experience_ETAM.png>
+Package luatex.def Info: Bilder/User-Experience_ETAM.png  used on input line 130.
+(luatex.def)             Requested size: 426.74152pt x 228.19122pt.
+ [11<./Bilder/User-Experience_Einflussfaktoren.png>] [12<./Bilder/User-Experience_ETAM.png>]
+<Bilder/Direct_Material_Sourcing_Overview3.png, id=326, 1711.39375pt x 808.01875pt>
 File: Bilder/Direct_Material_Sourcing_Overview3.png Graphic file (type png)
 <use Bilder/Direct_Material_Sourcing_Overview3.png>
-Package luatex.def Info: Bilder/Direct_Material_Sourcing_Overview3.png  used on input line 106.
-(luatex.def)             Requested size: 427.8474pt x 202.01474pt.
-
-Overfull \hbox (1.05598pt too wide) in paragraph at lines 106--107
- [][] 
- []
-
-[9] [10<./Bilder/Direct_Material_Sourcing_Overview3.png>]
-<Bilder/Central_Procurement_System_Landscape.png, id=286, 518.93875pt x 379.4175pt>
+Package luatex.def Info: Bilder/Direct_Material_Sourcing_Overview3.png  used on input line 145.
+(luatex.def)             Requested size: 427.24678pt x 201.72993pt.
+ [13] [14<./Bilder/Direct_Material_Sourcing_Overview3.png>]
+<Bilder/Central_Procurement_System_Landscape.png, id=368, 518.93875pt x 379.4175pt>
 File: Bilder/Central_Procurement_System_Landscape.png Graphic file (type png)
 <use Bilder/Central_Procurement_System_Landscape.png>
-Package luatex.def Info: Bilder/Central_Procurement_System_Landscape.png  used on input line 119.
+Package luatex.def Info: Bilder/Central_Procurement_System_Landscape.png  used on input line 158.
 (luatex.def)             Requested size: 233.49652pt x 170.71652pt.
- [11] [12<./Bilder/Central_Procurement_System_Landscape.png>]
-<Bilder/Central_Contract_Process3.png, id=317, 1840.8775pt x 584.1825pt>
+ [15] [16<./Bilder/Central_Procurement_System_Landscape.png>]
+<Bilder/Central_Contract_Process3.png, id=398, 1840.8775pt x 584.1825pt>
 File: Bilder/Central_Contract_Process3.png Graphic file (type png)
 <use Bilder/Central_Contract_Process3.png>
-Package luatex.def Info: Bilder/Central_Contract_Process3.png  used on input line 132.
-(luatex.def)             Requested size: 430.35912pt x 136.5733pt.
-
-Overfull \hbox (3.5677pt too wide) in paragraph at lines 132--133
- [][] 
- []
-
-) [13<./Bilder/Central_Contract_Process3.png>]
+Package luatex.def Info: Bilder/Central_Contract_Process3.png  used on input line 171.
+(luatex.def)             Requested size: 426.76366pt x 135.43495pt.
+) [17<./Bilder/Central_Contract_Process3.png>] [18]
 \openout2 = Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux
  (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.tex
 chapter 3.
-) [14
+) [19
 
 
 
@@ -2102,7 +2150,7 @@ Overfull \hbox (3.57413pt too wide) in paragraph at lines 11--12
 \T1/lmr/m/n/12 -> Kun-den-an-for-de-run-gen nicht im Stan-dard ab-bild-bar (zu spe-zi-ell, we-nig Abweichungs-
  []
 
-) [15
+) [20
 
 
 
@@ -2111,7 +2159,7 @@ Overfull \hbox (3.57413pt too wide) in paragraph at lines 11--12
 \openout2 = Inhalt/04_Inhalt/5_Schlussbetrachtung.aux
  (./Inhalt/04_Inhalt/5_Schlussbetrachtung.tex
 chapter 5.
-) [16
+) [21
 
 
 
@@ -2121,22 +2169,22 @@ chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-[17
+[22
 
 
 
 
 
-]
+] [23]
 Overfull \hbox (0.18466pt too wide) in paragraph at lines 128--128
 \T1/lmr/m/n/12 solutionportfolio . net . sap / industry / HANAOP / object / 6EAE8B27FCC11ED892
  []
 
-[18] [19]
+[24]
 \openout2 = Inhalt/04_Inhalt/6_Anhang.aux
  (./Inhalt/04_Inhalt/6_Anhang.tex
 chapter A.
-) [20
+) [25
 
 
 ] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux) (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux) (./Inhalt/04_Inhalt/5_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/6_Anhang.aux))
@@ -2145,25 +2193,30 @@ LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Praxisbericht.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                Praxisbericht
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
 \openout1 = Praxisbericht.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53000 strings out of 478285
+ 53183 strings out of 478285
  100000,2373549 words of node,token memory allocated
- 1338 words of node memory still in use:
-   9 hlist, 2 vlist, 2 rule, 1 local_par, 25 glue, 4 kern, 1 penalty, 4 glyph, 83 attribute, 121 glue_spec, 43 attribute_list, 4 write, 9 pdf_action nodes
-   avail lists: 1:5,2:2011,3:1876,4:199,5:687,6:186,7:7693,8:138,9:718,10:31,11:900,12:5
- 70860 multiletter control sequences out of 65536+600000
+ 1510 words of node memory still in use:
+   9 hlist, 2 vlist, 2 rule, 1 local_par, 36 glue, 5 kern, 1 penalty, 4 glyph, 109 attribute, 121 glue_spec, 56 attribute_list, 4 write, 11 pdf_action nodes
+   avail lists: 2:1988,3:1500,4:198,5:592,6:203,7:8261,8:138,9:717,10:28,11:921
+ 70991 multiletter control sequences out of 65536+600000
  96 fonts using 6862231 bytes
  113i,20n,112p,10730b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (28 pages, 894619 bytes).
+Output written on Praxisbericht.pdf (33 pages, 1335813 bytes).
 
-PDF statistics: 548 PDF objects out of 1000 (max. 8388607)
- 482 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 131072)
+PDF statistics: 651 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 155 named destinations out of 1000 (max. 131072)
  240 words of extra memory for PDF output out of 10000 (max. 100000000)
 
