@@ -1,7 +1,6 @@
 \chapter{Theoretische Grundlagen}
 
 % -> Nur Theorie, die später auch verwendet wird, nichts einfach so einführen
-
 % -> Voraussetzung: Basiswissen WI-Studium
 
 \section{Geschäftsprozessanalyse und -optimierung}
@@ -174,3 +173,7 @@ Wie in den obigen Unterkapiteln beschrieben dienen Central Contracts als Rahmenv
 \end{figure}
 
 Der Prozess eines Central Contracts beginnt, wie Abbildung \ref{fig:Central_Contract_Process3} zeigt, mit der Erstellung eines neuen Vertrags aus einem Beschaffungsprojekt im Central Sourcing oder alternativ aus einer Bestellung im Central Purchasing. Zunächst muss der Kontrakt mit allen relevanten Daten angereichert werden. Dies geschieht meist über eine Schnittstelle zu den vorhergehenden Systemen, kann aber auch manuell durch einen Einkäufer erfolgen. Um sicherzustellen, dass die Replikation des Central Contracts in die lokalen Systeme fehlerfrei erfolgt, kann dies im nächsten Schritt simuliert werden. Nach erfolgreicher Simulation wird der Vertrag freigegeben und einerseits in die lokalen Back-End repliziert und andererseits den Lieferanten zur Verfügung gestellt. Dies löst die Erstellung von lokalen Verträgen in den jeweiligen Standorten als Pendant zum Central Contract aus, woraus dann die konkreten Bestellungen abgerufen werden. Die globalen Bestellvolumina können durch die Synchronisation im Zentralkontrakt überwacht werden.
+
+\subsubsection{Massenbearbeitung von Central Contracts}
+
+Wenn mehrere Central Contracts gleichzeitig bearbeitet werden sollen, kann dies über die Fiori-App ''Massenänderungen an zentralen Einkaufskontrakten'' stattfinden. Massenänderungen können auf Vertragsebene oder für einzelne Positionen des Kontrakts stattfinden. In der App können alle verfügbaren Verträge nach verschiedenen Krierien, wie \zB Lieferant oder Material gefiltert und aus dieser Auswahl die benötigten Kontrakte ausgewählt werden. Für die Bearbeitung der gewählten Verträge stehen zwei Modi zur Verfügung: Einerseits kann im Online-Änderungsmodus eine bestimmte Information in allen Verträgen mit einem Wert überschrieben werden. Andererseits kann im Offline-Änderungsmodus eine Excel-Datei mit den gewählten Verträgen heruntergeladen werden, in der dann Änderungen vorgenommen werden können. Der Offline-Modus bietet zudem die Möglichkeit zusätzliche Verträge oder Vertragspositionen in der Excel-Datei anzulegen und unterschiedliche Änderungen für jeden Vertrag bzw. Verträgsposition zu machen. Nachdem alle Änderungen vorgenommen wurden, wird die Excel-Liste wieder ins System hochgeladen und übernommen.

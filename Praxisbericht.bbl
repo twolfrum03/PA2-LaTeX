@@ -896,5 +896,44 @@
     \field{urlmonth}{07}
     \field{urlyear}{2024}
   \endentry
+
+  \entry{praxis_jain_source_pay_definition_2017}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=JK}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Kalit},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Woodcock},
+         familyi={W\bibinitperiod},
+         given={Ed},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {McKinsey \& Company}%
+    }
+    \strng{namehash}{JKWE1}
+    \strng{fullhash}{JKWE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{title}{A road map for digitizing source-to-pay}
+    \verb{url}
+    \verb https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Operat
+    \verb ions/Our%20Insights/A%20road%20map%20for%20digitizing%20source%20to%2
+    \verb 0pay/A-road-map-for-digitizing-source-to-pay.pdf
+    \endverb
+    \field{year}{2017}
+    \field{urlday}{07}
+    \field{urlmonth}{08}
+    \field{urlyear}{2024}
+  \endentry
 \enddatalist
 \endinput
