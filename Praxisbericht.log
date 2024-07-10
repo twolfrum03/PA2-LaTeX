@@ -2109,4 +2109,162 @@ Package luatex.def Info: Bilder/Geschäftsprozessoptimierung_Massnahmen.png  use
  [8<./Bilder/Geschäftsprozessoptimierung_Massnahmen.png>] [9]
 <Bilder/User-Experience_Einflussfaktoren.png, id=283, 610.28pt x 612.2875pt>
 File: Bilder/User-Experience_Einflussfaktoren.png Graphic file (type png)
-<use Bilder/User-Experie
+<use Bilder/User-Experience_Einflussfaktoren.png>
+Package luatex.def Info: Bilder/User-Experience_Einflussfaktoren.png  used on input line 116.
+(luatex.def)             Requested size: 226.87096pt x 227.62204pt.
+ [10]
+<Bilder/User-Experience_ETAM.png, id=301, 2226.3175pt x 1190.4475pt>
+File: Bilder/User-Experience_ETAM.png Graphic file (type png)
+<use Bilder/User-Experience_ETAM.png>
+Package luatex.def Info: Bilder/User-Experience_ETAM.png  used on input line 129.
+(luatex.def)             Requested size: 426.74152pt x 228.19122pt.
+ [11<./Bilder/User-Experience_Einflussfaktoren.png>] [12<./Bilder/User-Experience_ETAM.png>]
+<Bilder/Direct_Material_Sourcing_Overview3.png, id=334, 1711.39375pt x 808.01875pt>
+File: Bilder/Direct_Material_Sourcing_Overview3.png Graphic file (type png)
+<use Bilder/Direct_Material_Sourcing_Overview3.png>
+Package luatex.def Info: Bilder/Direct_Material_Sourcing_Overview3.png  used on input line 144.
+(luatex.def)             Requested size: 427.24678pt x 201.72993pt.
+ [13] [14<./Bilder/Direct_Material_Sourcing_Overview3.png>]
+<Bilder/Central_Procurement_System_Landscape.png, id=376, 518.93875pt x 379.4175pt>
+File: Bilder/Central_Procurement_System_Landscape.png Graphic file (type png)
+<use Bilder/Central_Procurement_System_Landscape.png>
+Package luatex.def Info: Bilder/Central_Procurement_System_Landscape.png  used on input line 157.
+(luatex.def)             Requested size: 233.49652pt x 170.71652pt.
+ [15] [16<./Bilder/Central_Procurement_System_Landscape.png>]
+<Bilder/Central_Contract_Process3.png, id=406, 1840.8775pt x 584.1825pt>
+File: Bilder/Central_Contract_Process3.png Graphic file (type png)
+<use Bilder/Central_Contract_Process3.png>
+Package luatex.def Info: Bilder/Central_Contract_Process3.png  used on input line 170.
+(luatex.def)             Requested size: 426.76366pt x 135.43495pt.
+ [17<./Bilder/Central_Contract_Process3.png>]) [18]
+\openout2 = Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux
+ (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.tex
+chapter 3.
+[19
+
+
+
+
+]) [20]
+\openout2 = Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux
+ (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.tex
+chapter 4.
+
+Overfull \hbox (3.57413pt too wide) in paragraph at lines 11--12
+\T1/lmr/m/n/12 -> Kun-den-an-for-de-run-gen nicht im Stan-dard ab-bild-bar (zu spe-zi-ell, we-nig Abweichungs-
+ []
+
+) [21
+
+
+
+
+]
+\openout2 = Inhalt/04_Inhalt/5_Schlussbetrachtung.aux
+ (./Inhalt/04_Inhalt/5_Schlussbetrachtung.tex
+chapter 5.
+) [22
+
+
+
+
+]
+chapter without number
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+[23
+
+
+
+
+
+] [24]
+Overfull \hbox (0.18466pt too wide) in paragraph at lines 128--128
+\T1/lmr/m/n/12 solutionportfolio . net . sap / industry / HANAOP / object / 6EAE8B27FCC11ED892
+ []
+
+[25]
+\openout2 = Inhalt/04_Inhalt/6_Anhang.aux
+ (./Inhalt/04_Inhalt/6_Anhang.tex
+chapter A.
+<Inhalt/Literatur/Process_World_Level_0.pdf, id=543, 520.15028pt x 432.73167pt>
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf  used on input line 6.
+(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf  used on input line 6.
+(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
+<Inhalt/Literatur/Process_World_Level_0.pdf, id=546, page=1, 520.15028pt x 432.73167pt>
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
+(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
+(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
+(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
+(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
+File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 8.
+(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
+[26
+
+
+<./Inhalt/Literatur/Process_World_Level_0.pdf>]
+<Inhalt/Literatur/Source_to_Pay.pdf, id=564, 412.70888pt x 363.35248pt>
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf  used on input line 13.
+(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf  used on input line 13.
+(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
+<Inhalt/Literatur/Source_to_Pay.pdf, id=567, page=1, 412.70888pt x 363.35248pt>
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
+(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
+(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
+(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
+(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
+File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
+Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 15.
+(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
+ [27
+
+<./Inhalt/Literatur/Source_to_Pay.pdf>]
+<Inhalt/Literatur/Einkauf_direktes_Material.pdf, id=585, 756.40492pt x 541.10556pt>
+File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Einkauf_direktes_Material.pdf>
+Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf  used on input line 20.
+(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
+File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Einkauf_direktes_Material.pdf>
+Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf  used on input line 20.
+(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
+<Inhalt/Literatur/Einkauf_direktes_Material.pdf, id=588, page=1, 756.40492pt x 541.10556pt>
+File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
+<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
+P
