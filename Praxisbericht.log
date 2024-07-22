@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  10 JUL 2024 16:54
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.6.12)  22 JUL 2024 20:17
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/I570199/Desktop/PA2-LaTeX/Praxisbericht.tex
@@ -1906,6 +1906,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 15.
 Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+Package tocbasic Info: Using my definition of `\numberline' on input line 23.
 Package tocbasic Info: Using my definition of `\numberline' on input line 24.
 Package tocbasic Info: Using my definition of `\numberline' on input line 25.
 Package tocbasic Info: Using my definition of `\numberline' on input line 26.
@@ -1925,7 +1926,6 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 39.
 Package tocbasic Info: Using my definition of `\numberline' on input line 40.
 Package tocbasic Info: Using my definition of `\numberline' on input line 41.
 Package tocbasic Info: Using my definition of `\numberline' on input line 42.
-Package tocbasic Info: Using my definition of `\numberline' on input line 43.
 )
 \tf@toc=\write6
 
@@ -2009,6 +2009,24 @@ LaTeX Warning: Hyper reference `acro:ETAM' on page V undefined on input line 20.
 
 LaTeX Warning: Hyper reference `acro:ETAM' on page V undefined on input line 20.
 
+
+LaTeX Warning: Hyper reference `acro:PME' on page V undefined on input line 21.
+
+
+LaTeX Warning: Hyper reference `acro:PME' on page V undefined on input line 21.
+
+
+LaTeX Warning: Hyper reference `acro:RMO' on page V undefined on input line 22.
+
+
+LaTeX Warning: Hyper reference `acro:RMO' on page V undefined on input line 22.
+
+
+LaTeX Warning: Hyper reference `acro:RIK' on page V undefined on input line 23.
+
+
+LaTeX Warning: Hyper reference `acro:RIK' on page V undefined on input line 23.
+
 ) [5
 
 
@@ -2084,7 +2102,7 @@ Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/7'
 (microtype)             (new value: 7.0pt) on input line 10.
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/MnSymbolD/m/n/5'
 (microtype)             (new value: 5.0pt) on input line 10.
-<Bilder/Geschäftsprozesse_Arten.png, id=173, 758.835pt x 308.15125pt>
+<Bilder/Geschäftsprozesse_Arten.png, id=176, 758.835pt x 308.15125pt>
 File: Bilder/Geschäftsprozesse_Arten.png Graphic file (type png)
 <use Bilder/Geschäftsprozesse_Arten.png>
 Package luatex.def Info: Bilder/Geschäftsprozesse_Arten.png  used on input line 18.
@@ -2095,230 +2113,11 @@ Package luatex.def Info: Bilder/Geschäftsprozesse_Arten.png  used on input line
 
 
 ]
-<Bilder/Geschäftsprozess_Einordnung2.png, id=198, 755.82375pt x 383.4325pt>
+<Bilder/Geschäftsprozess_Einordnung2.png, id=201, 755.82375pt x 383.4325pt>
 File: Bilder/Geschäftsprozess_Einordnung2.png Graphic file (type png)
 <use Bilder/Geschäftsprozess_Einordnung2.png>
 Package luatex.def Info: Bilder/Geschäftsprozess_Einordnung2.png  used on input line 29.
 (luatex.def)             Requested size: 336.51927pt x 170.71652pt.
  [4<./Bilder/Geschäftsprozesse_Arten.png>] [5<./Bilder/Geschäftsprozess_Einordnung2.png>] [6] [7]
-<Bilder/Geschäftsprozessoptimierung_Massnahmen.png, id=244, 526.96875pt x 747.79375pt>
-File: Bilder/Geschäftsprozessoptimierung_Massnahmen.png Graphic file (type png)
-<use Bilder/Geschäftsprozessoptimierung_Massnahmen.png>
-Package luatex.def Info: Bilder/Geschäftsprozessoptimierung_Massnahmen.png  used on input line 81.
-(luatex.def)             Requested size: 260.66136pt x 369.88582pt.
- [8<./Bilder/Geschäftsprozessoptimierung_Massnahmen.png>] [9]
-<Bilder/User-Experience_Einflussfaktoren.png, id=283, 610.28pt x 612.2875pt>
-File: Bilder/User-Experience_Einflussfaktoren.png Graphic file (type png)
-<use Bilder/User-Experience_Einflussfaktoren.png>
-Package luatex.def Info: Bilder/User-Experience_Einflussfaktoren.png  used on input line 116.
-(luatex.def)             Requested size: 226.87096pt x 227.62204pt.
- [10]
-<Bilder/User-Experience_ETAM.png, id=301, 2226.3175pt x 1190.4475pt>
-File: Bilder/User-Experience_ETAM.png Graphic file (type png)
-<use Bilder/User-Experience_ETAM.png>
-Package luatex.def Info: Bilder/User-Experience_ETAM.png  used on input line 129.
-(luatex.def)             Requested size: 426.74152pt x 228.19122pt.
- [11<./Bilder/User-Experience_Einflussfaktoren.png>] [12<./Bilder/User-Experience_ETAM.png>]
-<Bilder/Direct_Material_Sourcing_Overview3.png, id=334, 1711.39375pt x 808.01875pt>
-File: Bilder/Direct_Material_Sourcing_Overview3.png Graphic file (type png)
-<use Bilder/Direct_Material_Sourcing_Overview3.png>
-Package luatex.def Info: Bilder/Direct_Material_Sourcing_Overview3.png  used on input line 144.
-(luatex.def)             Requested size: 427.24678pt x 201.72993pt.
- [13] [14<./Bilder/Direct_Material_Sourcing_Overview3.png>]
-<Bilder/Central_Procurement_System_Landscape.png, id=376, 518.93875pt x 379.4175pt>
-File: Bilder/Central_Procurement_System_Landscape.png Graphic file (type png)
-<use Bilder/Central_Procurement_System_Landscape.png>
-Package luatex.def Info: Bilder/Central_Procurement_System_Landscape.png  used on input line 157.
-(luatex.def)             Requested size: 233.49652pt x 170.71652pt.
- [15] [16<./Bilder/Central_Procurement_System_Landscape.png>]
-<Bilder/Central_Contract_Process3.png, id=406, 1840.8775pt x 584.1825pt>
-File: Bilder/Central_Contract_Process3.png Graphic file (type png)
-<use Bilder/Central_Contract_Process3.png>
-Package luatex.def Info: Bilder/Central_Contract_Process3.png  used on input line 170.
-(luatex.def)             Requested size: 426.76366pt x 135.43495pt.
- [17<./Bilder/Central_Contract_Process3.png>]) [18]
-\openout2 = Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux
- (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.tex
-chapter 3.
-[19
-
-
-
-
-]) [20]
-\openout2 = Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux
- (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.tex
-chapter 4.
-
-Overfull \hbox (3.57413pt too wide) in paragraph at lines 11--12
-\T1/lmr/m/n/12 -> Kun-den-an-for-de-run-gen nicht im Stan-dard ab-bild-bar (zu spe-zi-ell, we-nig Abweichungs-
- []
-
-) [21
-
-
-
-
-]
-\openout2 = Inhalt/04_Inhalt/5_Schlussbetrachtung.aux
- (./Inhalt/04_Inhalt/5_Schlussbetrachtung.tex
-chapter 5.
-) [22
-
-
-
-
-]
-chapter without number
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-[23
-
-
-
-
-
-] [24]
-Overfull \hbox (0.18466pt too wide) in paragraph at lines 128--128
-\T1/lmr/m/n/12 solutionportfolio . net . sap / industry / HANAOP / object / 6EAE8B27FCC11ED892
- []
-
-[25]
-\openout2 = Inhalt/04_Inhalt/6_Anhang.aux
- (./Inhalt/04_Inhalt/6_Anhang.tex
-chapter A.
-<Inhalt/Literatur/Process_World_Level_0.pdf, id=543, 520.15028pt x 432.73167pt>
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf  used on input line 6.
-(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf  used on input line 6.
-(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
-<Inhalt/Literatur/Process_World_Level_0.pdf, id=546, page=1, 520.15028pt x 432.73167pt>
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
-(luatex.def)             Requested size: 520.14902pt x 432.7306pt.
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
-(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
-(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 6.
-(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
-File: Inhalt/Literatur/Process_World_Level_0.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Process_World_Level_0.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Process_World_Level_0.pdf , page1 used on input line 8.
-(luatex.def)             Requested size: 597.6761pt x 497.22816pt.
-[26
-
-
-<./Inhalt/Literatur/Process_World_Level_0.pdf>]
-<Inhalt/Literatur/Source_to_Pay.pdf, id=564, 412.70888pt x 363.35248pt>
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf  used on input line 13.
-(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf  used on input line 13.
-(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
-<Inhalt/Literatur/Source_to_Pay.pdf, id=567, page=1, 412.70888pt x 363.35248pt>
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
-(luatex.def)             Requested size: 412.70787pt x 363.35158pt.
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
-(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
-(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 13.
-(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
-File: Inhalt/Literatur/Source_to_Pay.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Source_to_Pay.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Source_to_Pay.pdf , page1 used on input line 15.
-(luatex.def)             Requested size: 598.5322pt x 526.95293pt.
- [27
-
-<./Inhalt/Literatur/Source_to_Pay.pdf>]
-<Inhalt/Literatur/Einkauf_direktes_Material.pdf, id=585, 756.40492pt x 541.10556pt>
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf  used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf  used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-<Inhalt/Literatur/Einkauf_direktes_Material.pdf, id=588, page=1, 756.40492pt x 541.10556pt>
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf , page1 used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf , page1 used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf , page1 used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf , page1 used on input line 20.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
-File: Inhalt/Literatur/Einkauf_direktes_Material.pdf Graphic file (type pdf)
-<use Inhalt/Literatur/Einkauf_direktes_Material.pdf, page 1>
-Package luatex.def Info: Inhalt/Literatur/Einkauf_direktes_Material.pdf , page1 used on input line 22.
-(luatex.def)             Requested size: 756.40308pt x 541.10423pt.
- [28
-
-<./Inhalt/Literatur/Einkauf_direktes_Material.pdf>] [29
-
-] [30] [31] [32]) [33] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/sperrvermerk.aux) (./Inhalt/01_Standard/erklaerung.aux) (./Inhalt/01_Standard/geschlechtsneutral.aux) (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/1_Einleitung.aux) (./Inhalt/04_Inhalt/2_Grundlagen.aux) (./Inhalt/04_Inhalt/3_Analyse-NeuKonzeptionierung-Prozess.aux) (./Inhalt/04_Inhalt/4_Umsetzung-Evaluation-Prozess.aux) (./Inhalt/04_Inhalt/5_Schlussbetrachtung.aux) (./Inhalt/04_Inhalt/6_Anhang.aux))
-
-LaTeX Warning: There were undefined references.
-
-Package rerunfilecheck Info: File `Praxisbericht.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                Praxisbericht
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
-
-\openout1 = Praxisbericht.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 53402 strings out of 478285
- 100000,2373549 words of node,token memory allocated
- 1595 words of node memory still in use:
-   9 hlist, 2 vlist, 2 rule, 1 local_par, 42 glue, 4 kern, 1 penalty, 4 glyph, 123 attribute, 121 glue_spec, 63 attribute_list, 4 write, 12 pdf_action nodes
-   avail lists: 2:2186,3:1896,4:243,5:599,6:220,7:8258,8:186,9:781,10:30,11:921
- 71042 multiletter control sequences out of 65536+600000
- 99 fonts using 7110271 bytes
- 113i,20n,112p,10730b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (41 pages, 1438944 bytes).
-
-PDF statistics: 802 PDF objects out of 1000 (max. 8388607)
- 686 compressed objects within 7 object streams
- 179 named destinations out of 1000 (max. 131072)
- 272 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+<Bilder/Geschäftsprozessoptimierung_Massnahmen.png, id=247, 526.96875pt x 747.79375pt>
+File: Bilder/Geschäftsprozessoptimierung_Massnahmen

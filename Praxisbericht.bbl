@@ -615,7 +615,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2024}
-    \field{extradate}{7}
+    \field{extradate}{8}
     \field{labeldatesource}{}
     \field{abstract}{%
     Versetzen Sie Beschaffungs- und Commodity-Management-Teams in die Lage, für Direktmaterialien mit hohem Wert entsprechende Beschaffungsverträge mit SAP-Software für die Produktbeschaffung abzuschließen.%
@@ -651,7 +651,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2024}
-    \field{extradate}{8}
+    \field{extradate}{9}
     \field{labeldatesource}{}
     \field{abstract}{%
     Accelerate product development and reduce costs by enabling collaborative innovation with the SAP Product Lifecycle Management solution.%
@@ -893,6 +893,63 @@
     \endverb
     \field{year}{2024}
     \field{urlday}{02}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_fiori_make_mass_changes_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{7}
+    \field{labeldatesource}{}
+    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Mass} {Changes} to {Central} {Purchase} {Contracts}}
+    \verb{url}
+    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
+    \verb etail/Apps('F3792')/S28OP
+    \endverb
+    \verb{file}
+    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/3J4YK9
+    \verb 64/externalViewer.html:text/html
+    \endverb
+    \field{journaltitle}{SAP Fiori Apps Reference Library}
+    \field{year}{2024}
+    \field{urlday}{11}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_fiori_monitor_mass_changes_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Monitor} {Mass} {Changes} - {Central} {Purchase} {Contracts}}
+    \verb{url}
+    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
+    \verb etail/Apps('F4400')/S28OP
+    \endverb
+    \verb{file}
+    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/R8SHTG
+    \verb B5/externalViewer.html:text/html
+    \endverb
+    \field{journaltitle}{SAP Fiori Apps Reference Library}
+    \field{urlday}{11}
     \field{urlmonth}{07}
     \field{urlyear}{2024}
   \endentry
