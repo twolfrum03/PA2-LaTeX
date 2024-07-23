@@ -615,7 +615,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2024}
-    \field{extradate}{8}
+    \field{extradate}{9}
     \field{labeldatesource}{}
     \field{abstract}{%
     Versetzen Sie Beschaffungs- und Commodity-Management-Teams in die Lage, für Direktmaterialien mit hohem Wert entsprechende Beschaffungsverträge mit SAP-Software für die Produktbeschaffung abzuschließen.%
@@ -651,7 +651,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2024}
-    \field{extradate}{9}
+    \field{extradate}{10}
     \field{labeldatesource}{}
     \field{abstract}{%
     Accelerate product development and reduce costs by enabling collaborative innovation with the SAP Product Lifecycle Management solution.%
@@ -909,7 +909,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2024}
-    \field{extradate}{7}
+    \field{extradate}{8}
     \field{labeldatesource}{}
     \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Mass} {Changes} to {Central} {Purchase} {Contracts}}
     \verb{url}
@@ -990,6 +990,72 @@
     \field{year}{2017}
     \field{urlday}{07}
     \field{urlmonth}{08}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{praxis_sap_fiori_allgemein_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{7}
+    \field{labeldatesource}{}
+    \field{abstract}{%
+    Personalize and simplify the user experience (UX) for your SAP applications – on any device – with SAP Fiori.%
+    }
+    \field{title}{{SAP} {Fiori} {\textbar} {User} {Experience} and {Apps}}
+    \verb{url}
+    \verb https://www.sap.com/products/technology-platform/fiori.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/XJSBXBUE/fiori.html:text/html
+    \endverb
+    \field{type}{Company {Website}}
+    \field{journaltitle}{SAP}
+    \field{year}{2024}
+    \field{urlday}{23}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{praxis_sap_wizard_floorplan_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en-US}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{11}
+    \field{labeldatesource}{}
+    \field{title}{Wizard {Floorplan} {\textbar} {SAP} {Fiori} for {Web} {Design} {Guidelines}}
+    \verb{url}
+    \verb https://experience.sap.com/fiori-design-web/wizard/
+    \endverb
+    \verb{file}
+    \verb Snapshot:/Users/I570199/Zotero/storage/TKWH3IZ4/wizard.html:text/html
+    \endverb
+    \field{type}{Company {Website}}
+    \field{year}{2024}
+    \field{urlday}{23}
+    \field{urlmonth}{07}
     \field{urlyear}{2024}
   \endentry
 \enddatalist

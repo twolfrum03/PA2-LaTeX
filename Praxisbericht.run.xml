@@ -44,15 +44,14 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Praxisbericht.aux</file>
-      <file>Praxisbericht-blx.bib</file>
+      <file>praxisbericht.aux</file>
+      <file>praxisbericht-blx.bib</file>
     </provides>
     <requires type="dynamic">
-      <file>Praxisbericht.bbl</file>
+      <file>praxisbericht.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
-      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
@@ -69,20 +68,20 @@
     <cmdline>
       <binary>bibtex</binary>
       <option>-min-crossrefs 2</option>
-      <infile>Praxisbericht</infile>
+      <infile>praxisbericht</infile>
     </cmdline>
     <input>
-      <file>Praxisbericht.aux</file>
+      <file>praxisbericht.aux</file>
     </input>
     <output>
-      <file>Praxisbericht.bbl</file>
+      <file>praxisbericht.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Praxisbericht.bbl</file>
+      <file>praxisbericht.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Praxisbericht.aux</file>
-      <file>Praxisbericht-blx.bib</file>
+      <file>praxisbericht.aux</file>
+      <file>praxisbericht-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>Inhalt/literatur.bib</file>
