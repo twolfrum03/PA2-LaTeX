@@ -28,17 +28,17 @@
 \contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{26}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{26}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{26}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{27}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{28}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung}{28}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Fazit}{28}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{28}{section.5.3}%
-\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{28}{section.5.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{29}{chapter*.36}%
-\contentsline {chapter}{\numberline {A}Anhang}{33}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Prozesseübersicht Unternehmensebene}{33}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{34}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{35}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{36}{section.A.4}%
+\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{34}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung}{35}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fazit}{35}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{35}{section.5.3}%
+\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{35}{section.5.4}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{36}{chapter*.43}%
+\contentsline {chapter}{\numberline {A}Anhang}{40}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Prozesseübersicht Unternehmensebene}{40}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{41}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{42}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{43}{section.A.4}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -6,22 +6,85 @@
 
 \section{Lösung 1: Anpassung des Standards}
 
--> Abbildung des Prozesses im System bei Beschränkung auf Anpassung des Standards innerhalb der Customizing Grenzen
+
 
 \section{Lösung 2: Entwicklung einer kundenspezifischen Lösung}
 
-Die zweite Möglichkeit die Kundenanforderungen umzusetzen ist die Entwicklung einer kundenspezifischen Lösung. Allgemein bietet sich im konkreten Fall die Entwicklung einer Fiori-App an, über die die Daten im System gepflegt werden können. SAP Fiori ist ein Framework für die Entwicklung und Bereitstellung von SAP-Apps. Durch ein einheitliches und rollenbasiertes Layout entsteht eine intuitiv bedienbare und konsistente Benutzeroberfläche. Da Fiori Apps responsive sind, können diese auf verschiedenen Endgeräten genutzt werden, um die Produktivität der Nutzer zu steigern. Insgesamt soll Fiori die UX von SAP-Anwendungen, vor allem für unerfahrenere Nutzer, verbessern.\footcite[Vgl.][]{praxis_sap_fiori_allgemein_2024} Fiori bietet mehrere Vorlagen an, die als Basis für die Entwicklung einer App genutzt werden können. Für den betrachteten Prozess bietet sich der ''Wizard-Floorplan'' an, da dieser eine schrittweise Benutzerführung durch mehrstufige Prozesse bietet. So können komplexe Aufgaben in kleinere Schritte unterteilt werden zwischen denen der Benutzer navigieren kann und bei denen er bei Bedarf Hilfestellungen und Fehlermeldungen erhält. So soll die UX gesteigert und die Fehlerquote gesenkt werden \parencite[Vgl.][]{praxis_sap_wizard_floorplan_2024}. Im Folgenden soll dieser Floorplan anhand des ersten Prozessschrittes exemplarisch beschrieben werden.
+Die zweite Möglichkeit die Kundenanforderungen umzusetzen ist die Entwicklung einer kundenspezifischen Lösung. Allgemein bietet sich im konkreten Fall die Entwicklung einer Fiori-App an, über die die Daten im System gepflegt werden können. SAP Fiori ist ein Framework für die Entwicklung und Bereitstellung von SAP-Apps. Durch ein einheitliches und rollenbasiertes Layout entsteht eine intuitiv bedienbare und konsistente Benutzeroberfläche. Da Fiori Apps responsive sind, können diese auf verschiedenen Endgeräten genutzt werden, um die Produktivität der Nutzer zu steigern. Insgesamt soll Fiori die UX von SAP-Anwendungen, vor allem für unerfahrenere Nutzer, verbessern.\footcite[Vgl.][]{praxis_sap_fiori_allgemein_2024} Fiori bietet mehrere Vorlagen an, die als Basis für die Entwicklung einer App genutzt werden können. Für den betrachteten Prozess bietet sich der ''Wizard-Floorplan'' an, da dieser eine schrittweise Benutzerführung durch mehrstufige Prozesse bietet. So können komplexe Aufgaben in kleinere Schritte unterteilt werden zwischen denen der Benutzer navigieren kann und bei denen er bei Bedarf Hilfestellungen und Fehlermeldungen erhält. So soll die UX gesteigert und die Fehlerquote gesenkt werden \parencite[Vgl.][]{praxis_sap_wizard_floorplan_2024}.
+
+Im Folgenden soll der Aufbau dieses Floorplans anhand des ersten Prozessschrittes exemplarisch beschrieben werden.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[height=4.76cm]{Bilder/Praxisteil-KL-Schritt-1.png}
+    \includegraphics[height=7.37cm]{Bilder/Praxisteil-KL-Schritt-1.png}
     \caption[Massenbearbeitung Central Contracts, Auswahl des Zeitintervalls]{Massenbearbeitung Central Contracts, Auswahl des Zeitintervalls. Eigene Darstellung}
-    \label{fig:Central_Contract_Process3}
+    \label{fig:PraxisKLSchritt1}
 \end{figure}
 
-asd123456789
+In Abbildung \ref{fig:PraxisKLSchritt1} ist der erste Schritt des Prozesses dargestellt. In der links oben befindet sich die Fiori Navigation, über die man auf die Überssichtsseite aller Fiori Apps gelangen oder andere Apps öffnen kann. Zudem befinden sich rechts oben das Benutzerprofil, Benachrichtigungen und ein KI-Sprachassistent. Unter dem Titel der App befindet sich eine Übersicht über die Abfolge der Prozessschritte mit einer Anzeige über den jeweiligen Fortschritt des Prozesses. Darunter beginnt der eigentliche Inhalt der App. Dieser unterscheidet sich in jeder Phase. In der Abbildung kann der Benutzer ein Zeitintervall mithilfe eines Auswahlfeldes eingeben. In diesem Zeitintervall werden alle folgenden Änderungen vorgenommen. Sollte sich das gewählte Intervall über mehrere Instanzen des Basispreises erstrecken erscheint eine Warnung, da bei Fortfahren einzelne Intervalle nicht nur verkürzt, sondern vollständig überschrieben werden. Sollte kein oder ein ungültiges Zeitintervall ausgewählt werden, erscheint eine Fehlermeldung, und der Prozess kann nicht fortgesetzt werden, bis ein gültiger Zeitraum ausgewählt wurde. Nachdem der Einkäufer einen Zeitraum durch Klicken auf den Kalender ausgewählt hat, gelangt man durch den Button ''Weiter'' zum nächsten Schritt. Alternativ kann der Benutzer den Prozess durch den Knopf ''Abbruch'' abbrechen oder durch den Button ''Zurück'' einen Schritt zurückgehen.\footnote{Der Button ist auf Abbildung \ref{fig:PraxisKLSchritt1} nicht vorhanden, da es sich um den ersten Schritt handelt. In den folgenden Schritten ist dieser in der Leiste unten links zu sehen}
 
-%-> Entwicklung einer Fiori-App, über die durch API's die Daten nach der Vorstellung des Kunden im System gepflegt werden können, diese Lösung hätte aber einen enorm hohen Aufwand
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=7.66cm]{Bilder/Praxisteil-KL-Schritt-2.png}
+    \caption[Massenbearbeitung Central Contracts, Auswahl der Zentralkontrakte]{Massenbearbeitung Central Contracts, Auswahl der Zentralkontrakte. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt2}
+\end{figure}
+
+Abbildung \ref{fig:PraxisKLSchritt2} zeigt den zweiten Schritt des Prozesses. Hier kann der Benutzer die Zentralkontrakte auswählen, die er bearbeiten möchte. Dazu stehen Filter-, Such- und Sortierfunktionen zur Verfügung. Jedoch sind für den Facheinkäufer nur die Central Contracts sichtbar, die aufgrund der jeweiligen Rolle in dessen Verantwortungsbereich liegen. Durch Klicken auf die Checkboxen werden die Kontrakte selektiert. Zur Identifikation der zu ändernden Kontrakte wurden durch die Facheinkäufer wichtige Attribute identifiziert, die in der Tabelle abgebildet sind. Diese wird über eine Schnittstelle zum Zentralkontrakt befüllt. Auf einige Attribute soll nachfolgend genauer eingegangen werden. Die Kontrakt-/ Positionsnummer ist die eindeutige ID eines Zentralkontrakts. Deren letzter Teil ist immer 0001, da BMW immer für jede Position einen eigenen Kontrakt anlegt. Der Auslieferungsstandort kann sich von dem Werk, in dem die Teile verbaut werden, unterscheiden, wenn BMW ein Versorgungskonzept einsetzt.\footnote{Dies ist gekennzeichnet durch ''(LDL)'' (Logistik Dienstleister) hinter einem Wert in der Spalte Versorgungskonzept.} Letzteres ist eine Kostensparmaßnahme, da BMW die Bauteile vom Lieferanten an den nächstgelegenen Standort liefern lässt und von dort aus selbst logistisch an die Werke verteilt. Der Kunde gruppiert verschiedene Bauteile in Warengruppen, \zB Reifen, oder Karosserie. Diese Bauteile werden im System durch Sachnummern abgebildet und identifizieren ein Bauteil, von der Entwicklung über seinen gesamten Lebenszyklus hinweg. Die Vergabe entspricht dem Sourcing Projekt aus dem ein Central Contract aus dem Product Sourcing System heraus erzeugt wird. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=7.65cm]{Bilder/Praxisteil-KL-Schritt-3.png}
+    \caption[Massenbearbeitung Central Contracts, Auswahl der zu bearbeitenden Kategorien]{Massenbearbeitung Central Contracts, Auswahl der zu bearbeitenden Kategorien. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt3}
+\end{figure}
+
+Der letzte Schritt der Vorauswahl wird in Abbildung \ref{fig:PraxisKLSchritt3} dargestellt. Hier kann der Facheinkäufer durch selektieren der Checkboxen auswählen, welche der fünf Kategorien der Zentralkontrakte er bearbeiten möchte. Sollte eine Kategorie nicht selektiert sein, wird der zugehörige Prozessschritt in der App ausgeblendet. In die Inputfelder neben den Kategorien kann der Endanwender einzelne Rohstoffe oder Konditionen, wie \zB Alluminium oder einen Verpackungszuschlag mittels deren ID eingeben. Durch diese Funktionalität können neue Konditionen oder Rohstoffe hinzugefügt werden, die in den Verträgen akutell nicht vorhanden sind. Letztere werden den Tabellen im nächsten Schritt mit leeren Einträgen hinzugefügt. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=6.99cm]{Bilder/Praxisteil-KL-Schritt-4.png}
+    \caption[Massenbearbeitung Central Contracts, Bearbeitung des Basispreises]{Massenbearbeitung Central Contracts, Bearbeitung des Basispreises. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt4}
+\end{figure}
+
+In Abbildung \ref{fig:PraxisKLSchritt4} beginnt mit dem vierten Prozessschritt die Bearbeitungsphase mit dem Basispreis. Die Felder zur Identifikation der einzelnen Kontrakte wurden aus Übersichtlichkeitsgründen reduziert. Die jeweiligen Eingabefelder sind mit den im ausgewählten Zeitintervall gültigen Werten vorbefüllt. Sollten im gewählten Zeitintervall keine Werte vorhanden sein wären diese Felder leer. Wenn das gewählte Zeitintervall mehrere Instanzen des Basispreises mit verschiedenen Werten enthält, wird der Wert, der zu Beginn des gewählten Zeitraums gültig war, in das Feld eingetragen. Diese Logik gilt für alle weiteren anzupassenden Kategorien gleicherma\ss en. Sollte ein Vertrag werksabhängige Basispreise für verschiedene Lokationen haben, werden diese in der Tabelle in mehreren Zeilen untereinander aufgelistet. Die PME (Stückzahl, Messgrö\ss e) ist in zwei Eingabefelder aufgeteilt, um die Dateneingabe und -verarbeitung zu erleichtern. Falls ein Anwender die Dateneingabe in Excel präferiert, ist dies durch den Excel Up- und Download möglich. Es kann im Gegensatz zur Standardfunktionalität jedoch keine Datei für alle Kategorien heruntergeladen werden, sondern lediglich eine Datei pro Kategorie, die schematisch der in Abbildung \ref{fig:PraxisKLSchritt4} dargestellten Tabelle entspricht. Diese kann mit den aktuellen Werten befüllt heruntergeladen, angepasst und wieder hochgeladen werden. Somit kann die Fehlerbehandlung immernoch durch die App erfolgen, da eventuelle Falscheingabe farblich und mit einer Benachrichtigung hervorgehoben werden.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=7.78cm]{Bilder/Praxisteil-KL-Schritt-5.png}
+    \caption[Massenbearbeitung Central Contracts, Bearbeitung der Zu- und Abschläge]{Massenbearbeitung Central Contracts, Bearbeitung der Zu- und Abschläge. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt5}
+\end{figure}
+
+Nachdem der Basispreis bearbeitet wurde, ist der nächste Schritt in Abbildung \ref{fig:PraxisKLSchritt5} die Bearbeitung der Zu- und Abschläge. Diese werden in der Tabelle in Spalten dargestellt, die sich in die je relevanten Felder unterteilen. Im konkreten Beispiel handelt es sich um einen Frachtzuschlag, der je nach Vertrag und Werksabhängigkeit andere Werte annehmen kann.\footnote{Aus Darstellungsgründen wurde auf die Darstellung mehrerer Zuschläge verzichtet. Diese würden analog zu ''FRA1'' rechts an die Tabelle ''angehängt'' werden. Selbiges gilt für die nächsten Kateogrien, die im Folgenden vorgestellt werden.} Im Unterschied zum Basispreis existiert das Feld PME nicht, da sich diese Konditionsart immer auf den gesamten Basispreis und nicht auf eine bestimmte Mengeneinheit bezieht. Des Weiteren kann ein Zu- bzw. Abschlag auch in Prozent auf den Basispreis angegeben werden. Das Feld ''Betrag'' wird automatisch in Abhängigkeit davon, ob ein Währungscode oder ''\%'' angegeben wurde interpretiert, sodass keine Umrechnung in verschiedene Dezimalstellen notwendig ist. Beispielsweise kann der Einkäufer einen Frachtzuschlag von 0,5\% als ''0,5'' eingeben und muss diesen nicht als ''0,005'' eingeben.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=7.78cm]{Bilder/Praxisteil-KL-Schritt-6.png}
+    \caption[Massenbearbeitung Central Contracts, Bearbeitung der Fremdwährungen]{Massenbearbeitung Central Contracts, Bearbeitung der Fremdwährungen. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt6}
+\end{figure}
+
+Die nächste Konditionsart sind Fremdwährungen, die in Abbildung \ref{fig:PraxisKLSchritt6} dargestellt sind. Diese sind im Bezug auf die benötigten Felder analog zu den Zu- und Abschlägen aufgebaut. Der Unterschied besteht lediglich darin, dass der Zweck spezialisiert ist, um internationale Währungsdifferenzen zu berücksichtigen.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=6.91cm]{Bilder/Praxisteil-KL-Schritt-7.png}
+    \caption[Massenbearbeitung Central Contracts, Bearbeitung der marktorientierten Rohstoffe]{Massenbearbeitung Central Contracts, Bearbeitung der marktorientierten Rohstoffe. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt7}
+\end{figure}
+
+Die letzten beiden Kategorien, die der Endanwender bearbeiten kann, sind Rohstoffe. In Abbildung \ref{fig:PraxisKLSchritt7} ist die Maske für marktorientierte Rohstoffe dargestellt. Da die Notationen der RMO vom organisierten Markt vorgegeben werden, sind diese als normale Textfelder angelegt und somit nicht durch den Anwender veränderbar. Letztere ist zudem in zwei Felder aufgegliedert, da der Preis sich immer auf eine bestimmte Menge des Rohstoffs bezieht. Um die gesamte preisliche Auswirkung auf den Basispreis zu erfassen, ist zudem noch die Menge des Rohstoffs, die für ein Bauteil benötigt wird, zu erfassen. Abhängig von der Art des Bauteils kann diese Menge in verschiedenen Einheiten angegeben werden. Beispielsweise wäre in einem Karrosseriebauteil wesentlich mehr Alluminium enthalten, als in einem Computerchip Silizium enthalten ist. Die eingegebenen Daten werden noch mit der Beteiligungsquote multipliziert, um den tatsächlichen Rohstoffpreis in einem Bauteil zu berechnen. Sie gibt an, zu welchem Anteil BMW sich an dem Rohstoff-Preisbestandteil beteiligt und ist somit wichtig, um Preisschwankungen abzufedern.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[height=6.91cm]{Bilder/Praxisteil-KL-Schritt-8.png}
+    \caption[Massenbearbeitung Central Contracts, Bearbeitung der Rohstoffe mit freier Notierung]{Massenbearbeitung Central Contracts, Bearbeitung der Rohstoffe mit freier Notierung. Eigene Darstellung}
+    \label{fig:PraxisKLSchritt8}
+\end{figure}
+
+Der letzte Prozessschritt ist die Bearbeitung der Rohstoffe mit freier Notierung. Diese sind in Abbildung \ref{fig:PraxisKLSchritt8} dargestellt und ebenfalls ähnlich zu den RMO aufgebaut. Der Unterschied besteht darin, dass die Preise nicht vorgegeben werden, sondern vom Facheinkäufer selbst gepflegt werden können. Aus diesem Grund ist die Notation als Inputfeld angelegt.
 
 \section{Evaluation der verschiedenen Lösungsansätze}
 
