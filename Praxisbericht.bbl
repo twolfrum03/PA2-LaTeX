@@ -897,63 +897,6 @@
     \field{urlyear}{2024}
   \endentry
 
-  \entry{theorie_sap_fiori_make_mass_changes_2024}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={{SAP SE}},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2024}
-    \field{extradate}{8}
-    \field{labeldatesource}{}
-    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Mass} {Changes} to {Central} {Purchase} {Contracts}}
-    \verb{url}
-    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
-    \verb etail/Apps('F3792')/S28OP
-    \endverb
-    \verb{file}
-    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/3J4YK9
-    \verb 64/externalViewer.html:text/html
-    \endverb
-    \field{journaltitle}{SAP Fiori Apps Reference Library}
-    \field{year}{2024}
-    \field{urlday}{11}
-    \field{urlmonth}{07}
-    \field{urlyear}{2024}
-  \endentry
-
-  \entry{theorie_sap_fiori_monitor_mass_changes_2024}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={{SAP SE}},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
-    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Monitor} {Mass} {Changes} - {Central} {Purchase} {Contracts}}
-    \verb{url}
-    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
-    \verb etail/Apps('F4400')/S28OP
-    \endverb
-    \verb{file}
-    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/R8SHTG
-    \verb B5/externalViewer.html:text/html
-    \endverb
-    \field{journaltitle}{SAP Fiori Apps Reference Library}
-    \field{urlday}{11}
-    \field{urlmonth}{07}
-    \field{urlyear}{2024}
-  \endentry
-
   \entry{praxis_jain_source_pay_definition_2017}{misc}{}
     \name{author}{2}{}{%
       {{hash=JK}{%
@@ -1024,6 +967,63 @@
     \field{journaltitle}{SAP}
     \field{year}{2024}
     \field{urlday}{23}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_fiori_make_mass_changes_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{extradate}{8}
+    \field{labeldatesource}{}
+    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Mass} {Changes} to {Central} {Purchase} {Contracts}}
+    \verb{url}
+    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
+    \verb etail/Apps('F3792')/S28OP
+    \endverb
+    \verb{file}
+    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/3J4YK9
+    \verb 64/externalViewer.html:text/html
+    \endverb
+    \field{journaltitle}{SAP Fiori Apps Reference Library}
+    \field{year}{2024}
+    \field{urlday}{11}
+    \field{urlmonth}{07}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{theorie_sap_fiori_monitor_mass_changes_2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SAP SE}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{title}{{SAP} {Fiori} {Apps} {Reference} {Library} - {Monitor} {Mass} {Changes} - {Central} {Purchase} {Contracts}}
+    \verb{url}
+    \verb https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/d
+    \verb etail/Apps('F4400')/S28OP
+    \endverb
+    \verb{file}
+    \verb SAP Fiori Apps Reference Library:/Users/I570199/Zotero/storage/R8SHTG
+    \verb B5/externalViewer.html:text/html
+    \endverb
+    \field{journaltitle}{SAP Fiori Apps Reference Library}
+    \field{urlday}{11}
     \field{urlmonth}{07}
     \field{urlyear}{2024}
   \endentry

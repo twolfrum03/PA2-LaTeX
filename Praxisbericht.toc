@@ -27,18 +27,29 @@
 \contentsline {section}{\numberline {3.4}Soll-Konzeption}{23}{section.3.4}%
 \contentsline {chapter}{\numberline {4}Umsetzung und Evaluation des optimierten Prozesses}{26}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Lösung 1: Anpassung des Standards}{26}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{26}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{34}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung}{35}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Fazit}{35}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{35}{section.5.3}%
-\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{35}{section.5.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{36}{chapter*.43}%
-\contentsline {chapter}{\numberline {A}Anhang}{40}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Prozesseübersicht Unternehmensebene}{40}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{41}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{42}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{43}{section.A.4}%
+\contentsline {subsubsection}{\nonumberline Grundlegendes}{26}{subsubsection*.37}%
+\contentsline {subsubsection}{\nonumberline Aufbau der App}{26}{subsubsection*.39}%
+\contentsline {subsubsection}{\nonumberline Massenbearbeitung in Excel}{28}{subsubsection*.42}%
+\contentsline {section}{\numberline {4.2}Lösung 2: Entwicklung einer kundenspezifischen Lösung}{29}{section.4.2}%
+\contentsline {subsubsection}{\nonumberline Auswahl des Zeitintervalls}{29}{subsubsection*.45}%
+\contentsline {subsubsection}{\nonumberline Auswahl der Zentralkontrakte}{30}{subsubsection*.48}%
+\contentsline {subsubsection}{\nonumberline Auswahl des Umfangs der Massenbearbeitung}{32}{subsubsection*.51}%
+\contentsline {subsubsection}{\nonumberline Bearbeitung des Basispreises}{33}{subsubsection*.54}%
+\contentsline {subsubsection}{\nonumberline Bearbeitung der Zu- und Abschläge}{34}{subsubsection*.57}%
+\contentsline {subsubsection}{\nonumberline Bearbeitung der Fremdwährungen}{35}{subsubsection*.60}%
+\contentsline {subsubsection}{\nonumberline Bearbeitung der marktorientierten Rohstoffe}{36}{subsubsection*.63}%
+\contentsline {subsubsection}{\nonumberline Bearbeitung der Rohstoffe mit freier Notierung}{37}{subsubsection*.66}%
+\contentsline {section}{\numberline {4.3}Evaluation der verschiedenen Lösungsansätze}{37}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{38}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung}{38}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fazit}{38}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{38}{section.5.3}%
+\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{38}{section.5.4}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{39}{chapter*.68}%
+\contentsline {chapter}{\numberline {A}Anhang}{43}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Prozesseübersicht Unternehmensebene}{43}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{44}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{45}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{46}{section.A.4}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
