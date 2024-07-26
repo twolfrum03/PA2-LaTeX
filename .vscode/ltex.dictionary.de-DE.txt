@@ -50,3 +50,6 @@ Contract
 Commodity
 Price
 Renegotiation
+Gültigkeiten
+Übersichtlichkeitsgründen
+werksabhängige
