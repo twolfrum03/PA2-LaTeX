@@ -5,7 +5,7 @@
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation und Problemstellung}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Ziel der Arbeit}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Thematische Abgrenzung}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Thematische Abgrenzung}{1}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Methodisches Vorgehen}{2}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Geschäftsprozessanalyse und -optimierung}{3}{section.2.1}%
@@ -49,14 +49,13 @@
 \contentsline {subsubsection}{\nonumberline Gesamtbewertung}{44}{subsubsection*.85}%
 \contentsline {chapter}{\numberline {5}Schlussbetrachtungen}{45}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Zusammenfassung}{45}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Fazit}{45}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Handlungsempfehlung}{45}{section.5.3}%
-\contentsline {section}{\numberline {5.4}kritische Reflexion und Ausblick}{45}{section.5.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{46}{chapter*.86}%
-\contentsline {chapter}{\numberline {A}Anhang}{50}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Prozesseübersicht Unternehmensebene}{50}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{51}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{52}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{53}{section.A.4}%
+\contentsline {section}{\numberline {5.2}Fazit und Handlungsempfehlung}{46}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Kritische Reflexion und Ausblick}{46}{section.5.3}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{48}{chapter*.86}%
+\contentsline {chapter}{\numberline {A}Anhang}{52}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Prozessübersicht Unternehmensebene}{52}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Prozessübersicht Source-to-Pay}{53}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Prozessübersicht Einkauf direktes Material}{54}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Transkript Expterteninterview Anforderungen an neuen Prozess}{55}{section.A.4}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
